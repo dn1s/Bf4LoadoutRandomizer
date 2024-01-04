@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <h1 style="text-align:center;">Bf4LoadoutRandomizer 1.0.0</h1>
+    </head>
+    <body>
+        <h2 style="text-align:center;">Class: {{ bf_class }}</h2>
+        <h2 style="text-align:center;">Weapon: {{ primary_weapon }}
+        <h3 style="text-align:center;">Attachments:</h3>
+            {% for attachment in primary_weapon_attachments %}
+            <div style="text-align:center;">{{ attachment }}</div>
+            {% endfor %}
+    <h2 style="text-align:center;">Handgun: {{secondary_weapon}}
+        <h3 style="text-align:center;">Attachments:</h3>
+            {% for attachment in secondary_weapon_attachments %}
+            <div style="text-align:center;">{{ attachment }}</div>
+            {% endfor %}
+    <h2 style="text-align:center;">Granade: {{granade}}</h2>
+    <h2 style="text-align:center;">Gadget: {{gadget}}</h2>
+    </body>
+</html>

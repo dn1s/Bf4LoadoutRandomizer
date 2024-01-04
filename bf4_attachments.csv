@@ -1,0 +1,3409 @@
+Class,Weapon,Attachment,Attachment Type,Unlock
+Assault,AK 12,Iron Sights,Optic,Default
+Assault,AK 12,Kobra (RDS),Optic,Default
+Assault,AK 12,Laser Sight,Accessory,Default
+Assault,AK 12,UGL Rail,Underbarrel,Default
+Assault,AK 12,ERGO Grip,Underbarrel,Default
+Assault,AK 12,Muzzle Brake,Barrel,10 Kills
+Assault,AK 12,PSO-1 (4X),Optic,20 Kills
+Assault,AK 12,Canted Iron Sights,Accessory,30 Kills
+Assault,AK 12,Angled Grip,Underbarrel,40 Kills
+Assault,AK 12,Heavy Barrel,Barrel,50 Kills
+Assault,AK 12,PK-A (3.4X),Optic,60 Kills
+Assault,AK 12,Flash Light,Accessory,70 Kills
+Assault,AK 12,Bipod,Underbarrel,80 Kills
+Assault,AK 12,Compensator,Barrel,90 Kills
+Assault,AK 12,PKA-S (1X),Optic,100 Kills
+Assault,AK 12,Magnifier (2X),Accessory,110 Kills
+Assault,AK 12,Stubby Grip,Underbarrel,120 Kills
+Assault,AK 12,PBS-4 Suppressor,Barrel,130 Kills
+Assault,AK 12,LS06 Suppressor,Barrel,BattlePack
+Assault,AK 12,R2 Suppressor,Barrel,BattlePack
+Assault,AK 12,ACOG (4X),Optic,BattlePack
+Assault,AK 12,FLIR (IR 2X),Optic,BattlePack
+Assault,AK 12,PRISMA (3.4X),Optic,BattlePack
+Assault,AK 12,JGM-4 (4X),Optic,BattlePack
+Assault,AK 12,Coyote (RDS),Optic,BattlePack
+Assault,AK 12,Holo (1X),Optic,BattlePack
+Assault,AK 12,Flash Hider,Barrel,BattlePack
+Assault,AK 12,Folding Grip,Underbarrel,BattlePack
+Assault,AK 12,Potato Grip,Underbarrel,BattlePack
+Assault,AK 12,Vertical Grip,Underbarrel,BattlePack
+Assault,AK 12,Green Laser Sight,Optic,BattlePack
+Assault,AK 12,IRNV (IR 1X),Optic,BattlePack
+Assault,AK 12,M145 (3.4X),Optic,BattlePack
+Assault,AK 12,Laser/Light Combo,Accessory,BattlePack
+Assault,AK 12,Reflex (RDS),Optic,BattlePack
+Assault,AK 12,Suppressor,Barrel,BattlePack
+Assault,AK 12,Tactical Light,Accessory,BattlePack
+Assault,AK 12,Tri Beam Laser,Accessory,BattlePack
+Assault,AK 12,HD-33 (1X),Optic,BattlePack
+Assault,SCAR - H,Iron Sights,Optic,Default
+Assault,SCAR - H,Underslung Rail,Underbarrel,Default
+Assault,SCAR - H,Reflex (RDS),Optic,10 Kills
+Assault,SCAR - H,Laser Sight,Accessory,20 Kills
+Assault,SCAR - H,ERGO Grip,Underbarrel,30 Kills
+Assault,SCAR - H,Muzzle Brake,Barrel,40 Kills
+Assault,SCAR - H,ACOG (4X),Optic,50 Kills
+Assault,SCAR - H,Canted Iron Sights,Accessory,60 Kills
+Assault,SCAR - H,Angled Grip,Underbarrel,70 Kills
+Assault,SCAR - H,Heavy Barrel,Barrel,80 Kills
+Assault,SCAR - H,M145 (3.4X),Optic,70 Kills
+Assault,SCAR - H,Flash Light,Accessory,100 Kills
+Assault,SCAR - H,Bipod,Underbarrel,110 Kills
+Assault,SCAR - H,Compensator,Barrel,120 Kills
+Assault,SCAR - H,Holo (1X),Optic,130 Kills
+Assault,SCAR - H,Magnifier (2X),Accessory,140 Kills
+Assault,SCAR - H,Stubby Grip,Underbarrel,150 Kills
+Assault,SCAR - H,Suppressor,Barrel,160 Kills
+Assault,SCAR - H,FLIR (IR 2X),Optic,BattlePack
+Assault,SCAR - H,PRISMA (3.4X),Optic,BattlePack
+Assault,SCAR - H,JGM-4 (4X),Optic,BattlePack
+Assault,SCAR - H,Coyote (RDS),Optic,BattlePack
+Assault,SCAR - H,Flash Hider,Barrel,BattlePack
+Assault,SCAR - H,Folding Grip,Underbarrel,BattlePack
+Assault,SCAR - H,Potato Grip,Underbarrel,BattlePack
+Assault,SCAR - H,Vertical Grip,Underbarrel,BattlePack
+Assault,SCAR - H,Green Laser Sight,Optic,BattlePack
+Assault,SCAR - H,IRNV (IR 1X),Optic,BattlePack
+Assault,SCAR - H,Kobra (RDS),Optic,BattlePack
+Assault,SCAR - H,LS06 Suppressor,Barrel,BattlePack
+Assault,SCAR - H,PBS-4 Suppressor,Barrel,BattlePack
+Assault,SCAR - H,Laser/Light Combo,Accessory,BattlePack
+Assault,SCAR - H,PKA-S (1X),Optic,BattlePack
+Assault,SCAR - H,PK-A (3.4X),Optic,BattlePack
+Assault,SCAR - H,PSO-1 (4X),Optic,BattlePack
+Assault,SCAR - H,R2 Suppressor,Barrel,BattlePack
+Assault,SCAR - H,Tactical Light,Accessory,BattlePack
+Assault,SCAR - H,Tri Beam Laser,Accessory,BattlePack
+Assault,SCAR - H,HD-33 (1X),Optic,BattlePack
+Assault,M416,Iron Sights,Optic,Default
+Assault,M416,Underslung Rail,Underbarrel,Default
+Assault,M416,Reflex (RDS),Optic,10 Kills
+Assault,M416,Laser Sight,Accessory,20 Kills
+Assault,M416,ERGO Grip,Underbarrel,30 Kills
+Assault,M416,Muzzle Brake,Barrel,40 Kills
+Assault,M416,ACOG (4X),Optic,50 Kills
+Assault,M416,Canted Iron Sights,Accessory,60 Kills
+Assault,M416,Angled Grip,Underbarrel,70 Kills
+Assault,M416,Heavy Barrel,Barrel,80 Kills
+Assault,M416,M145 (3.4X),Optic,70 Kills
+Assault,M416,Flash Light,Accessory,100 Kills
+Assault,M416,Bipod,Underbarrel,110 Kills
+Assault,M416,Compensator,Barrel,120 Kills
+Assault,M416,Holo (1X),Optic,130 Kills
+Assault,M416,Magnifier (2X),Accessory,140 Kills
+Assault,M416,Stubby Grip,Underbarrel,150 Kills
+Assault,M416,Suppressor,Barrel,160 Kills
+Assault,M416,FLIR (IR 2X),Optic,BattlePack
+Assault,M416,PRISMA (3.4X),Optic,BattlePack
+Assault,M416,JGM-4 (4X),Optic,BattlePack
+Assault,M416,Coyote (RDS),Optic,BattlePack
+Assault,M416,Flash Hider,Barrel,BattlePack
+Assault,M416,Folding Grip,Underbarrel,BattlePack
+Assault,M416,Potato Grip,Underbarrel,BattlePack
+Assault,M416,Vertical Grip,Underbarrel,BattlePack
+Assault,M416,Green Laser Sight,Optic,BattlePack
+Assault,M416,IRNV (IR 1X),Optic,BattlePack
+Assault,M416,Kobra (RDS),Optic,BattlePack
+Assault,M416,LS06 Suppressor,Barrel,BattlePack
+Assault,M416,PBS-4 Suppressor,Barrel,BattlePack
+Assault,M416,Laser/Light Combo,Accessory,BattlePack
+Assault,M416,PKA-S (1X),Optic,BattlePack
+Assault,M416,PK-A (3.4X),Optic,BattlePack
+Assault,M416,PSO-1 (4X),Optic,BattlePack
+Assault,M416,R2 Suppressor,Barrel,BattlePack
+Assault,M416,Tactical Light,Accessory,BattlePack
+Assault,M416,Tri Beam Laser,Accessory,BattlePack
+Assault,M416,HD-33 (1X),Optic,BattlePack
+Assault,SAR-21,Iron Sights,Optic,Default
+Assault,SAR-21,UGL Rail,Underbarrel,Default
+Assault,SAR-21,Coyote (RDS),Optic,10 Kills
+Assault,SAR-21,Laser Sight,Accessory,20 Kills
+Assault,SAR-21,ERGO Grip,Underbarrel,30 Kills
+Assault,SAR-21,Muzzle Brake,Barrel,40 Kills
+Assault,SAR-21,JGM-4 (4X),Optic,50 Kills
+Assault,SAR-21,Canted Iron Sights,Accessory,60 Kills
+Assault,SAR-21,Angled Grip,Underbarrel,70 Kills
+Assault,SAR-21,Heavy Barrel,Barrel,80 Kills
+Assault,SAR-21,PRISMA (3.4X),Optic,90 Kills
+Assault,SAR-21,Flash Light,Accessory,100 Kills
+Assault,SAR-21,Bipod,Underbarrel,110 Kills
+Assault,SAR-21,Compensator,Barrel,120 Kills
+Assault,SAR-21,HD-33 (1X),Optic,130 Kills
+Assault,SAR-21,Magnifier (2X),Accessory,140 Kills
+Assault,SAR-21,Stubby Grip,Underbarrel,150 Kills
+Assault,SAR-21,LS06 Suppressor,Barrel,160 Kills
+Assault,SAR-21,ACOG (4X),Optic,BattlePack
+Assault,SAR-21,FLIR (IR 2X),Optic,BattlePack
+Assault,SAR-21,Holo (1X),Optic,BattlePack
+Assault,SAR-21,Flash Hider,Barrel,BattlePack
+Assault,SAR-21,Folding Grip,Underbarrel,BattlePack
+Assault,SAR-21,Potato Grip,Underbarrel,BattlePack
+Assault,SAR-21,Vertical Grip,Underbarrel,BattlePack
+Assault,SAR-21,Green Laser Sight,Optic,BattlePack
+Assault,SAR-21,IRNV (IR 1X),Optic,BattlePack
+Assault,SAR-21,Kobra (RDS),Optic,BattlePack
+Assault,SAR-21,M145 (3.4X),Optic,BattlePack
+Assault,SAR-21,PBS-4 Suppressor,Barrel,BattlePack
+Assault,SAR-21,Laser/Light Combo,Accessory,BattlePack
+Assault,SAR-21,PKA-S (1X),Optic,BattlePack
+Assault,SAR-21,PK-A (3.4X),Optic,BattlePack
+Assault,SAR-21,PSO-1 (4X),Optic,BattlePack
+Assault,SAR-21,R2 Suppressor,Barrel,BattlePack
+Assault,SAR-21,Reflex (RDS),Optic,BattlePack
+Assault,SAR-21,Suppressor,Barrel,BattlePack
+Assault,SAR-21,Tactical Light,Accessory,BattlePack
+Assault,SAR-21,Tri Beam Laser,Accessory,BattlePack
+Assault,AEK-971,Iron Sights,Optic,Default
+Assault,AEK-971,UGL Rail,Underbarrel,Default
+Assault,AEK-971,Kobra (RDS),Optic,10 Kills
+Assault,AEK-971,Laser Sight,Accessory,20 Kills
+Assault,AEK-971,ERGO Grip,Underbarrel,30 Kills
+Assault,AEK-971,Muzzle Brake,Barrel,40 Kills
+Assault,AEK-971,PSO-1 (4X),Optic,50 Kills
+Assault,AEK-971,Canted Iron Sights,Accessory,60 Kills
+Assault,AEK-971,Angled Grip,Underbarrel,70 Kills
+Assault,AEK-971,Heavy Barrel,Barrel,80 Kills
+Assault,AEK-971,PK-A (3.4X),Optic,90 Kills
+Assault,AEK-971,Flash Light,Accessory,100 Kills
+Assault,AEK-971,Bipod,Underbarrel,110 Kills
+Assault,AEK-971,Compensator,Barrel,120 Kills
+Assault,AEK-971,PKA-S (1X),Optic,130 Kills
+Assault,AEK-971,Magnifier (2X),Accessory,140 Kills
+Assault,AEK-971,Stubby Grip,Underbarrel,150 Kills
+Assault,AEK-971,PBS-4 Suppressor,Barrel,160 Kills
+Assault,AEK-971,PRISMA (3.4X),Optic,BattlePack
+Assault,AEK-971,JGM-4 (4X),Optic,BattlePack
+Assault,AEK-971,LS06 Suppressor,Barrel,BattlePack
+Assault,AEK-971,Laser/Light Combo,Accessory,BattlePack
+Assault,AEK-971,R2 Suppressor,Barrel,BattlePack
+Assault,AEK-971,ACOG (4X),Optic,BattlePack
+Assault,AEK-971,FLIR (IR 2X),Optic,BattlePack
+Assault,AEK-971,Coyote (RDS),Optic,BattlePack
+Assault,AEK-971,Holo (1X),Optic,BattlePack
+Assault,AEK-971,Flash Hider,Barrel,BattlePack
+Assault,AEK-971,Folding Grip,Underbarrel,BattlePack
+Assault,AEK-971,Potato Grip,Underbarrel,BattlePack
+Assault,AEK-971,Vertical Grip,Underbarrel,BattlePack
+Assault,AEK-971,Green Laser Sight,Optic,BattlePack
+Assault,AEK-971,IRNV (IR 1X),Optic,BattlePack
+Assault,AEK-971,M145 (3.4X),Optic,BattlePack
+Assault,AEK-971,Reflex (RDS),Optic,BattlePack
+Assault,AEK-971,Suppressor,Barrel,BattlePack
+Assault,AEK-971,Tactical Light,Accessory,BattlePack
+Assault,AEK-971,Tri Beam Laser,Accessory,BattlePack
+Assault,AEK-971,HD-33 (1X),Optic,BattlePack
+Assault,FAMAS,Iron Sights,Optic,Default
+Assault,FAMAS,Reflex (RDS),Optic,10 Kills
+Assault,FAMAS,Laser Sight,Accessory,20 Kills
+Assault,FAMAS,ERGO Grip,Underbarrel,30 Kills
+Assault,FAMAS,Muzzle Brake,Barrel,40 Kills
+Assault,FAMAS,ACOG (4X),Optic,50 Kills
+Assault,FAMAS,Canted Iron Sights,Accessory,60 Kills
+Assault,FAMAS,Angled Grip,Underbarrel,70 Kills
+Assault,FAMAS,Heavy Barrel,Barrel,80 Kills
+Assault,FAMAS,M145 (3.4X),Optic,70 Kills
+Assault,FAMAS,Flash Light,Accessory,100 Kills
+Assault,FAMAS,Bipod,Underbarrel,110 Kills
+Assault,FAMAS,Compensator,Barrel,120 Kills
+Assault,FAMAS,Holo (1X),Optic,130 Kills
+Assault,FAMAS,Magnifier (2X),Accessory,140 Kills
+Assault,FAMAS,Stubby Grip,Underbarrel,150 Kills
+Assault,FAMAS,Suppressor,Barrel,160 Kills
+Assault,FAMAS,FLIR (IR 2X),Optic,BattlePack
+Assault,FAMAS,PRISMA (3.4X),Optic,BattlePack
+Assault,FAMAS,JGM-4 (4X),Optic,BattlePack
+Assault,FAMAS,Coyote (RDS),Optic,BattlePack
+Assault,FAMAS,Flash Hider,Barrel,BattlePack
+Assault,FAMAS,Folding Grip,Underbarrel,BattlePack
+Assault,FAMAS,Potato Grip,Underbarrel,BattlePack
+Assault,FAMAS,Vertical Grip,Underbarrel,BattlePack
+Assault,FAMAS,Green Laser Sight,Optic,BattlePack
+Assault,FAMAS,IRNV (IR 1X),Optic,BattlePack
+Assault,FAMAS,Kobra (RDS),Optic,BattlePack
+Assault,FAMAS,LS06 Suppressor,Barrel,BattlePack
+Assault,FAMAS,PBS-4 Suppressor,Barrel,BattlePack
+Assault,FAMAS,Laser/Light Combo,Accessory,BattlePack
+Assault,FAMAS,PKA-S (1X),Optic,BattlePack
+Assault,FAMAS,PK-A (3.4X),Optic,BattlePack
+Assault,FAMAS,PSO-1 (4X),Optic,BattlePack
+Assault,FAMAS,R2 Suppressor,Barrel,BattlePack
+Assault,FAMAS,Tactical Light,Accessory,BattlePack
+Assault,FAMAS,Tri Beam Laser,Accessory,BattlePack
+Assault,FAMAS,HD-33 (1X),Optic,BattlePack
+Assault,AUG A3,Iron Sights,Optic,Default
+Assault,AUG A3,UGL Rail,Underbarrel,Default
+Assault,AUG A3,Reflex (RDS),Optic,10 Kills
+Assault,AUG A3,Laser Sight,Accessory,20 Kills
+Assault,AUG A3,ERGO Grip,Underbarrel,30 Kills
+Assault,AUG A3,Muzzle Brake,Barrel,40 Kills
+Assault,AUG A3,ACOG (4X),Optic,50 Kills
+Assault,AUG A3,Canted Iron Sights,Accessory,60 Kills
+Assault,AUG A3,Angled Grip,Underbarrel,70 Kills
+Assault,AUG A3,Heavy Barrel,Barrel,80 Kills
+Assault,AUG A3,M145 (3.4X),Optic,70 Kills
+Assault,AUG A3,Flash Light,Accessory,100 Kills
+Assault,AUG A3,Bipod,Underbarrel,110 Kills
+Assault,AUG A3,Compensator,Barrel,120 Kills
+Assault,AUG A3,Holo (1X),Optic,130 Kills
+Assault,AUG A3,Magnifier (2X),Accessory,140 Kills
+Assault,AUG A3,Stubby Grip,Underbarrel,150 Kills
+Assault,AUG A3,Suppressor,Barrel,160 Kills
+Assault,AUG A3,FLIR (IR 2X),Optic,BattlePack
+Assault,AUG A3,PRISMA (3.4X),Optic,BattlePack
+Assault,AUG A3,JGM-4 (4X),Optic,BattlePack
+Assault,AUG A3,Coyote (RDS),Optic,BattlePack
+Assault,AUG A3,Flash Hider,Barrel,BattlePack
+Assault,AUG A3,Folding Grip,Underbarrel,BattlePack
+Assault,AUG A3,Potato Grip,Underbarrel,BattlePack
+Assault,AUG A3,Vertical Grip,Underbarrel,BattlePack
+Assault,AUG A3,Green Laser Sight,Optic,BattlePack
+Assault,AUG A3,IRNV (IR 1X),Optic,BattlePack
+Assault,AUG A3,Kobra (RDS),Optic,BattlePack
+Assault,AUG A3,LS06 Suppressor,Barrel,BattlePack
+Assault,AUG A3,PBS-4 Suppressor,Barrel,BattlePack
+Assault,AUG A3,Laser/Light Combo,Accessory,BattlePack
+Assault,AUG A3,PKA-S (1X),Optic,BattlePack
+Assault,AUG A3,PK-A (3.4X),Optic,BattlePack
+Assault,AUG A3,PSO-1 (4X),Optic,BattlePack
+Assault,AUG A3,R2 Suppressor,Barrel,BattlePack
+Assault,AUG A3,Tactical Light,Accessory,BattlePack
+Assault,AUG A3,Tri Beam Laser,Accessory,BattlePack
+Assault,AUG A3,HD-33 (1X),Optic,BattlePack
+Assault,M16A4,Iron Sights,Optic,Default
+Assault,M16A4,Underslung Rail,Underbarrel,Default
+Assault,M16A4,Reflex (RDS),Optic,10 Kills
+Assault,M16A4,Laser Sight,Accessory,20 Kills
+Assault,M16A4,ERGO Grip,Underbarrel,30 Kills
+Assault,M16A4,Muzzle Brake,Barrel,40 Kills
+Assault,M16A4,ACOG (4X),Optic,50 Kills
+Assault,M16A4,Canted Iron Sights,Accessory,60 Kills
+Assault,M16A4,Angled Grip,Underbarrel,70 Kills
+Assault,M16A4,Heavy Barrel,Barrel,80 Kills
+Assault,M16A4,M145 (3.4X),Optic,70 Kills
+Assault,M16A4,Flash Light,Accessory,100 Kills
+Assault,M16A4,Bipod,Underbarrel,110 Kills
+Assault,M16A4,Compensator,Barrel,120 Kills
+Assault,M16A4,Holo (1X),Optic,130 Kills
+Assault,M16A4,Magnifier (2X),Accessory,140 Kills
+Assault,M16A4,Stubby Grip,Underbarrel,150 Kills
+Assault,M16A4,Suppressor,Barrel,160 Kills
+Assault,M16A4,FLIR (IR 2X),Optic,BattlePack
+Assault,M16A4,PRISMA (3.4X),Optic,BattlePack
+Assault,M16A4,JGM-4 (4X),Optic,BattlePack
+Assault,M16A4,Coyote (RDS),Optic,BattlePack
+Assault,M16A4,Flash Hider,Barrel,BattlePack
+Assault,M16A4,Folding Grip,Underbarrel,BattlePack
+Assault,M16A4,Potato Grip,Underbarrel,BattlePack
+Assault,M16A4,Vertical Grip,Underbarrel,BattlePack
+Assault,M16A4,Green Laser Sight,Optic,BattlePack
+Assault,M16A4,IRNV (IR 1X),Optic,BattlePack
+Assault,M16A4,Kobra (RDS),Optic,BattlePack
+Assault,M16A4,LS06 Suppressor,Barrel,BattlePack
+Assault,M16A4,PBS-4 Suppressor,Barrel,BattlePack
+Assault,M16A4,Laser/Light Combo,Accessory,BattlePack
+Assault,M16A4,PKA-S (1X),Optic,BattlePack
+Assault,M16A4,PK-A (3.4X),Optic,BattlePack
+Assault,M16A4,PSO-1 (4X),Optic,BattlePack
+Assault,M16A4,R2 Suppressor,Barrel,BattlePack
+Assault,M16A4,Tactical Light,Accessory,BattlePack
+Assault,M16A4,Tri Beam Laser,Accessory,BattlePack
+Assault,M16A4,HD-33 (1X),Optic,BattlePack
+Assault,CZ-805,Iron Sights,Optic,Default
+Assault,CZ-805,Underslung Rail,Underbarrel,Default
+Assault,CZ-805,Kobra (RDS),Optic,10 Kills
+Assault,CZ-805,Laser Sight,Accessory,20 Kills
+Assault,CZ-805,ERGO Grip,Underbarrel,30 Kills
+Assault,CZ-805,Muzzle Brake,Barrel,40 Kills
+Assault,CZ-805,PSO-1 (4X),Optic,50 Kills
+Assault,CZ-805,Canted Iron Sights,Accessory,60 Kills
+Assault,CZ-805,Angled Grip,Underbarrel,70 Kills
+Assault,CZ-805,Heavy Barrel,Barrel,80 Kills
+Assault,CZ-805,PK-A (3.4X),Optic,90 Kills
+Assault,CZ-805,Flash Light,Accessory,100 Kills
+Assault,CZ-805,Bipod,Underbarrel,110 Kills
+Assault,CZ-805,Compensator,Barrel,120 Kills
+Assault,CZ-805,PKA-S (1X),Optic,130 Kills
+Assault,CZ-805,Magnifier (2X),Accessory,140 Kills
+Assault,CZ-805,Stubby Grip,Underbarrel,150 Kills
+Assault,CZ-805,PBS-4 Suppressor,Barrel,160 Kills
+Assault,CZ-805,PRISMA (3.4X),Optic,BattlePack
+Assault,CZ-805,JGM-4 (4X),Optic,BattlePack
+Assault,CZ-805,LS06 Suppressor,Barrel,BattlePack
+Assault,CZ-805,Laser/Light Combo,Accessory,BattlePack
+Assault,CZ-805,R2 Suppressor,Barrel,BattlePack
+Assault,CZ-805,ACOG (4X),Optic,BattlePack
+Assault,CZ-805,FLIR (IR 2X),Optic,BattlePack
+Assault,CZ-805,Coyote (RDS),Optic,BattlePack
+Assault,CZ-805,Holo (1X),Optic,BattlePack
+Assault,CZ-805,Flash Hider,Barrel,BattlePack
+Assault,CZ-805,Folding Grip,Underbarrel,BattlePack
+Assault,CZ-805,Potato Grip,Underbarrel,BattlePack
+Assault,CZ-805,Vertical Grip,Underbarrel,BattlePack
+Assault,CZ-805,Green Laser Sight,Optic,BattlePack
+Assault,CZ-805,IRNV (IR 1X),Optic,BattlePack
+Assault,CZ-805,M145 (3.4X),Optic,BattlePack
+Assault,CZ-805,Reflex (RDS),Optic,BattlePack
+Assault,CZ-805,Suppressor,Barrel,BattlePack
+Assault,CZ-805,Tactical Light,Accessory,BattlePack
+Assault,CZ-805,Tri Beam Laser,Accessory,BattlePack
+Assault,CZ-805,HD-33 (1X),Optic,BattlePack
+Assault,ACE 23,Iron Sights,Optic,Default
+Assault,ACE 23,Coyote (RDS),Optic,10 Kills
+Assault,ACE 23,Laser Sight,Accessory,20 Kills
+Assault,ACE 23,ERGO Grip,Underbarrel,30 Kills
+Assault,ACE 23,Muzzle Brake,Barrel,40 Kills
+Assault,ACE 23,JGM-4 (4X),Optic,50 Kills
+Assault,ACE 23,Canted Iron Sights,Accessory,60 Kills
+Assault,ACE 23,Angled Grip,Underbarrel,70 Kills
+Assault,ACE 23,Heavy Barrel,Barrel,80 Kills
+Assault,ACE 23,PRISMA (3.4X),Optic,90 Kills
+Assault,ACE 23,Flash Light,Accessory,100 Kills
+Assault,ACE 23,Bipod,Underbarrel,110 Kills
+Assault,ACE 23,Compensator,Barrel,120 Kills
+Assault,ACE 23,HD-33 (1X),Optic,130 Kills
+Assault,ACE 23,Magnifier (2X),Accessory,140 Kills
+Assault,ACE 23,Stubby Grip,Underbarrel,150 Kills
+Assault,ACE 23,LS06 Suppressor,Barrel,160 Kills
+Assault,ACE 23,ACOG (4X),Optic,BattlePack
+Assault,ACE 23,FLIR (IR 2X),Optic,BattlePack
+Assault,ACE 23,Holo (1X),Optic,BattlePack
+Assault,ACE 23,Flash Hider,Barrel,BattlePack
+Assault,ACE 23,Folding Grip,Underbarrel,BattlePack
+Assault,ACE 23,Potato Grip,Underbarrel,BattlePack
+Assault,ACE 23,Vertical Grip,Underbarrel,BattlePack
+Assault,ACE 23,Green Laser Sight,Optic,BattlePack
+Assault,ACE 23,IRNV (IR 1X),Optic,BattlePack
+Assault,ACE 23,Kobra (RDS),Optic,BattlePack
+Assault,ACE 23,M145 (3.4X),Optic,BattlePack
+Assault,ACE 23,PBS-4 Suppressor,Barrel,BattlePack
+Assault,ACE 23,Laser/Light Combo,Accessory,BattlePack
+Assault,ACE 23,PKA-S (1X),Optic,BattlePack
+Assault,ACE 23,PK-A (3.4X),Optic,BattlePack
+Assault,ACE 23,PSO-1 (4X),Optic,BattlePack
+Assault,ACE 23,R2 Suppressor,Barrel,BattlePack
+Assault,ACE 23,Reflex (RDS),Optic,BattlePack
+Assault,ACE 23,Suppressor,Barrel,BattlePack
+Assault,ACE 23,Tactical Light,Accessory,BattlePack
+Assault,ACE 23,Tri Beam Laser,Accessory,BattlePack
+Assault,QBZ-95-1,Iron Sights,Optic,Default
+Assault,QBZ-95-1,UGL Rail,Underbarrel,Default
+Assault,QBZ-95-1,Coyote (RDS),Optic,10 Kills
+Assault,QBZ-95-1,Laser Sight,Accessory,20 Kills
+Assault,QBZ-95-1,ERGO Grip,Underbarrel,30 Kills
+Assault,QBZ-95-1,Muzzle Brake,Barrel,40 Kills
+Assault,QBZ-95-1,JGM-4 (4X),Optic,50 Kills
+Assault,QBZ-95-1,Canted Iron Sights,Accessory,60 Kills
+Assault,QBZ-95-1,Angled Grip,Underbarrel,70 Kills
+Assault,QBZ-95-1,Heavy Barrel,Barrel,80 Kills
+Assault,QBZ-95-1,PRISMA (3.4X),Optic,90 Kills
+Assault,QBZ-95-1,Flash Light,Accessory,100 Kills
+Assault,QBZ-95-1,Bipod,Underbarrel,110 Kills
+Assault,QBZ-95-1,Compensator,Barrel,120 Kills
+Assault,QBZ-95-1,HD-33 (1X),Optic,130 Kills
+Assault,QBZ-95-1,Magnifier (2X),Accessory,140 Kills
+Assault,QBZ-95-1,Stubby Grip,Underbarrel,150 Kills
+Assault,QBZ-95-1,LS06 Suppressor,Barrel,160 Kills
+Assault,QBZ-95-1,ACOG (4X),Optic,BattlePack
+Assault,QBZ-95-1,FLIR (IR 2X),Optic,BattlePack
+Assault,QBZ-95-1,Holo (1X),Optic,BattlePack
+Assault,QBZ-95-1,Flash Hider,Barrel,BattlePack
+Assault,QBZ-95-1,Folding Grip,Underbarrel,BattlePack
+Assault,QBZ-95-1,Potato Grip,Underbarrel,BattlePack
+Assault,QBZ-95-1,Vertical Grip,Underbarrel,BattlePack
+Assault,QBZ-95-1,Green Laser Sight,Optic,BattlePack
+Assault,QBZ-95-1,IRNV (IR 1X),Optic,BattlePack
+Assault,QBZ-95-1,Kobra (RDS),Optic,BattlePack
+Assault,QBZ-95-1,M145 (3.4X),Optic,BattlePack
+Assault,QBZ-95-1,PBS-4 Suppressor,Barrel,BattlePack
+Assault,QBZ-95-1,Laser/Light Combo,Accessory,BattlePack
+Assault,QBZ-95-1,PKA-S (1X),Optic,BattlePack
+Assault,QBZ-95-1,PK-A (3.4X),Optic,BattlePack
+Assault,QBZ-95-1,PSO-1 (4X),Optic,BattlePack
+Assault,QBZ-95-1,R2 Suppressor,Barrel,BattlePack
+Assault,QBZ-95-1,Reflex (RDS),Optic,BattlePack
+Assault,QBZ-95-1,Suppressor,Barrel,BattlePack
+Assault,QBZ-95-1,Tactical Light,Accessory,BattlePack
+Assault,QBZ-95-1,Tri Beam Laser,Accessory,BattlePack
+Assault,F2000,Iron Sights,Optic,Default
+Assault,F2000,F2000 (1.6x),Optic,Default
+Assault,F2000,Reflex (RDS),Optic,10 Kills
+Assault,F2000,Laser Sight,Accessory,20 Kills
+Assault,F2000,ERGO Grip,Underbarrel,30 Kills
+Assault,F2000,Muzzle Brake,Barrel,40 Kills
+Assault,F2000,ACOG (4X),Optic,50 Kills
+Assault,F2000,Canted Iron Sights,Accessory,60 Kills
+Assault,F2000,Angled Grip,Underbarrel,70 Kills
+Assault,F2000,Heavy Barrel,Barrel,80 Kills
+Assault,F2000,M145 (3.4X),Optic,70 Kills
+Assault,F2000,Flash Light,Accessory,100 Kills
+Assault,F2000,Bipod,Underbarrel,110 Kills
+Assault,F2000,Compensator,Barrel,120 Kills
+Assault,F2000,Holo (1X),Optic,130 Kills
+Assault,F2000,Magnifier (2X),Accessory,140 Kills
+Assault,F2000,Stubby Grip,Underbarrel,150 Kills
+Assault,F2000,Suppressor,Barrel,160 Kills
+Assault,F2000,FLIR (IR 2X),Optic,BattlePack
+Assault,F2000,PRISMA (3.4X),Optic,BattlePack
+Assault,F2000,JGM-4 (4X),Optic,BattlePack
+Assault,F2000,Coyote (RDS),Optic,BattlePack
+Assault,F2000,Flash Hider,Barrel,BattlePack
+Assault,F2000,Folding Grip,Underbarrel,BattlePack
+Assault,F2000,Potato Grip,Underbarrel,BattlePack
+Assault,F2000,Vertical Grip,Underbarrel,BattlePack
+Assault,F2000,Green Laser Sight,Optic,BattlePack
+Assault,F2000,IRNV (IR 1X),Optic,BattlePack
+Assault,F2000,Kobra (RDS),Optic,BattlePack
+Assault,F2000,LS06 Suppressor,Barrel,BattlePack
+Assault,F2000,PBS-4 Suppressor,Barrel,BattlePack
+Assault,F2000,Laser/Light Combo,Accessory,BattlePack
+Assault,F2000,PKA-S (1X),Optic,BattlePack
+Assault,F2000,PK-A (3.4X),Optic,BattlePack
+Assault,F2000,PSO-1 (4X),Optic,BattlePack
+Assault,F2000,R2 Suppressor,Barrel,BattlePack
+Assault,F2000,Tactical Light,Accessory,BattlePack
+Assault,F2000,Tri Beam Laser,Accessory,BattlePack
+Assault,F2000,HD-33 (1X),Optic,BattlePack
+Assault,L85A2,Iron Sights,Optic,Default
+Assault,L85A2,Reflex (RDS),Optic,10 Kills
+Assault,L85A2,Laser Sight,Accessory,20 Kills
+Assault,L85A2,ERGO Grip,Underbarrel,30 Kills
+Assault,L85A2,Muzzle Brake,Barrel,40 Kills
+Assault,L85A2,ACOG (4X),Optic,50 Kills
+Assault,L85A2,Canted Iron Sights,Accessory,60 Kills
+Assault,L85A2,Angled Grip,Underbarrel,70 Kills
+Assault,L85A2,Heavy Barrel,Barrel,80 Kills
+Assault,L85A2,M145 (3.4X),Optic,70 Kills
+Assault,L85A2,Flash Light,Accessory,100 Kills
+Assault,L85A2,Bipod,Underbarrel,110 Kills
+Assault,L85A2,Compensator,Barrel,120 Kills
+Assault,L85A2,Holo (1X),Optic,130 Kills
+Assault,L85A2,Magnifier (2X),Accessory,140 Kills
+Assault,L85A2,Stubby Grip,Underbarrel,150 Kills
+Assault,L85A2,Suppressor,Barrel,160 Kills
+Assault,L85A2,FLIR (IR 2X),Optic,BattlePack
+Assault,L85A2,PRISMA (3.4X),Optic,BattlePack
+Assault,L85A2,JGM-4 (4X),Optic,BattlePack
+Assault,L85A2,Coyote (RDS),Optic,BattlePack
+Assault,L85A2,Flash Hider,Barrel,BattlePack
+Assault,L85A2,Folding Grip,Underbarrel,BattlePack
+Assault,L85A2,Potato Grip,Underbarrel,BattlePack
+Assault,L85A2,Vertical Grip,Underbarrel,BattlePack
+Assault,L85A2,Green Laser Sight,Optic,BattlePack
+Assault,L85A2,IRNV (IR 1X),Optic,BattlePack
+Assault,L85A2,Kobra (RDS),Optic,BattlePack
+Assault,L85A2,LS06 Suppressor,Barrel,BattlePack
+Assault,L85A2,PBS-4 Suppressor,Barrel,BattlePack
+Assault,L85A2,Laser/Light Combo,Accessory,BattlePack
+Assault,L85A2,PKA-S (1X),Optic,BattlePack
+Assault,L85A2,PK-A (3.4X),Optic,BattlePack
+Assault,L85A2,PSO-1 (4X),Optic,BattlePack
+Assault,L85A2,R2 Suppressor,Barrel,BattlePack
+Assault,L85A2,Tactical Light,Accessory,BattlePack
+Assault,L85A2,Tri Beam Laser,Accessory,BattlePack
+Assault,L85A2,HD-33 (1X),Optic,BattlePack
+Assault,AR160,Iron Sights,Optic,Default
+Assault,AR160,Reflex (RDS),Optic,10 Kills
+Assault,AR160,Laser Sight,Accessory,20 Kills
+Assault,AR160,ERGO Grip,Underbarrel,30 Kills
+Assault,AR160,Muzzle Brake,Barrel,40 Kills
+Assault,AR160,ACOG (4X),Optic,50 Kills
+Assault,AR160,Canted Iron Sights,Accessory,60 Kills
+Assault,AR160,Angled Grip,Underbarrel,70 Kills
+Assault,AR160,Heavy Barrel,Barrel,80 Kills
+Assault,AR160,M145 (3.4X),Optic,70 Kills
+Assault,AR160,Flash Light,Accessory,100 Kills
+Assault,AR160,Bipod,Underbarrel,110 Kills
+Assault,AR160,Compensator,Barrel,120 Kills
+Assault,AR160,Holo (1X),Optic,130 Kills
+Assault,AR160,Magnifier (2X),Accessory,140 Kills
+Assault,AR160,Stubby Grip,Underbarrel,150 Kills
+Assault,AR160,Suppressor,Barrel,160 Kills
+Assault,AR160,FLIR (IR 2X),Optic,BattlePack
+Assault,AR160,PRISMA (3.4X),Optic,BattlePack
+Assault,AR160,JGM-4 (4X),Optic,BattlePack
+Assault,AR160,Coyote (RDS),Optic,BattlePack
+Assault,AR160,Flash Hider,Barrel,BattlePack
+Assault,AR160,Folding Grip,Underbarrel,BattlePack
+Assault,AR160,Potato Grip,Underbarrel,BattlePack
+Assault,AR160,Vertical Grip,Underbarrel,BattlePack
+Assault,AR160,Green Laser Sight,Optic,BattlePack
+Assault,AR160,IRNV (IR 1X),Optic,BattlePack
+Assault,AR160,Kobra (RDS),Optic,BattlePack
+Assault,AR160,LS06 Suppressor,Barrel,BattlePack
+Assault,AR160,PBS-4 Suppressor,Barrel,BattlePack
+Assault,AR160,Laser/Light Combo,Accessory,BattlePack
+Assault,AR160,PKA-S (1X),Optic,BattlePack
+Assault,AR160,PK-A (3.4X),Optic,BattlePack
+Assault,AR160,PSO-1 (4X),Optic,BattlePack
+Assault,AR160,R2 Suppressor,Barrel,BattlePack
+Assault,AR160,Tactical Light,Accessory,BattlePack
+Assault,AR160,Tri Beam Laser,Accessory,BattlePack
+Assault,AR160,HD-33 (1X),Optic,BattlePack
+Assault,Bulldog,Iron Sights,Optic,Default
+Assault,Bulldog,Reflex (RDS),Optic,10 Kills
+Assault,Bulldog,Laser Sight,Accessory,20 Kills
+Assault,Bulldog,ERGO Grip,Underbarrel,30 Kills
+Assault,Bulldog,Muzzle Brake,Barrel,40 Kills
+Assault,Bulldog,ACOG (4X),Optic,50 Kills
+Assault,Bulldog,Canted Iron Sights,Accessory,60 Kills
+Assault,Bulldog,Angled Grip,Underbarrel,70 Kills
+Assault,Bulldog,Heavy Barrel,Barrel,80 Kills
+Assault,Bulldog,M145 (3.4X),Optic,90 Kills
+Assault,Bulldog,Flash Light,Accessory,100 Kills
+Assault,Bulldog,Bipod,Underbarrel,110 Kills
+Assault,Bulldog,Compensator,Barrel,120 Kills
+Assault,Bulldog,Holo (1X),Optic,130 Kills
+Assault,Bulldog,Magnifier (2X),Accessory,140 Kills
+Assault,Bulldog,Stubby Grip,Underbarrel,150 Kills
+Assault,Bulldog,Suppressor,Barrel,160 Kills
+Assault,Bulldog,FLIR (IR 2X),Optic,BattlePack
+Assault,Bulldog,PRISMA (3.4X),Optic,BattlePack
+Assault,Bulldog,JGM-4 (4X),Optic,BattlePack
+Assault,Bulldog,Coyote (RDS),Optic,BattlePack
+Assault,Bulldog,Flash Hider,Barrel,BattlePack
+Assault,Bulldog,Folding Grip,Underbarrel,BattlePack
+Assault,Bulldog,Potato Grip,Underbarrel,BattlePack
+Assault,Bulldog,Vertical Grip,Underbarrel,BattlePack
+Assault,Bulldog,Green Laser Sight,Optic,BattlePack
+Assault,Bulldog,IRNV (IR 1X),Optic,BattlePack
+Assault,Bulldog,Kobra (RDS),Optic,BattlePack
+Assault,Bulldog,LS06 Suppressor,Barrel,BattlePack
+Assault,Bulldog,PBS-4 Suppressor,Barrel,BattlePack
+Assault,Bulldog,Laser/Light Combo,Accessory,BattlePack
+Assault,Bulldog,PKA-S (1X),Optic,BattlePack
+Assault,Bulldog,PK-A (3.4X),Optic,BattlePack
+Assault,Bulldog,PSO-1 (4X),Optic,BattlePack
+Assault,Bulldog,R2 Suppressor,Barrel,BattlePack
+Assault,Bulldog,Tactical Light,Accessory,BattlePack
+Assault,Bulldog,Tri Beam Laser,Accessory,BattlePack
+Assault,Bulldog,HD-33 (1X),Optic,BattlePack
+Assault,AN-94,Iron Sights,Optic,Default
+Assault,AN-94,Bipod,Underbarrel,Default
+Assault,AN-94,UGL Rail,Underbarrel,Default
+Assault,AN-94,Kobra (RDS),Optic,10 Kills
+Assault,AN-94,Laser Sight,Accessory,20 Kills
+Assault,AN-94,ERGO Grip,Underbarrel,30 Kills
+Assault,AN-94,Muzzle Brake,Barrel,40 Kills
+Assault,AN-94,PSO-1 (4X),Optic,50 Kills
+Assault,AN-94,Canted Iron Sights,Accessory,60 Kills
+Assault,AN-94,Angled Grip,Underbarrel,70 Kills
+Assault,AN-94,Heavy Barrel,Barrel,80 Kills
+Assault,AN-94,PK-A (3.4X),Optic,90 Kills
+Assault,AN-94,Flash Light,Accessory,100 Kills
+Assault,AN-94,Compensator,Barrel,110 Kills
+Assault,AN-94,PKA-S (1X),Optic,120 Kills
+Assault,AN-94,Magnifier (2X),Accessory,130 Kills
+Assault,AN-94,Stubby Grip,Underbarrel,140 Kills
+Assault,AN-94,PBS-4 Suppressor,Barrel,150 Kills
+Assault,AN-94,Reflex (RDS),Optic,BattlePack
+Assault,AN-94,Coyote (RDS),Optic,BattlePack
+Assault,AN-94,Holo (1X),Optic,BattlePack
+Assault,AN-94,FLIR (IR 2X),Optic,BattlePack
+Assault,AN-94,PRISMA (3.4X),Optic,BattlePack
+Assault,AN-94,JGM-4 (4X),Optic,BattlePack
+Assault,AN-94,HD-33 (1X),Optic,BattlePack
+Assault,AN-94,IRNV (IR 1X),Optic,BattlePack
+Assault,AN-94,FLIR (IR 2X),Optic,BattlePack
+Assault,AN-94,M145 (3.4X),Optic,BattlePack
+Assault,AN-94,PRISMA (3.4X),Optic,BattlePack
+Assault,AN-94,ACOG (4X),Optic,BattlePack
+Assault,AN-94,Green Laser Sight,Optic,BattlePack
+Assault,AN-94,Laser/Light Combo,Accessory,BattlePack
+Assault,AN-94,Flash Hider,Barrel,BattlePack
+Assault,AN-94,Suppressor,Barrel,BattlePack
+Assault,AN-94,LS06 Suppressor,Barrel,BattlePack
+Assault,AN-94,R2 Suppressor,Barrel,BattlePack
+Assault,AN-94,Folding Grip,Underbarrel,BattlePack
+Assault,AN-94,Potato Grip,Underbarrel,BattlePack
+Assault,AN-95,Vertical Grip,Underbarrel,BattlePack
+Engineer,MX4,Iron Sights,Optic,Default
+Engineer,MX4,Reflex (RDS),Optic,Default
+Engineer,MX4,Laser Sight,Accessory,Default
+Engineer,MX4,ERGO Grip,Underbarrel,Default
+Engineer,MX4,Compensator,Barrel,10 Kills
+Engineer,MX4,M145 (3.4X),Optic,20 Kills
+Engineer,MX4,Flash Light,Accessory,30 Kills
+Engineer,MX4,Angled Grip,Underbarrel,40 Kills
+Engineer,MX4,Muzzle Brake,Barrel,50 Kills
+Engineer,MX4,Holo (1X),Optic,60 Kills
+Engineer,MX4,Stubby Grip,Underbarrel,70 Kills
+Engineer,MX4,Suppressor,Barrel,80 Kills
+Engineer,MX4,Canted Iron Sights,Accessory,90 Kills
+Engineer,MX4,Heavy Barrel,Barrel,100 Kills
+Engineer,MX4,FLIR (IR 2X),Optic,BattlePack
+Engineer,MX4,PRISMA (3.4X),Optic,BattlePack
+Engineer,MX4,JGM-4 (4X),Optic,BattlePack
+Engineer,MX4,Coyote (RDS),Optic,BattlePack
+Engineer,MX4,Flash Hider,Barrel,BattlePack
+Engineer,MX4,Folding Grip,Underbarrel,BattlePack
+Engineer,MX4,Potato Grip,Underbarrel,BattlePack
+Engineer,MX4,Vertical Grip,Underbarrel,BattlePack
+Engineer,MX4,Green Laser Sight,Optic,BattlePack
+Engineer,MX4,IRNV (IR 1X),Optic,BattlePack
+Engineer,MX4,Kobra (RDS),Optic,BattlePack
+Engineer,MX4,LS06 Suppressor,Barrel,BattlePack
+Engineer,MX4,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,MX4,Laser/Light Combo,Accessory,BattlePack
+Engineer,MX4,PKA-S (1X),Optic,BattlePack
+Engineer,MX4,PK-A (3.4X),Optic,BattlePack
+Engineer,MX4,PSO-1 (4X),Optic,BattlePack
+Engineer,MX4,R2 Suppressor,Barrel,BattlePack
+Engineer,MX4,Tactical Light,Accessory,BattlePack
+Engineer,MX4,Tri Beam Laser,Accessory,BattlePack
+Engineer,MX4,HD-33 (1X),Optic,BattlePack
+Engineer,PP-2000,Iron Sights,Optic,Default
+Engineer,PP-2000,Kobra (RDS),Optic,10 Kills
+Engineer,PP-2000,Laser Sight,Accessory,20 Kills
+Engineer,PP-2000,Compensator,Barrel,30 Kills
+Engineer,PP-2000,PK-A (3.4X),Optic,40 Kills
+Engineer,PP-2000,Flash Light,Accessory,50 Kills
+Engineer,PP-2000,Muzzle Brake,Barrel,60 Kills
+Engineer,PP-2000,PKA-S (1X),Optic,70 Kills
+Engineer,PP-2000,PBS-4 Suppressor,Barrel,80 Kills
+Engineer,PP-2000,PSO-1 (4X),Optic,90 Kills
+Engineer,PP-2000,Canted Iron Sights,Accessory,100 Kills
+Engineer,PP-2000,Heavy Barrel,Barrel,110 Kills
+Engineer,PP-2000,FLIR (IR 2X),Optic,BattlePack
+Engineer,PP-2000,ACOG (4X),Optic,BattlePack
+Engineer,PP-2000,PRISMA (3.4X),Optic,BattlePack
+Engineer,PP-2000,JGM-4 (4X),Optic,BattlePack
+Engineer,PP-2000,Coyote (RDS),Optic,BattlePack
+Engineer,PP-2000,Holo (1X),Optic,BattlePack
+Engineer,PP-2000,Green Laser Sight,Optic,BattlePack
+Engineer,PP-2000,IRNV (IR 1X),Optic,BattlePack
+Engineer,PP-2000,LS06 Suppressor,Barrel,BattlePack
+Engineer,PP-2000,M145 (3.4X),Optic,BattlePack
+Engineer,PP-2000,Laser/Light Combo,Accessory,BattlePack
+Engineer,PP-2000,R2 Suppressor,Barrel,BattlePack
+Engineer,PP-2000,Reflex (RDS),Optic,BattlePack
+Engineer,PP-2000,Suppressor,Barrel,BattlePack
+Engineer,PP-2000,Tactical Light,Accessory,BattlePack
+Engineer,PP-2000,Tri Beam Laser,Accessory,BattlePack
+Engineer,PP-2000,HD-33 (1X),Optic,BattlePack
+Engineer,PP-2000,Flash Hider,Barrel,BattlePack
+Engineer,UMP-45,Iron Sights,Optic,Default
+Engineer,UMP-45,Reflex (RDS),Optic,10 Kills
+Engineer,UMP-45,Laser Sight,Accessory,20 Kills
+Engineer,UMP-45,ERGO Grip,Underbarrel,30 Kills
+Engineer,UMP-45,Compensator,Barrel,40 Kills
+Engineer,UMP-45,M145 (3.4X),Optic,50 Kills
+Engineer,UMP-45,Flash Light,Accessory,60 Kills
+Engineer,UMP-45,Angled Grip,Underbarrel,70 Kills
+Engineer,UMP-45,Muzzle Brake,Barrel,80 Kills
+Engineer,UMP-45,Holo (1X),Optic,90 Kills
+Engineer,UMP-45,Stubby Grip,Underbarrel,100 Kills
+Engineer,UMP-45,Suppressor,Barrel,110 Kills
+Engineer,UMP-45,ACOG (4X),Optic,120 Kills
+Engineer,UMP-45,Canted Iron Sights,Accessory,130 Kills
+Engineer,UMP-45,Heavy Barrel,Barrel,140 Kills
+Engineer,UMP-45,FLIR (IR 2X),Optic,BattlePack
+Engineer,UMP-45,PRISMA (3.4X),Optic,BattlePack
+Engineer,UMP-45,JGM-4 (4X),Optic,BattlePack
+Engineer,UMP-45,Coyote (RDS),Optic,BattlePack
+Engineer,UMP-45,Flash Hider,Barrel,BattlePack
+Engineer,UMP-45,Folding Grip,Underbarrel,BattlePack
+Engineer,UMP-45,Potato Grip,Underbarrel,BattlePack
+Engineer,UMP-45,Vertical Grip,Underbarrel,BattlePack
+Engineer,UMP-45,Green Laser Sight,Optic,BattlePack
+Engineer,UMP-45,IRNV (IR 1X),Optic,BattlePack
+Engineer,UMP-45,Kobra (RDS),Optic,BattlePack
+Engineer,UMP-45,LS06 Suppressor,Barrel,BattlePack
+Engineer,UMP-45,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,UMP-45,Laser/Light Combo,Accessory,BattlePack
+Engineer,UMP-45,PKA-S (1X),Optic,BattlePack
+Engineer,UMP-45,PK-A (3.4X),Optic,BattlePack
+Engineer,UMP-45,PSO-1 (4X),Optic,BattlePack
+Engineer,UMP-45,R2 Suppressor,Barrel,BattlePack
+Engineer,UMP-45,Tactical Light,Accessory,BattlePack
+Engineer,UMP-45,Tri Beam Laser,Accessory,BattlePack
+Engineer,UMP-45,HD-33 (1X),Optic,BattlePack
+Engineer,CBJ-MS,Iron Sights,Optic,Default
+Engineer,CBJ-MS,Reflex (RDS),Optic,10 Kills
+Engineer,CBJ-MS,Laser Sight,Accessory,20 Kills
+Engineer,CBJ-MS,Compensator,Barrel,30 Kills
+Engineer,CBJ-MS,M145 (3.4X),Optic,40 Kills
+Engineer,CBJ-MS,Flash Light,Accessory,50 Kills
+Engineer,CBJ-MS,Muzzle Brake,Barrel,60 Kills
+Engineer,CBJ-MS,Holo (1X),Optic,70 Kills
+Engineer,CBJ-MS,Suppressor,Barrel,80 Kills
+Engineer,CBJ-MS,ACOG (4X),Optic,90 Kills
+Engineer,CBJ-MS,Canted Iron Sights,Accessory,100 Kills
+Engineer,CBJ-MS,Heavy Barrel,Barrel,110 Kills
+Engineer,CBJ-MS,FLIR (IR 2X),Optic,BattlePack
+Engineer,CBJ-MS,PRISMA (3.4X),Optic,BattlePack
+Engineer,CBJ-MS,JGM-4 (4X),Optic,BattlePack
+Engineer,CBJ-MS,Coyote (RDS),Optic,BattlePack
+Engineer,CBJ-MS,Flash Hider,Barrel,BattlePack
+Engineer,CBJ-MS,Green Laser Sight,Optic,BattlePack
+Engineer,CBJ-MS,IRNV (IR 1X),Optic,BattlePack
+Engineer,CBJ-MS,Kobra (RDS),Optic,BattlePack
+Engineer,CBJ-MS,LS06 Suppressor,Barrel,BattlePack
+Engineer,CBJ-MS,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,CBJ-MS,Laser/Light Combo,Accessory,BattlePack
+Engineer,CBJ-MS,PKA-S (1X),Optic,BattlePack
+Engineer,CBJ-MS,PK-A (3.4X),Optic,BattlePack
+Engineer,CBJ-MS,PSO-1 (4X),Optic,BattlePack
+Engineer,CBJ-MS,R2 Suppressor,Barrel,BattlePack
+Engineer,CBJ-MS,Tactical Light,Accessory,BattlePack
+Engineer,CBJ-MS,Tri Beam Laser,Accessory,BattlePack
+Engineer,CBJ-MS,HD-33 (1X),Optic,BattlePack
+Engineer,PDW-R,Iron Sights,Optic,Default
+Engineer,PDW-R,Reflex (RDS),Optic,10 Kills
+Engineer,PDW-R,Laser Sight,Accessory,20 Kills
+Engineer,PDW-R,Compensator,Barrel,30 Kills
+Engineer,PDW-R,M145 (3.4X),Optic,40 Kills
+Engineer,PDW-R,Flash Light,Accessory,50 Kills
+Engineer,PDW-R,Muzzle Brake,Barrel,60 Kills
+Engineer,PDW-R,Holo (1X),Optic,70 Kills
+Engineer,PDW-R,Suppressor,Barrel,80 Kills
+Engineer,PDW-R,ACOG (4X),Optic,90 Kills
+Engineer,PDW-R,Canted Iron Sights,Accessory,100 Kills
+Engineer,PDW-R,Heavy Barrel,Barrel,110 Kills
+Engineer,PDW-R,FLIR (IR 2X),Optic,BattlePack
+Engineer,PDW-R,PRISMA (3.4X),Optic,BattlePack
+Engineer,PDW-R,JGM-4 (4X),Optic,BattlePack
+Engineer,PDW-R,Coyote (RDS),Optic,BattlePack
+Engineer,PDW-R,Flash Hider,Barrel,BattlePack
+Engineer,PDW-R,Green Laser Sight,Optic,BattlePack
+Engineer,PDW-R,IRNV (IR 1X),Optic,BattlePack
+Engineer,PDW-R,Kobra (RDS),Optic,BattlePack
+Engineer,PDW-R,LS06 Suppressor,Barrel,BattlePack
+Engineer,PDW-R,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,PDW-R,Laser/Light Combo,Accessory,BattlePack
+Engineer,PDW-R,PKA-S (1X),Optic,BattlePack
+Engineer,PDW-R,PK-A (3.4X),Optic,BattlePack
+Engineer,PDW-R,PSO-1 (4X),Optic,BattlePack
+Engineer,PDW-R,R2 Suppressor,Barrel,BattlePack
+Engineer,PDW-R,Tactical Light,Accessory,BattlePack
+Engineer,PDW-R,Tri Beam Laser,Accessory,BattlePack
+Engineer,PDW-R,HD-33 (1X),Optic,BattlePack
+Engineer,CZ-3A1,Iron Sights,Optic,Default
+Engineer,CZ-3A1,Kobra (RDS),Optic,10 Kills
+Engineer,CZ-3A1,Laser Sight,Accessory,20 Kills
+Engineer,CZ-3A1,ERGO Grip,Underbarrel,30 Kills
+Engineer,CZ-3A1,Compensator,Barrel,40 Kills
+Engineer,CZ-3A1,PK-A (3.4X),Optic,50 Kills
+Engineer,CZ-3A1,Flash Light,Accessory,60 Kills
+Engineer,CZ-3A1,Angled Grip,Underbarrel,70 Kills
+Engineer,CZ-3A1,Muzzle Brake,Barrel,80 Kills
+Engineer,CZ-3A1,PKA-S (1X),Optic,90 Kills
+Engineer,CZ-3A1,Stubby Grip,Underbarrel,100 Kills
+Engineer,CZ-3A1,PBS-4 Suppressor,Barrel,110 Kills
+Engineer,CZ-3A1,PSO-1 (4X),Optic,120 Kills
+Engineer,CZ-3A1,Canted Iron Sights,Accessory,130 Kills
+Engineer,CZ-3A1,Heavy Barrel,Barrel,140 Kills
+Engineer,CZ-3A1,ACOG (4X),Optic,BattlePack
+Engineer,CZ-3A1,FLIR (IR 2X),Optic,BattlePack
+Engineer,CZ-3A1,PRISMA (3.4X),Optic,BattlePack
+Engineer,CZ-3A1,JGM-4 (4X),Optic,BattlePack
+Engineer,CZ-3A1,Coyote (RDS),Optic,BattlePack
+Engineer,CZ-3A1,Holo (1X),Optic,BattlePack
+Engineer,CZ-3A1,Flash Hider,Barrel,BattlePack
+Engineer,CZ-3A1,Folding Grip,Underbarrel,BattlePack
+Engineer,CZ-3A1,Potato Grip,Underbarrel,BattlePack
+Engineer,CZ-3A1,Vertical Grip,Underbarrel,BattlePack
+Engineer,CZ-3A1,Green Laser Sight,Optic,BattlePack
+Engineer,CZ-3A1,IRNV (IR 1X),Optic,BattlePack
+Engineer,CZ-3A1,LS06 Suppressor,Barrel,BattlePack
+Engineer,CZ-3A1,M145 (3.4X),Optic,BattlePack
+Engineer,CZ-3A1,Laser/Light Combo,Accessory,BattlePack
+Engineer,CZ-3A1,R2 Suppressor,Barrel,BattlePack
+Engineer,CZ-3A1,Reflex (RDS),Optic,BattlePack
+Engineer,CZ-3A1,Suppressor,Barrel,BattlePack
+Engineer,CZ-3A1,Tactical Light,Accessory,BattlePack
+Engineer,CZ-3A1,Tri Beam Laser,Accessory,BattlePack
+Engineer,CZ-3A1,HD-33 (1X),Optic,BattlePack
+Engineer,JS2,Iron Sights,Optic,Default
+Engineer,JS2,Coyote (RDS),Optic,10 Kills
+Engineer,JS2,Laser Sight,Accessory,20 Kills
+Engineer,JS2,Compensator,Barrel,30 Kills
+Engineer,JS2,PRISMA (3.4X),Optic,40 Kills
+Engineer,JS2,Flash Light,Accessory,50 Kills
+Engineer,JS2,Muzzle Brake,Barrel,60 Kills
+Engineer,JS2,HD-33 (1X),Optic,70 Kills
+Engineer,JS2,LS06 Suppressor,Barrel,80 Kills
+Engineer,JS2,JGM-4 (4X),Optic,90 Kills
+Engineer,JS2,Canted Iron Sights,Accessory,100 Kills
+Engineer,JS2,Heavy Barrel,Barrel,110 Kills
+Engineer,JS2,ACOG (4X),Optic,BattlePack
+Engineer,JS2,FLIR (IR 2X),Optic,BattlePack
+Engineer,JS2,Holo (1X),Optic,BattlePack
+Engineer,JS2,Flash Hider,Barrel,BattlePack
+Engineer,JS2,Green Laser Sight,Optic,BattlePack
+Engineer,JS2,IRNV (IR 1X),Optic,BattlePack
+Engineer,JS2,Kobra (RDS),Optic,BattlePack
+Engineer,JS2,M145 (3.4X),Optic,BattlePack
+Engineer,JS2,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,JS2,Laser/Light Combo,Accessory,BattlePack
+Engineer,JS2,PK-A (3.4X),Optic,BattlePack
+Engineer,JS2,PKA-S (1X),Optic,BattlePack
+Engineer,JS2,PSO-1 (4X),Optic,BattlePack
+Engineer,JS2,R2 Suppressor,Barrel,BattlePack
+Engineer,JS2,Reflex (RDS),Optic,BattlePack
+Engineer,JS2,Suppressor,Barrel,BattlePack
+Engineer,JS2,Tactical Light,Accessory,BattlePack
+Engineer,JS2,Tri Beam Laser,Accessory,BattlePack
+Engineer,P90,Iron Sights,Optic,Default
+Engineer,P90,Reflex (RDS),Optic,10 Kills
+Engineer,P90,Laser Sight,Accessory,20 Kills
+Engineer,P90,Compensator,Barrel,30 Kills
+Engineer,P90,M145 (3.4X),Optic,40 Kills
+Engineer,P90,Flash Light,Accessory,50 Kills
+Engineer,P90,Muzzle Brake,Barrel,60 Kills
+Engineer,P90,Holo (1X),Optic,70 Kills
+Engineer,P90,Suppressor,Barrel,80 Kills
+Engineer,P90,ACOG (4X),Optic,90 Kills
+Engineer,P90,Canted Iron Sights,Accessory,100 Kills
+Engineer,P90,Heavy Barrel,Barrel,110 Kills
+Engineer,P90,FLIR (IR 2X),Optic,BattlePack
+Engineer,P90,PRISMA (3.4X),Optic,BattlePack
+Engineer,P90,JGM-4 (4X),Optic,BattlePack
+Engineer,P90,Coyote (RDS),Optic,BattlePack
+Engineer,P90,Flash Hider,Barrel,BattlePack
+Engineer,P90,Green Laser Sight,Optic,BattlePack
+Engineer,P90,IRNV (IR 1X),Optic,BattlePack
+Engineer,P90,Kobra (RDS),Optic,BattlePack
+Engineer,P90,LS06 Suppressor,Barrel,BattlePack
+Engineer,P90,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,P90,Laser/Light Combo,Accessory,BattlePack
+Engineer,P90,PKA-S (1X),Optic,BattlePack
+Engineer,P90,PK-A (3.4X),Optic,BattlePack
+Engineer,P90,PSO-1 (4X),Optic,BattlePack
+Engineer,P90,R2 Suppressor,Barrel,BattlePack
+Engineer,P90,Tactical Light,Accessory,BattlePack
+Engineer,P90,Tri Beam Laser,Accessory,BattlePack
+Engineer,P90,HD-33 (1X),Optic,BattlePack
+Engineer,UMP-9,Iron Sights,Optic,Default
+Engineer,UMP-9,Reflex (RDS),Optic,10 Kills
+Engineer,UMP-9,Laser Sight,Accessory,20 Kills
+Engineer,UMP-9,ERGO Grip,Underbarrel,30 Kills
+Engineer,UMP-9,Compensator,Barrel,40 Kills
+Engineer,UMP-9,M145 (3.4X),Optic,50 Kills
+Engineer,UMP-9,Flash Light,Accessory,60 Kills
+Engineer,UMP-9,Angled Grip,Underbarrel,70 Kills
+Engineer,UMP-9,Muzzle Brake,Barrel,80 Kills
+Engineer,UMP-9,Holo (1X),Optic,90 Kills
+Engineer,UMP-9,Stubby Grip,Underbarrel,100 Kills
+Engineer,UMP-9,Suppressor,Barrel,110 Kills
+Engineer,UMP-9,ACOG (4X),Optic,120 Kills
+Engineer,UMP-9,Canted Iron Sights,Accessory,130 Kills
+Engineer,UMP-9,Heavy Barrel,Barrel,140 Kills
+Engineer,UMP-9,FLIR (IR 2X),Optic,BattlePack
+Engineer,UMP-9,PRISMA (3.4X),Optic,BattlePack
+Engineer,UMP-9,JGM-4 (4X),Optic,BattlePack
+Engineer,UMP-9,Coyote (RDS),Optic,BattlePack
+Engineer,UMP-9,Flash Hider,Barrel,BattlePack
+Engineer,UMP-9,Folding Grip,Underbarrel,BattlePack
+Engineer,UMP-9,Potato Grip,Underbarrel,BattlePack
+Engineer,UMP-9,Vertical Grip,Underbarrel,BattlePack
+Engineer,UMP-9,Green Laser Sight,Optic,BattlePack
+Engineer,UMP-9,IRNV (IR 1X),Optic,BattlePack
+Engineer,UMP-9,Kobra (RDS),Optic,BattlePack
+Engineer,UMP-9,LS06 Suppressor,Barrel,BattlePack
+Engineer,UMP-9,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,UMP-9,Laser/Light Combo,Accessory,BattlePack
+Engineer,UMP-9,PKA-S (1X),Optic,BattlePack
+Engineer,UMP-9,PK-A (3.4X),Optic,BattlePack
+Engineer,UMP-9,PSO-1 (4X),Optic,BattlePack
+Engineer,UMP-9,R2 Suppressor,Barrel,BattlePack
+Engineer,UMP-9,Tactical Light,Accessory,BattlePack
+Engineer,UMP-9,Tri Beam Laser,Accessory,BattlePack
+Engineer,UMP-9,HD-33 (1X),Optic,BattlePack
+Engineer,MP7,Iron Sights,Optic,Default
+Engineer,MP7,Reflex (RDS),Optic,10 Kills
+Engineer,MP7,Laser Sight,Accessory,20 Kills
+Engineer,MP7,Compensator,Barrel,30 Kills
+Engineer,MP7,M145 (3.4X),Optic,40 Kills
+Engineer,MP7,Flash Light,Accessory,50 Kills
+Engineer,MP7,Muzzle Brake,Barrel,60 Kills
+Engineer,MP7,Holo (1X),Optic,70 Kills
+Engineer,MP7,Suppressor,Barrel,80 Kills
+Engineer,MP7,ACOG (4X),Optic,90 Kills
+Engineer,MP7,Canted Iron Sights,Accessory,100 Kills
+Engineer,MP7,Heavy Barrel,Barrel,110 Kills
+Engineer,MP7,FLIR (IR 2X),Optic,BattlePack
+Engineer,MP7,PRISMA (3.4X),Optic,BattlePack
+Engineer,MP7,JGM-4 (4X),Optic,BattlePack
+Engineer,MP7,Coyote (RDS),Optic,BattlePack
+Engineer,MP7,Flash Hider,Barrel,BattlePack
+Engineer,MP7,Green Laser Sight,Optic,BattlePack
+Engineer,MP7,IRNV (IR 1X),Optic,BattlePack
+Engineer,MP7,Kobra (RDS),Optic,BattlePack
+Engineer,MP7,LS06 Suppressor,Barrel,BattlePack
+Engineer,MP7,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,MP7,Laser/Light Combo,Accessory,BattlePack
+Engineer,MP7,PKA-S (1X),Optic,BattlePack
+Engineer,MP7,PK-A (3.4X),Optic,BattlePack
+Engineer,MP7,PSO-1 (4X),Optic,BattlePack
+Engineer,MP7,R2 Suppressor,Barrel,BattlePack
+Engineer,MP7,Tactical Light,Accessory,BattlePack
+Engineer,MP7,Tri Beam Laser,Accessory,BattlePack
+Engineer,MP7,HD-33 (1X),Optic,BattlePack
+Engineer,AS VAL,Iron Sights,Optic,Default
+Engineer,AS VAL,Kobra (RDS),Optic,10 Kills
+Engineer,AS VAL,Laser Sight,Accessory,20 Kills
+Engineer,AS VAL,Ergo Grip,Underbarrel,30 Kills
+Engineer,AS VAL,PK-A (3.4X),Optic,40 Kills
+Engineer,AS VAL,Flash Light,Accessory,50 Kills
+Engineer,AS VAL,Angled Grip,Barrel,60 Kills
+Engineer,AS VAL,PKA-S (1X),Optic,70 Kills
+Engineer,AS VAL,Stubby Grip,Underbarrel,80 Kills
+Engineer,AS VAL,PSO-1 (4X),Optic,90 Kills
+Engineer,AS VAL,Canted Iron Sights,Accessory,100 Kills
+Engineer,AS VAL,FLIR (IR 2X),Optic,BattlePack
+Engineer,AS VAL,PRISMA (3.4X),Optic,BattlePack
+Engineer,AS VAL,JGM (4X),Optic,BattlePack
+Engineer,AS VAL,Coyote (RDS),Optic,BattlePack
+Engineer,AS VAL,Folding Grip,Underbarrel,BattlePack
+Engineer,AS VAL,Potato Grip,Underbarrel,BattlePack
+Engineer,AS VAL,Vertical Grip,Underbarrel,BattlePack
+Engineer,AS VAL,Green Laser Sight,Optic,BattlePack
+Engineer,AS VAL,IRNV (IR 1X),Optic,BattlePack
+Engineer,AS VAL,Laser/Light Combo,Accessory,BattlePack
+Engineer,AS VAL,Tactical Light,Accessory,BattlePack
+Engineer,AS VAL,Tri Beam Laser,Accessory,BattlePack
+Engineer,AS VAL,HD-33 (1X),Optic,BattlePack
+Engineer,AS VAL,ACOG (4X),Optic,BattlePack
+Engineer,AS VAL,Holo (1X),Optic,BattlePack
+Engineer,AS VAL,M145 (3.4X),Optic,BattlePack
+Engineer,AS VAL,Reflex (RDS),Optic,BattlePack
+Engineer,SR-2,Iron Sights,Optic,Default
+Engineer,SR-2,Kobra (RDS),Optic,10 Kills
+Engineer,SR-2,Laser Sight,Accessory,20 Kills
+Engineer,SR-2,Compensator,Barrel,30 Kills
+Engineer,SR-2,PK-A (3.4X),Optic,40 Kills
+Engineer,SR-2,Flash Light,Accessory,50 Kills
+Engineer,SR-2,Muzzle Brake,Barrel,60 Kills
+Engineer,SR-2,PKA-S (1X),Optic,70 Kills
+Engineer,SR-2,PBS-4 Suppressor,Barrel,80 Kills
+Engineer,SR-2,PSO-1 (4X),Optic,90 Kills
+Engineer,SR-2,Canted Iron Sights,Accessory,100 Kills
+Engineer,SR-2,Heavy Barrel,Barrel,110 Kills
+Engineer,SR-2,FLIR (IR 2X),Optic,BattlePack
+Engineer,SR-2,PRISMA (3.4X),Optic,BattlePack
+Engineer,SR-2,JGM-4 (4X),Optic,BattlePack
+Engineer,SR-2,Coyote (RDS),Optic,BattlePack
+Engineer,SR-2,Flash Hider,Barrel,BattlePack
+Engineer,SR-2,Green Laser Sight,Optic,BattlePack
+Engineer,SR-2,IRNV (IR 1X),Optic,BattlePack
+Engineer,SR-2,LS06 Suppressor,Barrel,BattlePack
+Engineer,SR-2,M135 (3.4X),Optic,BattlePack
+Engineer,SR-2,Laser/Light Combo,Accessory,BattlePack
+Engineer,SR-2,R2 Suppressor,Barrel,BattlePack
+Engineer,SR-2,Tactical Light,Accessory,BattlePack
+Engineer,SR-2,Tri Beam Laser,Accessory,BattlePack
+Engineer,SR-2,HD-33 (1X),Optic,BattlePack
+Engineer,SR-2,ACOG (4X),Optic,BattlePack
+Engineer,SR-2,Holo (1X),Optic,BattlePack
+Engineer,SR-2,Reflex (RDS),Optic,BattlePack
+Engineer,SR-2,Suppressor,Barrel,BattlePack
+Engineer,MPX,Iron Sights,Optic,Default
+Engineer,MPX,Reflex (RDS),Optic,10 Kills
+Engineer,MPX,Laser Sight,Accessory,20 Kills
+Engineer,MPX,ERGO Grip,Underbarrel,30 Kills
+Engineer,MPX,Compensator,Barrel,40 Kills
+Engineer,MPX,M145 (3.4X),Optic,50 Kills
+Engineer,MPX,Flash Light,Accessory,60 Kills
+Engineer,MPX,Angled Grip,Underbarrel,70 Kills
+Engineer,MPX,Muzzle Brake,Barrel,80 Kills
+Engineer,MPX,Holo (1X),Optic,90 Kills
+Engineer,MPX,Stubby Grip,Underbarrel,100 Kills
+Engineer,MPX,Suppressor,Barrel,110 Kills
+Engineer,MPX,ACOG (4X),Optic,120 Kills
+Engineer,MPX,Canted Iron Sights,Accessory,130 Kills
+Engineer,MPX,Heavy Barrel,Barrel,140 Kills
+Engineer,MPX,FLIR (IR 2X),Optic,BattlePack
+Engineer,MPX,PRISMA (3.4X),Optic,BattlePack
+Engineer,MPX,JGM-4 (4X),Optic,BattlePack
+Engineer,MPX,Coyote (RDS),Optic,BattlePack
+Engineer,MPX,Flash Hider,Barrel,BattlePack
+Engineer,MPX,Folding Grip,Underbarrel,BattlePack
+Engineer,MPX,Potato Grip,Underbarrel,BattlePack
+Engineer,MPX,Vertical Grip,Underbarrel,BattlePack
+Engineer,MPX,Green Laser Sight,Optic,BattlePack
+Engineer,MPX,IRNV (IR 1X),Optic,BattlePack
+Engineer,MPX,Kobra (RDS),Optic,BattlePack
+Engineer,MPX,LS06 Suppressor,Barrel,BattlePack
+Engineer,MPX,PBS-4 Suppressor,Barrel,BattlePack
+Engineer,MPX,Laser/Light Combo,Accessory,BattlePack
+Engineer,MPX,PKA-S (1X),Optic,BattlePack
+Engineer,MPX,PK-A (3.4X),Optic,BattlePack
+Engineer,MPX,PSO-1 (4X),Optic,BattlePack
+Engineer,MPX,R2 Suppressor,Barrel,BattlePack
+Engineer,MPX,Tactical Light,Accessory,BattlePack
+Engineer,MPX,Tri Beam Laser,Accessory,BattlePack
+Engineer,MPX,HD-33 (1X),Optic,BattlePack
+Engineer,Groza-4,Iron Sights,Optic,Default
+Engineer,Groza-4,Suppressor,Barrel,Default
+Engineer,Groza-4,Kobra (RDS),Optic,10 Kills
+Engineer,Groza-4,Laser Sight,Accessory,20 Kills
+Engineer,Groza-4,ERGO Grip,Underbarrel,30 Kills
+Engineer,Groza-4,PK-A (3.4X),Optic,40 Kills
+Engineer,Groza-4,Flash Light,Accessory,50 Kills
+Engineer,Groza-4,Angled Grip,Underbarrel,60 Kills
+Engineer,Groza-4,PKA-S (1X),Optic,70 Kills
+Engineer,Groza-4,Stubby Grip,Underbarrel,80 Kills
+Engineer,Groza-4,PSO-1 (4X),Optic,90 Kills
+Engineer,Groza-4,Reflex (RDS),Optic,BattlePack
+Engineer,Groza-4,Coyote (RDS),Optic,BattlePack
+Engineer,Groza-4,Holo (1X),Optic,BattlePack
+Engineer,Groza-4,HD-33 (1X),Optic,BattlePack
+Engineer,Groza-4,IRNV (IR 1X),Optic,BattlePack
+Engineer,Groza-4,FLIR (IR 2X),Optic,BattlePack
+Engineer,Groza-4,M145 (3.4X),Optic,BattlePack
+Engineer,Groza-4,PRISMA (3.4X),Optic,BattlePack
+Engineer,Groza-4,ACOG (4X),Optic,BattlePack
+Engineer,Groza-4,JGM-4 (4X),Optic,BattlePack
+Engineer,Groza-4,Tactical Light,Accessory,BattlePack
+Engineer,Groza-4,Tri Beam Laser,Accessory,BattlePack
+Engineer,Groza-4,Green Laser Sight,Accessory,BattlePack
+Engineer,Groza-4,Laser/Light Combo,Accessory,BattlePack
+Engineer,Groza-4,Vertical Grip,Underbarrel,BattlePack
+Engineer,Groza-4,Folding Grip,Underbarrel,BattlePack
+Engineer,Groza-4,Potato Grip,Underbarrel,BattlePack
+Support,U-100 MK5,Iron Sights,Optic,Default
+Support,U-100 MK5,HD-33 (1X),Optic,Default
+Support,U-100 MK5,Magnifier (2X),Accessory,Default
+Support,U-100 MK5,Muzzle Brake,Barrel,Default
+Support,U-100 MK5,Bipod,Underbarrel,Default
+Support,U-100 MK5,Stubby Grip,Underbarrel,10 Kills
+Support,U-100 MK5,PRISMA (3.4X),Optic,20 Kills
+Support,U-100 MK5,Laser Sight,Accessory,30 Kills
+Support,U-100 MK5,Compensator,Barrel,40 Kills
+Support,U-100 MK5,Coyote (RDS),Optic,50 Kills
+Support,U-100 MK5,Flash Light,Accessory,60 Kills
+Support,U-100 MK5,ERGO Grip,Underbarrel,70 Kills
+Support,U-100 MK5,LS06 Suppressor,Barrel,80 Kills
+Support,U-100 MK5,JGM-4 (4X),Optic,100 Kills
+Support,U-100 MK5,Angled Grip,Underbarrel,110 Kills
+Support,U-100 MK5,Heavy Barrel,Barrel,120 Kills
+Support,U-100 MK5,ACOG (4X),Optic,BattlePack
+Support,U-100 MK5,FLIR (IR 2X),Optic,BattlePack
+Support,U-100 MK5,Holo (1X),Optic,BattlePack
+Support,U-100 MK5,Flash Hider,Barrel,BattlePack
+Support,U-100 MK5,Folding Grip,Underbarrel,BattlePack
+Support,U-100 MK5,Potato Grip,Underbarrel,BattlePack
+Support,U-100 MK5,Vertical Grip,Underbarrel,BattlePack
+Support,U-100 MK5,Green Laser Sight,Optic,BattlePack
+Support,U-100 MK5,IRNV (IR 1X),Optic,BattlePack
+Support,U-100 MK5,Kobra (RDS),Optic,BattlePack
+Support,U-100 MK5,M145 (3.4X),Optic,BattlePack
+Support,U-100 MK5,PBS-4 Suppressor,Barrel,BattlePack
+Support,U-100 MK5,Laser/Light Combo,Accessory,BattlePack
+Support,U-100 MK5,PKA-S (1X),Optic,BattlePack
+Support,U-100 MK5,PK-A (3.4X),Optic,BattlePack
+Support,U-100 MK5,PSO-1 (4X),Optic,BattlePack
+Support,U-100 MK5,R2 Suppressor,Barrel,BattlePack
+Support,U-100 MK5,Reflex (RDS),Optic,BattlePack
+Support,U-100 MK5,Suppressor,Barrel,BattlePack
+Support,U-100 MK5,Tactical Light,Accessory,BattlePack
+Support,U-100 MK5,Tri Beam Laser,Accessory,BattlePack
+Support,Type 88 LMG,Iron Sights,Optic,Default
+Support,Type 88 LMG,Bipod,Underbarrel,Default
+Support,Type 88 LMG,HD-33 (1X),Optic,10 Kills
+Support,Type 88 LMG,Magnifier (2X),Accessory,20 Kills
+Support,Type 88 LMG,Muzzle Brake,Barrel,30 Kills
+Support,Type 88 LMG,Stubby Grip,Underbarrel,40 Kills
+Support,Type 88 LMG,PRISMA (3.4X),Optic,50 Kills
+Support,Type 88 LMG,Laser Sight,Accessory,60 Kills
+Support,Type 88 LMG,Compensator,Barrel,70 Kills
+Support,Type 88 LMG,Coyote (RDS),Optic,80 Kills
+Support,Type 88 LMG,Flash Light,Accessory,90 Kills
+Support,Type 88 LMG,ERGO Grip,Underbarrel,100 Kills
+Support,Type 88 LMG,LS06 Suppressor,Barrel,110 Kills
+Support,Type 88 LMG,JGM-4 (4X),Optic,120 Kills
+Support,Type 88 LMG,Angled Grip,Underbarrel,130 Kills
+Support,Type 88 LMG,Heavy Barrel,Barrel,140 Kills
+Support,Type 88 LMG,ACOG (4X),Optic,BattlePack
+Support,Type 88 LMG,Holo (1X),Optic,BattlePack
+Support,Type 88 LMG,Flash Hider,Barrel,BattlePack
+Support,Type 88 LMG,Folding Grip,Underbarrel,BattlePack
+Support,Type 88 LMG,Potato Grip,Underbarrel,BattlePack
+Support,Type 88 LMG,Vertical Grip,Underbarrel,BattlePack
+Support,Type 88 LMG,Green Laser Sight,Optic,BattlePack
+Support,Type 88 LMG,IRNV (IR 1X),Optic,BattlePack
+Support,Type 88 LMG,Kobra (RDS),Optic,BattlePack
+Support,Type 88 LMG,M145 (3.4X),Optic,BattlePack
+Support,Type 88 LMG,PBS-4 Suppressor,Barrel,BattlePack
+Support,Type 88 LMG,Laser/Light Combo,Accessory,BattlePack
+Support,Type 88 LMG,PKA-S (1X),Optic,BattlePack
+Support,Type 88 LMG,PK-A (3.4X),Optic,BattlePack
+Support,Type 88 LMG,PSO-1 (4X),Optic,BattlePack
+Support,Type 88 LMG,R2 Suppressor,Barrel,BattlePack
+Support,Type 88 LMG,Reflex (RDS),Optic,BattlePack
+Support,Type 88 LMG,Suppressor,Barrel,BattlePack
+Support,Type 88 LMG,Tactical Light,Accessory,BattlePack
+Support,Type 88 LMG,Tri Beam Laser,Accessory,BattlePack
+Support,Type 88 LMG,FLIR (IR 2X),Optic,BattlePack
+Support,LSAT,Iron Sights,Optic,Default
+Support,LSAT,Bipod,Underbarrel,Default
+Support,LSAT,Holo (1X),Optic,10 Kills
+Support,LSAT,Magnifier (2X),Accessory,20 Kills
+Support,LSAT,Muzzle Brake,Barrel,30 Kills
+Support,LSAT,Stubby Grip,Underbarrel,40 Kills
+Support,LSAT,M145 (3.4X),Optic,50 Kills
+Support,LSAT,Laser Sight,Accessory,60 Kills
+Support,LSAT,Compensator,Barrel,70 Kills
+Support,LSAT,Reflex (RDS),Optic,80 Kills
+Support,LSAT,Flash Light,Accessory,90 Kills
+Support,LSAT,ERGO Grip,Underbarrel,100 Kills
+Support,LSAT,Suppressor,Barrel,110 Kills
+Support,LSAT,ACOG (4X),Optic,120 Kills
+Support,LSAT,Angled Grip,Underbarrel,130 Kills
+Support,LSAT,Heavy Barrel,Barrel,140 Kills
+Support,LSAT,FLIR (IR 2X),Optic,BattlePack
+Support,LSAT,PRISMA (3.4X),Optic,BattlePack
+Support,LSAT,JGM-4 (4X),Optic,BattlePack
+Support,LSAT,Coyote (RDS),Optic,BattlePack
+Support,LSAT,Flash Hider,Barrel,BattlePack
+Support,LSAT,Folding Grip,Underbarrel,BattlePack
+Support,LSAT,Potato Grip,Underbarrel,BattlePack
+Support,LSAT,Vertical Grip,Underbarrel,BattlePack
+Support,LSAT,Green Laser Sight,Optic,BattlePack
+Support,LSAT,IRNV (IR 1X),Optic,BattlePack
+Support,LSAT,Kobra (RDS),Optic,BattlePack
+Support,LSAT,LS06 Suppressor,Barrel,BattlePack
+Support,LSAT,PBS-4 Suppressor,Barrel,BattlePack
+Support,LSAT,Laser/Light Combo,Accessory,BattlePack
+Support,LSAT,PKA-S (1X),Optic,BattlePack
+Support,LSAT,PK-A (3.4X),Optic,BattlePack
+Support,LSAT,PSO-1 (4X),Optic,BattlePack
+Support,LSAT,R2 Suppressor,Barrel,BattlePack
+Support,LSAT,Tactical Light,Accessory,BattlePack
+Support,LSAT,Tri Beam Laser,Accessory,BattlePack
+Support,LSAT,HD-33 (1X),Optic,BattlePack
+Support,PKP Pecheneg,Iron Sights,Optic,Default
+Support,PKP Pecheneg,Bipod,Underbarrel,Default
+Support,PKP Pecheneg,PKA-S (1X),Optic,10 Kills
+Support,PKP Pecheneg,Magnifier (2X),Accessory,20 Kills
+Support,PKP Pecheneg,Muzzle Brake,Barrel,30 Kills
+Support,PKP Pecheneg,Stubby Grip,Underbarrel,40 Kills
+Support,PKP Pecheneg,PK-A (3.4X),Optic,50 Kills
+Support,PKP Pecheneg,Laser Sight,Accessory,60 Kills
+Support,PKP Pecheneg,Compensator,Barrel,70 Kills
+Support,PKP Pecheneg,Kobra (RDS),Optic,80 Kills
+Support,PKP Pecheneg,Flash Light,Accessory,90 Kills
+Support,PKP Pecheneg,ERGO Grip,Underbarrel,100 Kills
+Support,PKP Pecheneg,PBS-4 Suppressor,Barrel,110 Kills
+Support,PKP Pecheneg,PSO-1 (4X),Optic,120 Kills
+Support,PKP Pecheneg,Angled Grip,Underbarrel,130 Kills
+Support,PKP Pecheneg,Heavy Barrel,Barrel,140 Kills
+Support,PKP Pecheneg,FLIR (IR 2X),Optic,BattlePack
+Support,PKP Pecheneg,ACOG (4X),Optic,BattlePack
+Support,PKP Pecheneg,PRISMA (3.4X),Optic,BattlePack
+Support,PKP Pecheneg,JGM-4 (4X),Optic,BattlePack
+Support,PKP Pecheneg,Coyote (RDS),Optic,BattlePack
+Support,PKP Pecheneg,Holo (1X),Optic,BattlePack
+Support,PKP Pecheneg,Flash Hider,Barrel,BattlePack
+Support,PKP Pecheneg,Folding Grip,Underbarrel,BattlePack
+Support,PKP Pecheneg,Potato Grip,Underbarrel,BattlePack
+Support,PKP Pecheneg,Vertical Grip,Underbarrel,BattlePack
+Support,PKP Pecheneg,Green Laser Sight,Optic,BattlePack
+Support,PKP Pecheneg,IRNV (IR 1X),Optic,BattlePack
+Support,PKP Pecheneg,LS06 Suppressor,Barrel,BattlePack
+Support,PKP Pecheneg,M145 (3.4X),Optic,BattlePack
+Support,PKP Pecheneg,Laser/Light Combo,Accessory,BattlePack
+Support,PKP Pecheneg,R2 Suppressor,Barrel,BattlePack
+Support,PKP Pecheneg,Reflex (RDS),Optic,BattlePack
+Support,PKP Pecheneg,Suppressor,Barrel,BattlePack
+Support,PKP Pecheneg,Tactical Light,Accessory,BattlePack
+Support,PKP Pecheneg,Tri Beam Laser,Accessory,BattlePack
+Support,PKP Pecheneg,HD-33 (1X),Optic,BattlePack
+Support,QBB-95-1,Iron Sights,Optic,Default
+Support,QBB-95-1,Bipod,Underbarrel,Default
+Support,QBB-95-1,HD-33 (1X),Optic,10 Kills
+Support,QBB-95-1,Magnifier (2X),Accessory,20 Kills
+Support,QBB-95-1,Muzzle Brake,Barrel,30 Kills
+Support,QBB-95-1,Stubby Grip,Underbarrel,40 Kills
+Support,QBB-95-1,PRISMA (3.4X),Optic,50 Kills
+Support,QBB-95-1,Laser Sight,Accessory,60 Kills
+Support,QBB-95-1,Compensator,Barrel,70 Kills
+Support,QBB-95-1,Coyote (RDS),Optic,80 Kills
+Support,QBB-95-1,Flash Light,Accessory,90 Kills
+Support,QBB-95-1,ERGO Grip,Underbarrel,100 Kills
+Support,QBB-95-1,LS06 Suppressor,Barrel,110 Kills
+Support,QBB-95-1,JGM-4 (4X),Optic,120 Kills
+Support,QBB-95-1,Angled Grip,Underbarrel,130 Kills
+Support,QBB-95-1,Heavy Barrel,Barrel,140 Kills
+Support,QBB-95-1,ACOG (4X),Optic,BattlePack
+Support,QBB-95-1,FLIR (IR 2X),Optic,BattlePack
+Support,QBB-95-1,Holo (1X),Optic,BattlePack
+Support,QBB-95-1,Flash Hider,Barrel,BattlePack
+Support,QBB-95-1,Folding Grip,Underbarrel,BattlePack
+Support,QBB-95-1,Potato Grip,Underbarrel,BattlePack
+Support,QBB-95-1,Vertical Grip,Underbarrel,BattlePack
+Support,QBB-95-1,Green Laser Sight,Optic,BattlePack
+Support,QBB-95-1,IRNV (IR 1X),Optic,BattlePack
+Support,QBB-95-1,Kobra (RDS),Optic,BattlePack
+Support,QBB-95-1,M145 (3.4X),Optic,BattlePack
+Support,QBB-95-1,PBS-4 Suppressor,Barrel,BattlePack
+Support,QBB-95-1,Laser/Light Combo,Accessory,BattlePack
+Support,QBB-95-1,PKA-S (1X),Optic,BattlePack
+Support,QBB-95-1,PK-A (3.4X),Optic,BattlePack
+Support,QBB-95-1,PSO-1 (4X),Optic,BattlePack
+Support,QBB-95-1,R2 Suppressor,Barrel,BattlePack
+Support,QBB-95-1,Reflex (RDS),Optic,BattlePack
+Support,QBB-95-1,Suppressor,Barrel,BattlePack
+Support,QBB-95-1,Tactical Light,Accessory,BattlePack
+Support,QBB-95-1,Tri Beam Laser,Accessory,BattlePack
+Support,M240B,Iron Sights,Optic,Default
+Support,M240B,Bipod,Underbarrel,Default
+Support,M240B,Holo (1X),Optic,10 Kills
+Support,M240B,Magnifier (2X),Accessory,20 Kills
+Support,M240B,Muzzle Brake,Barrel,30 Kills
+Support,M240B,Stubby Grip,Underbarrel,40 Kills
+Support,M240B,M145 (3.4X),Optic,50 Kills
+Support,M240B,Laser Sight,Accessory,60 Kills
+Support,M240B,Compensator,Barrel,70 Kills
+Support,M240B,Reflex (RDS),Optic,80 Kills
+Support,M240B,Flash Light,Accessory,90 Kills
+Support,M240B,ERGO Grip,Underbarrel,100 Kills
+Support,M240B,Suppressor,Barrel,110 Kills
+Support,M240B,ACOG (4X),Optic,120 Kills
+Support,M240B,Angled Grip,Underbarrel,130 Kills
+Support,M240B,Heavy Barrel,Barrel,140 Kills
+Support,M240B,FLIR (IR 2X),Optic,BattlePack
+Support,M240B,PRISMA (3.4X),Optic,BattlePack
+Support,M240B,JGM-4 (4X),Optic,BattlePack
+Support,M240B,Coyote (RDS),Optic,BattlePack
+Support,M240B,Flash Hider,Barrel,BattlePack
+Support,M240B,Folding Grip,Underbarrel,BattlePack
+Support,M240B,Potato Grip,Underbarrel,BattlePack
+Support,M240B,Vertical Grip,Underbarrel,BattlePack
+Support,M240B,Green Laser Sight,Optic,BattlePack
+Support,M240B,IRNV (IR 1X),Optic,BattlePack
+Support,M240B,Kobra (RDS),Optic,BattlePack
+Support,M240B,LS06 Suppressor,Barrel,BattlePack
+Support,M240B,PBS-4 Suppressor,Barrel,BattlePack
+Support,M240B,Laser/Light Combo,Accessory,BattlePack
+Support,M240B,PKA-S (1X),Optic,BattlePack
+Support,M240B,PK-A (3.4X),Optic,BattlePack
+Support,M240B,PSO-1 (4X),Optic,BattlePack
+Support,M240B,R2 Suppressor,Barrel,BattlePack
+Support,M240B,Tactical Light,Accessory,BattlePack
+Support,M240B,Tri Beam Laser,Accessory,BattlePack
+Support,M240B,HD-33 (1X),Optic,BattlePack
+Support,MG4,Iron Sights,Optic,Default
+Support,MG4,Bipod,Underbarrel,Default
+Support,MG4,Holo (1X),Optic,10 Kills
+Support,MG4,Magnifier (2X),Accessory,20 Kills
+Support,MG4,Muzzle Brake,Barrel,30 Kills
+Support,MG4,Stubby Grip,Underbarrel,40 Kills
+Support,MG4,M145 (3.4X),Optic,50 Kills
+Support,MG4,Laser Sight,Accessory,60 Kills
+Support,MG4,Compensator,Barrel,70 Kills
+Support,MG4,Reflex (RDS),Optic,80 Kills
+Support,MG4,Flash Light,Accessory,90 Kills
+Support,MG4,ERGO Grip,Underbarrel,100 Kills
+Support,MG4,Suppressor,Barrel,110 Kills
+Support,MG4,ACOG (4X),Optic,120 Kills
+Support,MG4,Angled Grip,Underbarrel,130 Kills
+Support,MG4,Heavy Barrel,Barrel,140 Kills
+Support,MG4,FLIR (IR 2X),Optic,BattlePack
+Support,MG4,PRISMA (3.4X),Optic,BattlePack
+Support,MG4,JGM-4 (4X),Optic,BattlePack
+Support,MG4,Coyote (RDS),Optic,BattlePack
+Support,MG4,Flash Hider,Barrel,BattlePack
+Support,MG4,Folding Grip,Underbarrel,BattlePack
+Support,MG4,Potato Grip,Underbarrel,BattlePack
+Support,MG4,Vertical Grip,Underbarrel,BattlePack
+Support,MG4,Green Laser Sight,Optic,BattlePack
+Support,MG4,IRNV (IR 1X),Optic,BattlePack
+Support,MG4,Kobra (RDS),Optic,BattlePack
+Support,MG4,LS06 Suppressor,Barrel,BattlePack
+Support,MG4,PBS-4 Suppressor,Barrel,BattlePack
+Support,MG4,Laser/Light Combo,Accessory,BattlePack
+Support,MG4,PKA-S (1X),Optic,BattlePack
+Support,MG4,PK-A (3.4X),Optic,BattlePack
+Support,MG4,PSO-1 (4X),Optic,BattlePack
+Support,MG4,R2 Suppressor,Barrel,BattlePack
+Support,MG4,Tactical Light,Accessory,BattlePack
+Support,MG4,Tri Beam Laser,Accessory,BattlePack
+Support,MG4,HD-33 (1X),Optic,BattlePack
+Support,M249,Iron Sights,Optic,Default
+Support,M249,Bipod,Underbarrel,Default
+Support,M249,Holo (1X),Optic,10 Kills
+Support,M249,Magnifier (2X),Accessory,20 Kills
+Support,M249,Muzzle Brake,Barrel,30 Kills
+Support,M249,Stubby Grip,Underbarrel,40 Kills
+Support,M249,M145 (3.4X),Optic,50 Kills
+Support,M249,Laser Sight,Accessory,60 Kills
+Support,M249,Compensator,Barrel,70 Kills
+Support,M249,Reflex (RDS),Optic,80 Kills
+Support,M249,Flash Light,Accessory,90 Kills
+Support,M249,ERGO Grip,Underbarrel,100 Kills
+Support,M249,Suppressor,Barrel,110 Kills
+Support,M249,ACOG (4X),Optic,120 Kills
+Support,M249,Angled Grip,Underbarrel,130 Kills
+Support,M249,Heavy Barrel,Barrel,140 Kills
+Support,M249,FLIR (IR 2X),Optic,BattlePack
+Support,M249,PRISMA (3.4X),Optic,BattlePack
+Support,M249,JGM-4 (4X),Optic,BattlePack
+Support,M249,Coyote (RDS),Optic,BattlePack
+Support,M249,Flash Hider,Barrel,BattlePack
+Support,M249,Folding Grip,Underbarrel,BattlePack
+Support,M249,Potato Grip,Underbarrel,BattlePack
+Support,M249,Vertical Grip,Underbarrel,BattlePack
+Support,M249,Green Laser Sight,Optic,BattlePack
+Support,M249,IRNV (IR 1X),Optic,BattlePack
+Support,M249,Kobra (RDS),Optic,BattlePack
+Support,M249,LS06 Suppressor,Barrel,BattlePack
+Support,M249,PBS-4 Suppressor,Barrel,BattlePack
+Support,M249,Laser/Light Combo,Accessory,BattlePack
+Support,M249,PKA-S (1X),Optic,BattlePack
+Support,M249,PK-A (3.4X),Optic,BattlePack
+Support,M249,PSO-1 (4X),Optic,BattlePack
+Support,M249,R2 Suppressor,Barrel,BattlePack
+Support,M249,Tactical Light,Accessory,BattlePack
+Support,M249,Tri Beam Laser,Accessory,BattlePack
+Support,M249,HD-33 (1X),Optic,BattlePack
+Support,RPK-12,Iron Sights,Optic,Default
+Support,RPK-12,Bipod,Underbarrel,Default
+Support,RPK-12,PKA-S (1X),Optic,10 Kills
+Support,RPK-12,Magnifier (2X),Accessory,20 Kills
+Support,RPK-12,Muzzle Brake,Barrel,30 Kills
+Support,RPK-12,Stubby Grip,Underbarrel,40 Kills
+Support,RPK-12,PK-A (3.4X),Optic,50 Kills
+Support,RPK-12,Laser Sight,Accessory,60 Kills
+Support,RPK-12,Compensator,Barrel,70 Kills
+Support,RPK-12,Kobra (RDS),Optic,80 Kills
+Support,RPK-12,Flash Light,Accessory,90 Kills
+Support,RPK-12,ERGO Grip,Underbarrel,100 Kills
+Support,RPK-12,PBS-4 Suppressor,Barrel,110 Kills
+Support,RPK-12,PSO-1 (4X),Optic,120 Kills
+Support,RPK-12,Angled Grip,Underbarrel,130 Kills
+Support,RPK-12,Heavy Barrel,Barrel,140 Kills
+Support,RPK-12,FLIR (IR 2X),Optic,BattlePack
+Support,RPK-12,ACOG (4X),Optic,BattlePack
+Support,RPK-12,PRISMA (3.4X),Optic,BattlePack
+Support,RPK-12,JGM-4 (4X),Optic,BattlePack
+Support,RPK-12,Coyote (RDS),Optic,BattlePack
+Support,RPK-12,Holo (1X),Optic,BattlePack
+Support,RPK-12,Flash Hider,Barrel,BattlePack
+Support,RPK-12,Folding Grip,Underbarrel,BattlePack
+Support,RPK-12,Potato Grip,Underbarrel,BattlePack
+Support,RPK-12,Vertical Grip,Underbarrel,BattlePack
+Support,RPK-12,Green Laser Sight,Optic,BattlePack
+Support,RPK-12,IRNV (IR 1X),Optic,BattlePack
+Support,RPK-12,LS06 Suppressor,Barrel,BattlePack
+Support,RPK-12,M145 (3.4X),Optic,BattlePack
+Support,RPK-12,Laser/Light Combo,Accessory,BattlePack
+Support,RPK-12,R2 Suppressor,Barrel,BattlePack
+Support,RPK-12,Reflex (RDS),Optic,BattlePack
+Support,RPK-12,Suppressor,Barrel,BattlePack
+Support,RPK-12,Tactical Light,Accessory,BattlePack
+Support,RPK-12,Tri Beam Laser,Accessory,BattlePack
+Support,RPK-12,HD-33 (1X),Optic,BattlePack
+Support,RPK-74M,Iron Sights,Optic,Default
+Support,RPK-74M,Bipod,Underbarrel,Default
+Support,RPK-74M,PKA-S (1X),Optic,10 Kills
+Support,RPK-74M,Magnifier (2X),Accessory,20 Kills
+Support,RPK-74M,Muzzle Brake,Barrel,30 Kills
+Support,RPK-74M,Stubby Grip,Underbarrel,40 Kills
+Support,RPK-74M,PK-A (3.4X),Optic,50 Kills
+Support,RPK-74M,Laser Sight,Accessory,60 Kills
+Support,RPK-74M,Compensator,Barrel,70 Kills
+Support,RPK-74M,Kobra (RDS),Optic,80 Kills
+Support,RPK-74M,Flash Light,Accessory,90 Kills
+Support,RPK-74M,ERGO Grip,Underbarrel,100 Kills
+Support,RPK-74M,PBS-4 Suppressor,Barrel,110 Kills
+Support,RPK-74M,PSO-1 (4X),Optic,120 Kills
+Support,RPK-74M,Angled Grip,Underbarrel,130 Kills
+Support,RPK-74M,Heavy Barrel,Barrel,140 Kills
+Support,RPK-74M,FLIR (IR 2X),Optic,BattlePack
+Support,RPK-74M,ACOG (4X),Optic,BattlePack
+Support,RPK-74M,PRISMA (3.4X),Optic,BattlePack
+Support,RPK-74M,JGM-4 (4X),Optic,BattlePack
+Support,RPK-74M,Coyote (RDS),Optic,BattlePack
+Support,RPK-74M,Holo (1X),Optic,BattlePack
+Support,RPK-74M,Flash Hider,Barrel,BattlePack
+Support,RPK-74M,Folding Grip,Underbarrel,BattlePack
+Support,RPK-74M,Potato Grip,Underbarrel,BattlePack
+Support,RPK-74M,Vertical Grip,Underbarrel,BattlePack
+Support,RPK-74M,Green Laser Sight,Optic,BattlePack
+Support,RPK-74M,IRNV (IR 1X),Optic,BattlePack
+Support,RPK-74M,LS06 Suppressor,Barrel,BattlePack
+Support,RPK-74M,M145 (3.4X),Optic,BattlePack
+Support,RPK-74M,Laser/Light Combo,Accessory,BattlePack
+Support,RPK-74M,R2 Suppressor,Barrel,BattlePack
+Support,RPK-74M,Reflex (RDS),Optic,BattlePack
+Support,RPK-74M,Suppressor,Barrel,BattlePack
+Support,RPK-74M,Tactical Light,Accessory,BattlePack
+Support,RPK-74M,Tri Beam Laser,Accessory,BattlePack
+Support,RPK-74M,HD-33 (1X),Optic,BattlePack
+Support,M60-E4,Iron Sights,Optic,Default
+Support,M60-E4,Bipod,Underbarrel,Default
+Support,M60-E4,Holo (1X),Optic,10 Kills
+Support,M60-E4,Magnifier (2X),Accessory,20 Kills
+Support,M60-E4,Muzzle Brake,Barrel,30 Kills
+Support,M60-E4,Stubby Grip,Underbarrel,40 Kills
+Support,M60-E4,M145 (3.4X),Optic,50 Kills
+Support,M60-E4,Laser Sight,Accessory,60 Kills
+Support,M60-E4,Compensator,Barrel,70 Kills
+Support,M60-E4,Reflex (RDS),Optic,80 Kills
+Support,M60-E4,Flash Light,Accessory,90 Kills
+Support,M60-E4,ERGO Grip,Underbarrel,100 Kills
+Support,M60-E4,Suppressor,Barrel,110 Kills
+Support,M60-E4,ACOG (4X),Optic,120 Kills
+Support,M60-E4,Angled Grip,Underbarrel,130 Kills
+Support,M60-E4,Heavy Barrel,Barrel,140 Kills
+Support,M60-E4,FLIR (IR 2X),Optic,BattlePack
+Support,M60-E4,PRISMA (3.4X),Optic,BattlePack
+Support,M60-E4,JGM-4 (4X),Optic,BattlePack
+Support,M60-E4,Coyote (RDS),Optic,BattlePack
+Support,M60-E4,Flash Hider,Barrel,BattlePack
+Support,M60-E4,Folding Grip,Underbarrel,BattlePack
+Support,M60-E4,Potato Grip,Underbarrel,BattlePack
+Support,M60-E4,Vertical Grip,Underbarrel,BattlePack
+Support,M60-E4,Green Laser Sight,Optic,BattlePack
+Support,M60-E4,IRNV (IR 1X),Optic,BattlePack
+Support,M60-E4,Kobra (RDS),Optic,BattlePack
+Support,M60-E4,LS06 Suppressor,Barrel,BattlePack
+Support,M60-E4,PBS-4 Suppressor,Barrel,BattlePack
+Support,M60-E4,Laser/Light Combo,Accessory,BattlePack
+Support,M60-E4,PKA-S (1X),Optic,BattlePack
+Support,M60-E4,PK-A (3.4X),Optic,BattlePack
+Support,M60-E4,PSO-1 (4X),Optic,BattlePack
+Support,M60-E4,R2 Suppressor,Barrel,BattlePack
+Support,M60-E4,Tactical Light,Accessory,BattlePack
+Support,M60-E4,Tri Beam Laser,Accessory,BattlePack
+Support,M60-E4,HD-33 (1X),Optic,BattlePack
+Support,AWS,Iron Sights,Optic,Default
+Support,AWS,Bipod,Underbarrel,Default
+Support,AWS,Holo (1X),Optic,10 Kills
+Support,AWS,Magnifier (2X),Accessory,20 Kills
+Support,AWS,Muzzle Brake,Barrel,30 Kills
+Support,AWS,Stubby Grip,Underbarrel,40 Kills
+Support,AWS,M145 (3.4X),Optic,50 Kills
+Support,AWS,Laser Sight,Accessory,60 Kills
+Support,AWS,Compensator,Barrel,70 Kills
+Support,AWS,Reflex (RDS),Optic,80 Kills
+Support,AWS,Flash Light,Accessory,90 Kills
+Support,AWS,ERGO Grip,Underbarrel,100 Kills
+Support,AWS,Suppressor,Barrel,110 Kills
+Support,AWS,ACOG (4X),Optic,120 Kills
+Support,AWS,Angled Grip,Underbarrel,130 Kills
+Support,AWS,Heavy Barrel,Barrel,140 Kills
+Support,AWS,FLIR (IR 2X),Optic,BattlePack
+Support,AWS,PRISMA (3.4X),Optic,BattlePack
+Support,AWS,JGM-4 (4X),Optic,BattlePack
+Support,AWS,Coyote (RDS),Optic,BattlePack
+Support,AWS,Flash Hider,Barrel,BattlePack
+Support,AWS,Folding Grip,Underbarrel,BattlePack
+Support,AWS,Potato Grip,Underbarrel,BattlePack
+Support,AWS,Vertical Grip,Underbarrel,BattlePack
+Support,AWS,Green Laser Sight,Optic,BattlePack
+Support,AWS,IRNV (IR 1X),Optic,BattlePack
+Support,AWS,Kobra (RDS),Optic,BattlePack
+Support,AWS,LS06 Suppressor,Barrel,BattlePack
+Support,AWS,PBS-4 Suppressor,Barrel,BattlePack
+Support,AWS,Laser/Light Combo,Accessory,BattlePack
+Support,AWS,PKA-S (1X),Optic,BattlePack
+Support,AWS,PK-A (3.4X),Optic,BattlePack
+Support,AWS,PSO-1 (4X),Optic,BattlePack
+Support,AWS,R2 Suppressor,Barrel,BattlePack
+Support,AWS,Tactical Light,Accessory,BattlePack
+Support,AWS,Tri Beam Laser,Accessory,BattlePack
+Support,AWS,HD-33 (1X),Optic,BattlePack
+Support,L86A1,Iron Sights,Optic,Default
+Support,L86A1,Bipod,Underbarrel,Default
+Support,L86A1,Holo (1X),Optic,10 Kills
+Support,L86A1,Magnifier (2X),Optic,20 Kills
+Support,L86A1,Muzzle Brake,Barrel,30 Kills
+Support,L86A1,Stubby Grip,Underbarrel,40 Kills
+Support,L86A1,M145 (3.4X),Optic,50 Kills
+Support,L86A1,Laser Sight,Accessory,60 Kills
+Support,L86A1,Compensator,Barrel,70 Kills
+Support,L86A1,Reflex (RDS),Optic,80 Kills
+Support,L86A1,Flash Light,Accessory,90 Kills
+Support,L86A1,ERGO Grip,Underbarrel,100 Kills
+Support,L86A1,Suppressor,Barrel,110 Kills
+Support,L86A1,ACOG (4X),Optic,120 Kills
+Support,L86A1,Angled Grip,Underbarrel,130 Kills
+Support,L86A1,Heavy Barrel,Barrel,140 Kills
+Support,L86A1,Coyote (RDS),Optic,BattlePack
+Support,L86A1,Kobra (RDS),Optic,BattlePack
+Support,L86A1,HD-33 (1X),Optic,BattlePack
+Support,L86A1,PKA-S (1X),Optic,BattlePack
+Support,L86A1,IRNV (IR 1X),Optic,BattlePack
+Support,L86A1,FLIR (IR 2X),Optic,BattlePack
+Support,L86A1,PRISMA (3.4X),Optic,BattlePack
+Support,L86A1,PK-A (3.4X),Optic,BattlePack
+Support,L86A1,JGM-4 (4X),Optic,BattlePack
+Support,L86A1,PSO-1 (4X),Optic,BattlePack
+Support,L86A1,Tactical Light,Accessory,BattlePack
+Support,L86A1,Tri Beam Laser,Accessory,BattlePack
+Support,L86A1,Green Laser Sight,Accessory,BattlePack
+Support,L86A1,Laser/Light Combo,Accessory,BattlePack
+Support,L86A1,Flash Hider,Barrel,BattlePack
+Support,L86A1,LS06 Suppressor,Barrel,BattlePack
+Support,L86A1,PBS-4 Suppressor,Barrel,BattlePack
+Support,L86A1,R2 Suppressor,Barrel,BattlePack
+Support,L86A1,Vertical Grip,Underbarrel,BattlePack
+Support,L86A1,Folding Grip,Underbarrel,BattlePack
+Support,L86A1,Potato Grip,Underbarrel,BattlePack
+Recon,CS-LR4,Iron Sights,Optic,Default
+Recon,CS-LR4,Bipod,Auxiliary,Default
+Recon,CS-LR4,CL6X (6X),Optic,Default
+Recon,CS-LR4,Variable Zoom (14X),Accessory,Default
+Recon,CS-LR4,JGM-4 (4X),Optic,10 Kills
+Recon,CS-LR4,Canted Ironsights,Accessory,20 Kills
+Recon,CS-LR4,Straight Pull,Auxiliary,30 Kills
+Recon,CS-LR4,Coyote (RDS),Optic,40 Kills
+Recon,CS-LR4,Laser Sight,Accessory,50 Kills
+Recon,CS-LR4,LS06 Suppressor,Barrel,60 Kills
+Recon,CS-LR4,PRISMA (3.4X),Optic,70 Kills
+Recon,CS-LR4,Flash Light,Accessory,80 Kills
+Recon,CS-LR4,Muzzle Brake,Barrel,90 Kills
+Recon,CS-LR4,HD-33 (1X),Optic,100 Kills
+Recon,CS-LR4,Ballistic (40X),Optic,110 Kills
+Recon,CS-LR4,Range Finder,Accessory,120 Kills
+Recon,CS-LR4,ACOG (4X),Optic,BattlePack
+Recon,CS-LR4,FLIR (IR 2X),Optic,BattlePack
+Recon,CS-LR4,Holo (1X),Optic,BattlePack
+Recon,CS-LR4,Flash Hider,Barrel,BattlePack
+Recon,CS-LR4,Green Laser Sight,Optic,BattlePack
+Recon,CS-LR4,IRNV (IR 1X),Optic,BattlePack
+Recon,CS-LR4,Kobra (RDS),Optic,BattlePack
+Recon,CS-LR4,M145 (3.4X),Optic,BattlePack
+Recon,CS-LR4,PBS-4 Suppressor,Barrel,BattlePack
+Recon,CS-LR4,Laser/Light Combo,Accessory,BattlePack
+Recon,CS-LR4,PKA-S (1X),Optic,BattlePack
+Recon,CS-LR4,PK-A (3.4X),Optic,BattlePack
+Recon,CS-LR4,PKS-07 (7X),Optic,BattlePack
+Recon,CS-LR4,PSO-1 (4X),Optic,BattlePack
+Recon,CS-LR4,R2 Suppressor,Barrel,BattlePack
+Recon,CS-LR4,Reflex (RDS),Optic,BattlePack
+Recon,CS-LR4,Rifle Scope (8X),Optic,BattlePack
+Recon,CS-LR4,Suppressor,Barrel,BattlePack
+Recon,CS-LR4,Tactical Light,Accessory,BattlePack
+Recon,CS-LR4,Tri Beam Laser,Accessory,BattlePack
+Recon,CS-LR4,Hunter (20X),Optic,BattlePack
+Recon,M40A5,Iron Sights,Optic,Default
+Recon,M40A5,Rifle Scope (8X),Optic,Default
+Recon,M40A5,Variable Zoom (14X),Accessory,10 Kills
+Recon,M40A5,Bipod,Auxiliary,20 Kills
+Recon,M40A5,ACOG (4X),Optic,30 Kills
+Recon,M40A5,Canted Ironsights,Accessory,40 Kills
+Recon,M40A5,Straight Pull,Auxiliary,50 Kills
+Recon,M40A5,Reflex (RDS),Optic,60 Kills
+Recon,M40A5,Laser Sight,Accessory,70 Kills
+Recon,M40A5,Suppressor,Barrel,80 Kills
+Recon,M40A5,M145 (3.4X),Optic,90 Kills
+Recon,M40A5,Flash Light,Accessory,100 Kills
+Recon,M40A5,Muzzle Brake,Barrel,110 Kills
+Recon,M40A5,Holo (1X),Optic,120 Kills
+Recon,M40A5,Ballistic (40X),Optic,130 Kills
+Recon,M40A5,FLIR (IR 2X),Optic,BattlePack
+Recon,M40A5,CL6X (6X),Optic,BattlePack
+Recon,M40A5,PRISMA (3.4X),Optic,BattlePack
+Recon,M40A5,JGM-4 (4X),Optic,BattlePack
+Recon,M40A5,Coyote (RDS),Optic,BattlePack
+Recon,M40A5,Flash Hider,Barrel,BattlePack
+Recon,M40A5,Green Laser Sight,Optic,BattlePack
+Recon,M40A5,IRNV (IR 1X),Optic,BattlePack
+Recon,M40A5,Kobra (RDS),Optic,BattlePack
+Recon,M40A5,LS06 Suppressor,Barrel,BattlePack
+Recon,M40A5,PBS-4 Suppressor,Barrel,BattlePack
+Recon,M40A5,Laser/Light Combo,Accessory,BattlePack
+Recon,M40A5,PKA-S (1X),Optic,BattlePack
+Recon,M40A5,PK-A (3.4X),Optic,BattlePack
+Recon,M40A5,PKS-07 (7X),Optic,BattlePack
+Recon,M40A5,PSO-1 (4X),Optic,BattlePack
+Recon,M40A5,R2 Suppressor,Barrel,BattlePack
+Recon,M40A5,Tactical Light,Accessory,BattlePack
+Recon,M40A5,Tri Beam Laser,Accessory,BattlePack
+Recon,M40A5,HD-33 (1X),Optic,BattlePack
+Recon,M40A5,Hunter (20X),Optic,BattlePack
+Recon,Scout Elite,Iron Sights,Optic,Default
+Recon,Scout Elite,Rifle Scope (8X),Optic,Default
+Recon,Scout Elite,Variable Zoom (14X),Accessory,10 Kills
+Recon,Scout Elite,Bipod,Auxiliary,20 Kills
+Recon,Scout Elite,ACOG (4X),Optic,30 Kills
+Recon,Scout Elite,Canted Ironsights,Accessory,40 Kills
+Recon,Scout Elite,Straight Pull,Auxiliary,50 Kills
+Recon,Scout Elite,Reflex (RDS),Optic,60 Kills
+Recon,Scout Elite,Laser Sight,Accessory,70 Kills
+Recon,Scout Elite,Suppressor,Barrel,80 Kills
+Recon,Scout Elite,M145 (3.4X),Optic,90 Kills
+Recon,Scout Elite,Flash Light,Accessory,100 Kills
+Recon,Scout Elite,Muzzle Brake,Barrel,110 Kills
+Recon,Scout Elite,Holo (1X),Optic,120 Kills
+Recon,Scout Elite,Ballistic (40X),Optic,130 Kills
+Recon,Scout Elite,FLIR (IR 2X),Optic,BattlePack
+Recon,Scout Elite,CL6X (6X),Optic,BattlePack
+Recon,Scout Elite,PRISMA (3.4X),Optic,BattlePack
+Recon,Scout Elite,JGM-4 (4X),Optic,BattlePack
+Recon,Scout Elite,Coyote (RDS),Optic,BattlePack
+Recon,Scout Elite,Flash Hider,Barrel,BattlePack
+Recon,Scout Elite,Green Laser Sight,Optic,BattlePack
+Recon,Scout Elite,IRNV (IR 1X),Optic,BattlePack
+Recon,Scout Elite,Kobra (RDS),Optic,BattlePack
+Recon,Scout Elite,LS06 Suppressor,Barrel,BattlePack
+Recon,Scout Elite,PBS-4 Suppressor,Barrel,BattlePack
+Recon,Scout Elite,Laser/Light Combo,Accessory,BattlePack
+Recon,Scout Elite,PKA-S (1X),Optic,BattlePack
+Recon,Scout Elite,PK-A (3.4X),Optic,BattlePack
+Recon,Scout Elite,PKS-07 (7X),Optic,BattlePack
+Recon,Scout Elite,PSO-1 (4X),Optic,BattlePack
+Recon,Scout Elite,R2 Suppressor,Barrel,BattlePack
+Recon,Scout Elite,Tactical Light,Accessory,BattlePack
+Recon,Scout Elite,Tri Beam Laser,Accessory,BattlePack
+Recon,Scout Elite,HD-33 (1X),Optic,BattlePack
+Recon,Scout Elite,Hunter (20X),Optic,BattlePack
+Recon,SV-98,Iron Sights,Optic,Default
+Recon,SV-98,PKS-07 (7X),Optic,Default
+Recon,SV-98,Variable Zoom (14X),Accessory,10 Kills
+Recon,SV-98,Bipod,Auxiliary,20 Kills
+Recon,SV-98,PSO-1 (4X),Optic,30 Kills
+Recon,SV-98,Canted Ironsights,Accessory,40 Kills
+Recon,SV-98,Straight Pull,Auxiliary,50 Kills
+Recon,SV-98,Kobra (RDS),Optic,60 Kills
+Recon,SV-98,Laser Sight,Accessory,70 Kills
+Recon,SV-98,PBS-4 Suppressor,Barrel,80 Kills
+Recon,SV-98,PK-A (3.4X),Optic,90 Kills
+Recon,SV-98,Flash Light,Accessory,100 Kills
+Recon,SV-98,Muzzle Brake,Barrel,110 Kills
+Recon,SV-98,PKA-S (1X),Optic,120 Kills
+Recon,SV-98,Ballistic (40X),Optic,130 Kills
+Recon,SV-98,FLIR (IR 2X),Optic,BattlePack
+Recon,SV-98,ACOG (4X),Optic,BattlePack
+Recon,SV-98,CL6X (6X),Optic,BattlePack
+Recon,SV-98,PRISMA (3.4X),Optic,BattlePack
+Recon,SV-98,JGM-4 (4X),Optic,BattlePack
+Recon,SV-98,Coyote (RDS),Optic,BattlePack
+Recon,SV-98,Holo (1X),Optic,BattlePack
+Recon,SV-98,Green Laser Sight,Optic,BattlePack
+Recon,SV-98,IRNV (IR 1X),Optic,BattlePack
+Recon,SV-98,LS06 Suppressor,Barrel,BattlePack
+Recon,SV-98,M145 (3.4X),Optic,BattlePack
+Recon,SV-98,Laser/Light Combo,Accessory,BattlePack
+Recon,SV-98,R2 Suppressor,Barrel,BattlePack
+Recon,SV-98,Reflex (RDS),Optic,BattlePack
+Recon,SV-98,Rifle Scope (8X),Optic,BattlePack
+Recon,SV-98,Suppressor,Barrel,BattlePack
+Recon,SV-98,Tactical Light,Accessory,BattlePack
+Recon,SV-98,Tri Beam Laser,Accessory,BattlePack
+Recon,SV-98,HD-33 (1X),Optic,BattlePack
+Recon,SV-98,Hunter (20X),Optic,BattlePack
+Recon,SV-98,Flash Hider,Barrel,BattlePack
+Recon,JNG-90,Iron Sights,Optic,Default
+Recon,JNG-90,PKS-07 (7X),Optic,Default
+Recon,JNG-90,Variable Zoom (14X),Accessory,10 Kills
+Recon,JNG-90,Bipod,Auxiliary,20 Kills
+Recon,JNG-90,PSO-1 (4X),Optic,30 Kills
+Recon,JNG-90,Canted Ironsights,Accessory,40 Kills
+Recon,JNG-90,Straight Pull,Auxiliary,50 Kills
+Recon,JNG-90,Kobra (RDS),Optic,60 Kills
+Recon,JNG-90,Laser Sight,Accessory,70 Kills
+Recon,JNG-90,PBS-4 Suppressor,Barrel,80 Kills
+Recon,JNG-90,PK-A (3.4X),Optic,90 Kills
+Recon,JNG-90,Flash Light,Accessory,100 Kills
+Recon,JNG-90,Muzzle Brake,Barrel,110 Kills
+Recon,JNG-90,PKA-S (1X),Optic,120 Kills
+Recon,JNG-90,Ballistic (40X),Optic,130 Kills
+Recon,JNG-90,FLIR (IR 2X),Optic,BattlePack
+Recon,JNG-90,ACOG (4X),Optic,BattlePack
+Recon,JNG-90,CL6X (6X),Optic,BattlePack
+Recon,JNG-90,PRISMA (3.4X),Optic,BattlePack
+Recon,JNG-90,JGM-4 (4X),Optic,BattlePack
+Recon,JNG-90,Coyote (RDS),Optic,BattlePack
+Recon,JNG-90,Holo (1X),Optic,BattlePack
+Recon,JNG-90,Green Laser Sight,Optic,BattlePack
+Recon,JNG-90,IRNV (IR 1X),Optic,BattlePack
+Recon,JNG-90,LS06 Suppressor,Barrel,BattlePack
+Recon,JNG-90,M145 (3.4X),Optic,BattlePack
+Recon,JNG-90,Laser/Light Combo,Accessory,BattlePack
+Recon,JNG-90,R2 Suppressor,Barrel,BattlePack
+Recon,JNG-90,Reflex (RDS),Optic,BattlePack
+Recon,JNG-90,Rifle Scope (8X),Optic,BattlePack
+Recon,JNG-90,Suppressor,Barrel,BattlePack
+Recon,JNG-90,Tactical Light,Accessory,BattlePack
+Recon,JNG-90,Tri Beam Laser,Accessory,BattlePack
+Recon,JNG-90,HD-33 (1X),Optic,BattlePack
+Recon,JNG-90,Hunter (20X),Optic,BattlePack
+Recon,JNG-90,Flash Hider,Barrel,BattlePack
+Recon,338-Recon,Iron Sights,Optic,Default
+Recon,338-Recon,Rifle Scope (8X),Optic,Default
+Recon,338-Recon,Variable Zoom (14X),Accessory,10 Kills
+Recon,338-Recon,Bipod,Auxiliary,20 Kills
+Recon,338-Recon,ACOG (4X),Optic,30 Kills
+Recon,338-Recon,Canted Ironsights,Accessory,40 Kills
+Recon,338-Recon,Straight Pull,Auxiliary,50 Kills
+Recon,338-Recon,Reflex (RDS),Optic,60 Kills
+Recon,338-Recon,Laser Sight,Accessory,70 Kills
+Recon,338-Recon,Suppressor,Barrel,80 Kills
+Recon,338-Recon,M145 (3.4X),Optic,90 Kills
+Recon,338-Recon,Flash Light,Accessory,100 Kills
+Recon,338-Recon,Muzzle Brake,Barrel,110 Kills
+Recon,338-Recon,Holo (1X),Optic,120 Kills
+Recon,338-Recon,Ballistic (40X),Optic,130 Kills
+Recon,338-Recon,FLIR (IR 2X),Optic,BattlePack
+Recon,338-Recon,CL6X (6X),Optic,BattlePack
+Recon,338-Recon,PRISMA (3.4X),Optic,BattlePack
+Recon,338-Recon,JGM-4 (4X),Optic,BattlePack
+Recon,338-Recon,Coyote (RDS),Optic,BattlePack
+Recon,338-Recon,Flash Hider,Barrel,BattlePack
+Recon,338-Recon,Green Laser Sight,Optic,BattlePack
+Recon,338-Recon,IRNV (IR 1X),Optic,BattlePack
+Recon,338-Recon,Kobra (RDS),Optic,BattlePack
+Recon,338-Recon,LS06 Suppressor,Barrel,BattlePack
+Recon,338-Recon,PBS-4 Suppressor,Barrel,BattlePack
+Recon,338-Recon,Laser/Light Combo,Accessory,BattlePack
+Recon,338-Recon,PKA-S (1X),Optic,BattlePack
+Recon,338-Recon,PK-A (3.4X),Optic,BattlePack
+Recon,338-Recon,PKS-07 (7X),Optic,BattlePack
+Recon,338-Recon,PSO-1 (4X),Optic,BattlePack
+Recon,338-Recon,R2 Suppressor,Barrel,BattlePack
+Recon,338-Recon,Tactical Light,Accessory,BattlePack
+Recon,338-Recon,Tri Beam Laser,Accessory,BattlePack
+Recon,338-Recon,HD-33 (1X),Optic,BattlePack
+Recon,338-Recon,Hunter (20X),Optic,BattlePack
+Recon,M98B,Flash Hider,,Default
+Recon,M98B,Laser/Light Combo,,Default
+Recon,M98B,Hunter (20X),,Default
+Recon,M98B,Rifle Scope (8X),,Default
+Recon,M98B,IRNV (IR 1X),,Default
+Recon,M98B,Iron Sights,,Default
+Recon,M98B,Variable Zoom (14X),Optic,10 Kills
+Recon,M98B,Bipod,Auxiliary,20 Kills
+Recon,M98B,ACOG (4X),Optic,30 Kills
+Recon,M98B,Canted Iron,Accessory,40 Kills
+Recon,M98B,Straight Pull,Auxiliary,50 Kills
+Recon,M98B,Reflex (RDS),Optic,60 Kills
+Recon,M98B,Laser Sight,Optic,70 Kills
+Recon,M98B,Suppressor,Barrel,80 Kills
+Recon,M98B,M145 (3.4X),Optic,90 Kills
+Recon,M98B,Flash Light,Accessory,100 Kills
+Recon,M98B,Muzzle Brake,Barrel,110 Kills
+Recon,M98B,Holo (1X),Optic,120 Kills
+Recon,M98B,Ballistic (40X),Optic,130 Kills
+Recon,M98B,Range Finder,Accessory,140 Kills
+Recon,M98B,Coyote (RDS),Optic,BattlePack
+Recon,M98B,Kobra (RDS),Optic,BattlePack
+Recon,M98B,HD-33 (1X),Optic,BattlePack
+Recon,M98B,PKA-S (1X),Optic,BattlePack
+Recon,M98B,FLIR (IR 2X),Optic,BattlePack
+Recon,M98B,PRISMA (3.4X),Optic,BattlePack
+Recon,M98B,PK-A (3.4X),Optic,BattlePack
+Recon,M98B,JGM-4 (4X),Optic,BattlePack
+Recon,M98B,PSO-1 (4X),Optic,BattlePack
+Recon,M98B,CL6X (6X),Optic,BattlePack
+Recon,M98B,PKS-07 (7X),Optic,BattlePack
+Recon,M98B,Tactical Light,Accessory,BattlePack
+Recon,M98B,Tri Beam Laser,Accessory,BattlePack
+Recon,M98B,Green Laser Sight,Accessory,BattlePack
+Recon,M98B,LS06 Suppressor,Barrel,BattlePack
+Recon,M98B,PBS-4 Suppressor,Barrel,BattlePack
+Recon,M98B,R2 Suppressor,Barrel,BattlePack
+Recon,SRR-61,Iron Sights,Optic,Default
+Recon,SRR-61,Rifle Scope (8X),Optic,Default
+Recon,SRR-61,Variable Zoom (14X),Accessory,10 Kills
+Recon,SRR-61,Bipod,Auxiliary,20 Kills
+Recon,SRR-61,ACOG (4X),Optic,30 Kills
+Recon,SRR-61,Canted Ironsights,Accessory,40 Kills
+Recon,SRR-61,Straight Pull,Auxiliary,50 Kills
+Recon,SRR-61,Reflex (RDS),Optic,60 Kills
+Recon,SRR-61,Laser Sight,Accessory,70 Kills
+Recon,SRR-61,Suppressor,Barrel,80 Kills
+Recon,SRR-61,M145 (3.4X),Optic,90 Kills
+Recon,SRR-61,Flash Light,Accessory,100 Kills
+Recon,SRR-61,Muzzle Brake,Barrel,110 Kills
+Recon,SRR-61,Holo (1X),Optic,120 Kills
+Recon,SRR-61,Ballistic (40X),Optic,130 Kills
+Recon,SRR-61,FLIR (IR 2X),Optic,BattlePack
+Recon,SRR-61,CL6X (6X),Optic,BattlePack
+Recon,SRR-61,PRISMA (3.4X),Optic,BattlePack
+Recon,SRR-61,JGM-4 (4X),Optic,BattlePack
+Recon,SRR-61,Coyote (RDS),Optic,BattlePack
+Recon,SRR-61,Flash Hider,Barrel,BattlePack
+Recon,SRR-61,Green Laser Sight,Optic,BattlePack
+Recon,SRR-61,IRNV (IR 1X),Optic,BattlePack
+Recon,SRR-61,Kobra (RDS),Optic,BattlePack
+Recon,SRR-61,LS06 Suppressor,Barrel,BattlePack
+Recon,SRR-61,PBS-4 Suppressor,Barrel,BattlePack
+Recon,SRR-61,Laser/Light Combo,Accessory,BattlePack
+Recon,SRR-61,PKA-S (1X),Optic,BattlePack
+Recon,SRR-61,PK-A (3.4X),Optic,BattlePack
+Recon,SRR-61,PKS-07 (7X),Optic,BattlePack
+Recon,SRR-61,PSO-1 (4X),Optic,BattlePack
+Recon,SRR-61,R2 Suppressor,Barrel,BattlePack
+Recon,SRR-61,Tactical Light,Accessory,BattlePack
+Recon,SRR-61,Tri Beam Laser,Accessory,BattlePack
+Recon,SRR-61,HD-33 (1X),Optic,BattlePack
+Recon,SRR-61,Hunter (20X),Optic,BattlePack
+Recon,FY-JS,Iron Sights,Optic,Default
+Recon,FY-JS,CL6X (6X),Optic,Default
+Recon,FY-JS,Variable Zoom (14X),Accessory,10 Kills
+Recon,FY-JS,Bipod,Auxiliary,20 Kills
+Recon,FY-JS,JGM-4 (4X),Optic,30 Kills
+Recon,FY-JS,Canted Ironsights,Accessory,40 Kills
+Recon,FY-JS,Straight Pull,Auxiliary,50 Kills
+Recon,FY-JS,Coyote (RDS),Optic,60 Kills
+Recon,FY-JS,Laser Sight,Accessory,70 Kills
+Recon,FY-JS,LS06 Suppressor,Barrel,80 Kills
+Recon,FY-JS,PRISMA (3.4X),Optic,90 Kills
+Recon,FY-JS,Flash Light,Accessory,100 Kills
+Recon,FY-JS,Muzzle Brake,Barrel,110 Kills
+Recon,FY-JS,Tri Beam Laser,Accessory,120 Kils
+Recon,FY-JS,Ballistic (40X),Optic,130 Kills
+Recon,FY-JS,ACOG (4X),Optic,BattlePack
+Recon,FY-JS,FLIR (IR 2X),Optic,BattlePack
+Recon,FY-JS,Holo (1X),Optic,BattlePack
+Recon,FY-JS,Flash Hider,Barrel,BattlePack
+Recon,FY-JS,Green Laser Sight,Optic,BattlePack
+Recon,FY-JS,IRNV (IR 1X),Optic,BattlePack
+Recon,FY-JS,Kobra (RDS),Optic,BattlePack
+Recon,FY-JS,M145 (3.4X),Optic,BattlePack
+Recon,FY-JS,PBS-4 Suppressor,Barrel,BattlePack
+Recon,FY-JS,Laser/Light Combo,Accessory,BattlePack
+Recon,FY-JS,PKA-S (1X),Optic,BattlePack
+Recon,FY-JS,PK-A (3.4X),Optic,BattlePack
+Recon,FY-JS,PKS-07 (7X),Optic,BattlePack
+Recon,FY-JS,PSO-1 (4X),Optic,BattlePack
+Recon,FY-JS,R2 Suppressor,Barrel,BattlePack
+Recon,FY-JS,Reflex (RDS),Optic,BattlePack
+Recon,FY-JS,Rifle Scope (8X),Optic,BattlePack
+Recon,FY-JS,Suppressor,Barrel,BattlePack
+Recon,FY-JS,Tactical Light,Accessory,BattlePack
+Recon,FY-JS,Hunter (20X),Optic,BattlePack
+Recon,L96A1,Iron Sights,Optic,Default
+Recon,L96A1,Rifle Scope (8X),Optic,Default
+Recon,L96A1,Variable Zoom (14X),Accessory,10 Kills
+Recon,L96A1,Bipod,Auxiliary,20 Kills
+Recon,L96A1,ACOG (4X),Optic,30 Kills
+Recon,L96A1,Canted Ironsights,Accessory,40 Kills
+Recon,L96A1,Straight Pull,Auxiliary,50 Kills
+Recon,L96A1,Reflex (RDS),Optic,60 Kills
+Recon,L96A1,Laser Sight,Accessory,70 Kills
+Recon,L96A1,Suppressor,Barrel,80 Kills
+Recon,L96A1,M145 (3.4X),Optic,90 Kills
+Recon,L96A1,Flash Light,Accessory,100 Kills
+Recon,L96A1,Muzzle Brake,Barrel,110 Kills
+Recon,L96A1,Holo (1X),Optic,120 Kills
+Recon,L96A1,Ballistic (40X),Optic,130 Kills
+Recon,L96A1,FLIR (IR 2X),Optic,BattlePack
+Recon,L96A1,CL6X (6X),Optic,BattlePack
+Recon,L96A1,PRISMA (3.4X),Optic,BattlePack
+Recon,L96A1,JGM-4 (4X),Optic,BattlePack
+Recon,L96A1,Coyote (RDS),Optic,BattlePack
+Recon,L96A1,Flash Hider,Barrel,BattlePack
+Recon,L96A1,Green Laser Sight,Optic,BattlePack
+Recon,L96A1,IRNV (IR 1X),Optic,BattlePack
+Recon,L96A1,Kobra (RDS),Optic,BattlePack
+Recon,L96A1,LS06 Suppressor,Barrel,BattlePack
+Recon,L96A1,PBS-4 Suppressor,Barrel,BattlePack
+Recon,L96A1,Laser/Light Combo,Accessory,BattlePack
+Recon,L96A1,PKA-S (1X),Optic,BattlePack
+Recon,L96A1,PK-A (3.4X),Optic,BattlePack
+Recon,L96A1,PKS-07 (7X),Optic,BattlePack
+Recon,L96A1,PSO-1 (4X),Optic,BattlePack
+Recon,L96A1,R2 Suppressor,Barrel,BattlePack
+Recon,L96A1,Tactical Light,Accessory,BattlePack
+Recon,L96A1,Tri Beam Laser,Accessory,BattlePack
+Recon,L96A1,HD-33 (1X),Optic,BattlePack
+Recon,L96A1,Hunter (20X),Optic,BattlePack
+Recon,GOL Magnum,Iron Sights,Optic,Default
+Recon,GOL Magnum,Rifle Scope (8X),Optic,Default
+Recon,GOL Magnum,Variable Zoom (14X),Accessory,10 Kills
+Recon,GOL Magnum,Bipod,Auxiliary,20 Kills
+Recon,GOL Magnum,ACOG (4X),Optic,30 Kills
+Recon,GOL Magnum,Canted Ironsights,Accessory,40 Kills
+Recon,GOL Magnum,Straight Pull,Auxiliary,50 Kills
+Recon,GOL Magnum,Reflex (RDS),Optic,60 Kills
+Recon,GOL Magnum,Laser Sight,Accessory,70 Kills
+Recon,GOL Magnum,Suppressor,Barrel,80 Kills
+Recon,GOL Magnum,M145 (3.4X),Optic,90 Kills
+Recon,GOL Magnum,Flash Light,Accessory,100 Kills
+Recon,GOL Magnum,Muzzle Brake,Barrel,110 Kills
+Recon,GOL Magnum,Holo (1X),Optic,120 Kills
+Recon,GOL Magnum,Ballistic (40X),Optic,130 Kills
+Recon,GOL Magnum,FLIR (IR 2X),Optic,BattlePack
+Recon,GOL Magnum,CL6X (6X),Optic,BattlePack
+Recon,GOL Magnum,PRISMA (3.4X),Optic,BattlePack
+Recon,GOL Magnum,JGM-4 (4X),Optic,BattlePack
+Recon,GOL Magnum,Coyote (RDS),Optic,BattlePack
+Recon,GOL Magnum,Flash Hider,Barrel,BattlePack
+Recon,GOL Magnum,Green Laser Sight,Optic,BattlePack
+Recon,GOL Magnum,IRNV (IR 1X),Optic,BattlePack
+Recon,GOL Magnum,Kobra (RDS),Optic,BattlePack
+Recon,GOL Magnum,LS06 Suppressor,Barrel,BattlePack
+Recon,GOL Magnum,PBS-4 Suppressor,Barrel,BattlePack
+Recon,GOL Magnum,Laser/Light Combo,Accessory,BattlePack
+Recon,GOL Magnum,PKA-S (1X),Optic,BattlePack
+Recon,GOL Magnum,PK-A (3.4X),Optic,BattlePack
+Recon,GOL Magnum,PKS-07 (7X),Optic,BattlePack
+Recon,GOL Magnum,PSO-1 (4X),Optic,BattlePack
+Recon,GOL Magnum,R2 Suppressor,Barrel,BattlePack
+Recon,GOL Magnum,Tactical Light,Accessory,BattlePack
+Recon,GOL Magnum,Tri Beam Laser,Accessory,BattlePack
+Recon,GOL Magnum,HD-33 (1X),Optic,BattlePack
+Recon,GOL Magnum,Hunter (20X),Optic,BattlePack
+Recon,SR338,Iron Sights,Optic,Default
+Recon,SR338,Rifle Scope (8X),Optic,Default
+Recon,SR338,Variable Zoom (14X),Accessory,10 Kills
+Recon,SR338,Bipod,Auxiliary,20 Kills
+Recon,SR338,ACOG (4X),Optic,30 Kills
+Recon,SR338,Canted Ironsights,Accessory,40 Kills
+Recon,SR338,Reflex (RDS),Optic,50 Kills
+Recon,SR338,Laser Sight,Accessory,60 Kills
+Recon,SR338,Suppressor,Barrel,70 Kills
+Recon,SR338,M145 (3.4X),Optic,80 Kills
+Recon,SR338,Flash Light,Accessory,90 Kills
+Recon,SR338,Muzzle Brake,Barrel,100 Kills
+Recon,SR338,Holo (1X),Optic,110 Kills
+Recon,SR338,Ballistic (40X),Optic,120 Kills
+Recon,SR338,Range Finder,Accessory,130 Kills
+Recon,SR338,FLIR (IR 2X),Optic,BattlePack
+Recon,SR338,CL6X (6X),Optic,BattlePack
+Recon,SR338,PRISMA (3.4X),Optic,BattlePack
+Recon,SR338,JGM-4 (4X),Optic,BattlePack
+Recon,SR338,Coyote (RDS),Optic,BattlePack
+Recon,SR338,Flash Hider,Barrel,BattlePack
+Recon,SR338,Green Laser Sight,Optic,BattlePack
+Recon,SR338,IRNV (IR 1X),Optic,BattlePack
+Recon,SR338,Kobra (RDS),Optic,BattlePack
+Recon,SR338,LS06 Suppressor,Barrel,BattlePack
+Recon,SR338,PBS-4 Suppressor,Barrel,BattlePack
+Recon,SR338,Laser/Light Combo,Accessory,BattlePack
+Recon,SR338,PKA-S (1X),Optic,BattlePack
+Recon,SR338,PK-A (3.4X),Optic,BattlePack
+Recon,SR338,PKS-07 (7X),Optic,BattlePack
+Recon,SR338,PSO-1 (4X),Optic,BattlePack
+Recon,SR338,R2 Suppressor,Barrel,BattlePack
+Recon,SR338,Tactical Light,Accessory,BattlePack
+Recon,SR338,Tri Beam Laser,Accessory,BattlePack
+Recon,SR338,HD-33 (1X),Optic,BattlePack
+Recon,SR338,Hunter (20X),Optic,BattlePack
+Recon,CS5,Iron Sights,Optic,Default
+Recon,CS5,CS5 Suppressor,Barrel,Default
+Recon,CS5,Rifle Scope (8X),Optic,Default
+Recon,CS5,Variable Zoom (14X),Accessory,10 Kills
+Recon,CS5,Bipod,Auxiliary,20 Kills
+Recon,CS5,ACOG (4X),Optic,30 Kills
+Recon,CS5,Canted Ironsights,Accessory,40 Kills
+Recon,CS5,Straight Pull,Auxiliary,50 Kills
+Recon,CS5,Reflex (RDS),Optic,60 Kills
+Recon,CS5,Laser Sight,Accessory,70 Kills
+Recon,CS5,Suppressor,Barrel,80 Kills
+Recon,CS5,M145 (3.4X),Optic,90 Kills
+Recon,CS5,Flash Light,Accessory,100 Kills
+Recon,CS5,Muzzle Brake,Barrel,110 Kills
+Recon,CS5,Holo (1X),Optic,120 Kills
+Recon,CS5,Ballistic (40X),Optic,130 Kills
+Recon,CS5,Range Finder,Accessory,140 Kills
+Recon,CS5,FLIR (IR 2X),Optic,BattlePack
+Recon,CS5,CL6X (6X),Optic,BattlePack
+Recon,CS5,PRISMA (3.4X),Optic,BattlePack
+Recon,CS5,JGM-4 (4X),Optic,BattlePack
+Recon,CS5,Coyote (RDS),Optic,BattlePack
+Recon,CS5,Flash Hider,Barrel,BattlePack
+Recon,CS5,Green Laser Sight,Optic,BattlePack
+Recon,CS5,IRNV (IR 1X),Optic,BattlePack
+Recon,CS5,Kobra (RDS),Optic,BattlePack
+Recon,CS5,LS06 Suppressor,Barrel,BattlePack
+Recon,CS5,PBS-4 Suppressor,Barrel,BattlePack
+Recon,CS5,Laser/Light Combo,Accessory,BattlePack
+Recon,CS5,PKA-S (1X),Optic,BattlePack
+Recon,CS5,PK-A (3.4X),Optic,BattlePack
+Recon,CS5,PKS-07 (7X),Optic,BattlePack
+Recon,CS5,PSO-1 (4X),Optic,BattlePack
+Recon,CS5,R2 Suppressor,Barrel,BattlePack
+Recon,CS5,Tactical Light,Accessory,BattlePack
+Recon,CS5,Tri Beam Laser,Accessory,BattlePack
+Recon,CS5,HD-33 (1X),Optic,BattlePack
+Recon,CS5,Hunter (20X),Optic,BattlePack
+All,AK 5C,Iron Sights,Optic,Default
+All,AK 5C,Reflex (RDS),Optic,10 Kills
+All,AK 5C,Laser Sight,Accessory,20 Kills
+All,AK 5C,ERGO Grip,Underbarrel,30 Kills
+All,AK 5C,Muzzle Brake,Barrel,40 Kills
+All,AK 5C,Holo (1X),Optic,50 Kills
+All,AK 5C,Magnifier (2X),Accessory,60 Kills
+All,AK 5C,Stubby Grip,Underbarrel,70 Kills
+All,AK 5C,Suppressor,Barrel,80 Kills
+All,AK 5C,M145 (3.4X),Optic,90 Kills
+All,AK 5C,Canted Iron Sights,Accessory,100 Kills
+All,AK 5C,Angled Grip,Underbarrel,110 Kills
+All,AK 5C,Heavy Barrel,Barrel,120 Kills
+All,AK 5C,ACOG (4X),Optic,130 Kills
+All,AK 5C,Flash Light,Accessory,140 Kills
+All,AK 5C,Bipod,Underbarrel,150 Kills
+All,AK 5C,Compensator,Barrel,160 Kills
+All,AK 5C,FLIR (IR 2X),Optic,BattlePack
+All,AK 5C,PRISMA (3.4X),Optic,BattlePack
+All,AK 5C,JGM-4 (4X),Optic,BattlePack
+All,AK 5C,Coyote (RDS),Optic,BattlePack
+All,AK 5C,Flash Hider,Barrel,BattlePack
+All,AK 5C,Folding Grip,Underbarrel,BattlePack
+All,AK 5C,Potato Grip,Underbarrel,BattlePack
+All,AK 5C,Vertical Grip,Underbarrel,BattlePack
+All,AK 5C,Green Laser Sight,Optic,BattlePack
+All,AK 5C,IRNV (IR 1X),Optic,BattlePack
+All,AK 5C,Kobra (RDS),Optic,BattlePack
+All,AK 5C,LS06 Suppressor,Barrel,BattlePack
+All,AK 5C,PBS-4 Suppressor,Barrel,BattlePack
+All,AK 5C,Laser/Light Combo,Accessory,BattlePack
+All,AK 5C,PKA-S (1X),Optic,BattlePack
+All,AK 5C,PK-A (3.4X),Optic,BattlePack
+All,AK 5C,PSO-1 (4X),Optic,BattlePack
+All,AK 5C,R2 Suppressor,Barrel,BattlePack
+All,AK 5C,Tactical Light,Accessory,BattlePack
+All,AK 5C,Tri Beam Laser,Accessory,BattlePack
+All,AK 5C,HD-33 (1X),Optic,BattlePack
+All,ACW-R,Iron Sights,Optic,Default
+All,ACW-R,Reflex (RDS),Optic,10 Kills
+All,ACW-R,Laser Sight,Accessory,20 Kills
+All,ACW-R,ERGO Grip,Underbarrel,30 Kills
+All,ACW-R,Muzzle Brake,Barrel,40 Kills
+All,ACW-R,Holo (1X),Optic,50 Kills
+All,ACW-R,Magnifier (2X),Accessory,60 Kills
+All,ACW-R,Stubby Grip,Underbarrel,70 Kills
+All,ACW-R,Suppressor,Barrel,80 Kills
+All,ACW-R,M145 (3.4X),Optic,90 Kills
+All,ACW-R,Canted Iron Sights,Accessory,100 Kills
+All,ACW-R,Angled Grip,Underbarrel,110 Kills
+All,ACW-R,Heavy Barrel,Barrel,120 Kills
+All,ACW-R,ACOG (4X),Optic,130 Kills
+All,ACW-R,Flash Light,Accessory,140 Kills
+All,ACW-R,Bipod,Underbarrel,150 Kills
+All,ACW-R,Compensator,Barrel,160 Kills
+All,ACW-R,FLIR (IR 2X),Optic,BattlePack
+All,ACW-R,PRISMA (3.4X),Optic,BattlePack
+All,ACW-R,JGM-4 (4X),Optic,BattlePack
+All,ACW-R,Coyote (RDS),Optic,BattlePack
+All,ACW-R,Flash Hider,Barrel,BattlePack
+All,ACW-R,Folding Grip,Underbarrel,BattlePack
+All,ACW-R,Potato Grip,Underbarrel,BattlePack
+All,ACW-R,Vertical Grip,Underbarrel,BattlePack
+All,ACW-R,Green Laser Sight,Optic,BattlePack
+All,ACW-R,IRNV (IR 1X),Optic,BattlePack
+All,ACW-R,Kobra (RDS),Optic,BattlePack
+All,ACW-R,LS06 Suppressor,Barrel,BattlePack
+All,ACW-R,PBS-4 Suppressor,Barrel,BattlePack
+All,ACW-R,Laser/Light Combo,Accessory,BattlePack
+All,ACW-R,PKA-S (1X),Optic,BattlePack
+All,ACW-R,PK-A (3.4X),Optic,BattlePack
+All,ACW-R,PSO-1 (4X),Optic,BattlePack
+All,ACW-R,R2 Suppressor,Barrel,BattlePack
+All,ACW-R,Tactical Light,Accessory,BattlePack
+All,ACW-R,Tri Beam Laser,Accessory,BattlePack
+All,ACW-R,HD-33 (1X),Optic,BattlePack
+All,SG553,Iron Sights,Optic,Default
+All,SG553,Reflex (RDS),Optic,10 Kills
+All,SG553,Laser Sight,Accessory,20 Kills
+All,SG553,ERGO Grip,Underbarrel,30 Kills
+All,SG553,Muzzle Brake,Barrel,40 Kills
+All,SG553,Holo (1X),Optic,50 Kills
+All,SG553,Magnifier (2X),Accessory,60 Kills
+All,SG553,Stubby Grip,Underbarrel,70 Kills
+All,SG553,Suppressor,Barrel,80 Kills
+All,SG553,M145 (3.4X),Optic,90 Kills
+All,SG553,Canted Iron Sights,Accessory,100 Kills
+All,SG553,Angled Grip,Underbarrel,110 Kills
+All,SG553,Heavy Barrel,Barrel,120 Kills
+All,SG553,ACOG (4X),Optic,130 Kills
+All,SG553,Flash Light,Accessory,140 Kills
+All,SG553,Bipod,Underbarrel,150 Kills
+All,SG553,Compensator,Barrel,160 Kills
+All,SG553,FLIR (IR 2X),Optic,BattlePack
+All,SG553,PRISMA (3.4X),Optic,BattlePack
+All,SG553,JGM-4 (4X),Optic,BattlePack
+All,SG553,Coyote (RDS),Optic,BattlePack
+All,SG553,Flash Hider,Barrel,BattlePack
+All,SG553,Folding Grip,Underbarrel,BattlePack
+All,SG553,Potato Grip,Underbarrel,BattlePack
+All,SG553,Vertical Grip,Underbarrel,BattlePack
+All,SG553,Green Laser Sight,Optic,BattlePack
+All,SG553,IRNV (IR 1X),Optic,BattlePack
+All,SG553,Kobra (RDS),Optic,BattlePack
+All,SG553,LS06 Suppressor,Barrel,BattlePack
+All,SG553,PBS-4 Suppressor,Barrel,BattlePack
+All,SG553,Laser/Light Combo,Accessory,BattlePack
+All,SG553,PKA-S (1X),Optic,BattlePack
+All,SG553,PK-A (3.4X),Optic,BattlePack
+All,SG553,PSO-1 (4X),Optic,BattlePack
+All,SG553,R2 Suppressor,Barrel,BattlePack
+All,SG553,Tactical Light,Accessory,BattlePack
+All,SG553,Tri Beam Laser,Accessory,BattlePack
+All,SG553,HD-33 (1X),Optic,BattlePack
+All,AKU-12,Iron Sights,Optic,Default
+All,AKU-12,Kobra (RDS),Optic,10 Kills
+All,AKU-12,Laser Sight,Accessory,20 Kills
+All,AKU-12,ERGO Grip,Underbarrel,30 Kills
+All,AKU-12,Muzzle Brake,Barrel,40 Kills
+All,AKU-12,PKA-S (1X),Optic,50 Kills
+All,AKU-12,Magnifier (2X),Accessory,60 Kills
+All,AKU-12,Stubby Grip,Underbarrel,70 Kills
+All,AKU-12,PBS-4 Suppressor,Barrel,80 Kills
+All,AKU-12,PK-A (3.4X),Optic,90 Kills
+All,AKU-12,Canted Iron Sights,Accessory,100 Kills
+All,AKU-12,Angled Grip,Underbarrel,110 Kills
+All,AKU-12,Heavy Barrel,Barrel,120 Kills
+All,AKU-12,PSO-1 (4X),Optic,130 Kills
+All,AKU-12,Flash Light,Accessory,140 Kills
+All,AKU-12,Bipod,Underbarrel,150 Kills
+All,AKU-12,Compensator,Barrel,160 Kills
+All,AKU-12,FLIR (IR 2X),Optic,BattlePack
+All,AKU-12,ACOG (4X),Optic,BattlePack
+All,AKU-12,PRISMA (3.4X),Optic,BattlePack
+All,AKU-12,JGM-4 (4X),Optic,BattlePack
+All,AKU-12,Coyote (RDS),Optic,BattlePack
+All,AKU-12,Holo (1X),Optic,BattlePack
+All,AKU-12,Flash Hider,Barrel,BattlePack
+All,AKU-12,Folding Grip,Underbarrel,BattlePack
+All,AKU-12,Potato Grip,Underbarrel,BattlePack
+All,AKU-12,Vertical Grip,Underbarrel,BattlePack
+All,AKU-12,Green Laser Sight,Optic,BattlePack
+All,AKU-12,IRNV (IR 1X),Optic,BattlePack
+All,AKU-12,LS06 Suppressor,Barrel,BattlePack
+All,AKU-12,M145 (3.4X),Optic,BattlePack
+All,AKU-12,Laser/Light Combo,Accessory,BattlePack
+All,AKU-12,R2 Suppressor,Barrel,BattlePack
+All,AKU-12,Reflex (RDS),Optic,BattlePack
+All,AKU-12,Suppressor,Barrel,BattlePack
+All,AKU-12,Tactical Light,Accessory,BattlePack
+All,AKU-12,Tri Beam Laser,Accessory,BattlePack
+All,AKU-12,HD-33 (1X),Optic,BattlePack
+All,A-91,Iron Sights,Optic,Default
+All,A-91,Kobra (RDS),Optic,10 Kills
+All,A-91,Laser Sight,Accessory,20 Kills
+All,A-91,ERGO Grip,Underbarrel,30 Kills
+All,A-91,Muzzle Brake,Barrel,40 Kills
+All,A-91,PKA-S (1X),Optic,50 Kills
+All,A-91,Magnifier (2X),Accessory,60 Kills
+All,A-91,Stubby Grip,Underbarrel,70 Kills
+All,A-91,PBS-4 Suppressor,Barrel,80 Kills
+All,A-91,PK-A (3.4X),Optic,90 Kills
+All,A-91,Canted Iron Sights,Accessory,100 Kills
+All,A-91,Angled Grip,Underbarrel,110 Kills
+All,A-91,Heavy Barrel,Barrel,120 Kills
+All,A-91,PSO-1 (4X),Optic,130 Kills
+All,A-91,Flash Light,Accessory,140 Kills
+All,A-91,Bipod,Underbarrel,150 Kills
+All,A-91,Compensator,Barrel,160 Kills
+All,A-91,FLIR (IR 2X),Optic,BattlePack
+All,A-91,ACOG (4X),Optic,BattlePack
+All,A-91,PRISMA (3.4X),Optic,BattlePack
+All,A-91,JGM-4 (4X),Optic,BattlePack
+All,A-91,Coyote (RDS),Optic,BattlePack
+All,A-91,Holo (1X),Optic,BattlePack
+All,A-91,Flash Hider,Barrel,BattlePack
+All,A-91,Folding Grip,Underbarrel,BattlePack
+All,A-91,Potato Grip,Underbarrel,BattlePack
+All,A-91,Vertical Grip,Underbarrel,BattlePack
+All,A-91,Green Laser Sight,Optic,BattlePack
+All,A-91,IRNV (IR 1X),Optic,BattlePack
+All,A-91,LS06 Suppressor,Barrel,BattlePack
+All,A-91,M145 (3.4X),Optic,BattlePack
+All,A-91,Laser/Light Combo,Accessory,BattlePack
+All,A-91,R2 Suppressor,Barrel,BattlePack
+All,A-91,Reflex (RDS),Optic,BattlePack
+All,A-91,Suppressor,Barrel,BattlePack
+All,A-91,Tactical Light,Accessory,BattlePack
+All,A-91,Tri Beam Laser,Accessory,BattlePack
+All,A-91,HD-33 (1X),Optic,BattlePack
+All,ACE 52 CQB,Iron Sights,Optic,Default
+All,ACE 52 CQB,Coyote (RDS),Optic,10 Kills
+All,ACE 52 CQB,Laser Sight,Accessory,20 Kills
+All,ACE 52 CQB,ERGO Grip,Underbarrel,30 Kills
+All,ACE 52 CQB,Muzzle Brake,Barrel,40 Kills
+All,ACE 52 CQB,HD-33 (1X),Optic,50 Kills
+All,ACE 52 CQB,Magnifier (2X),Accessory,60 Kills
+All,ACE 52 CQB,Stubby Grip,Underbarrel,70 Kills
+All,ACE 52 CQB,LS06 Suppressor,Barrel,80 Kills
+All,ACE 52 CQB,PRISMA (3.4X),Optic,90 Kills
+All,ACE 52 CQB,Canted Iron Sights,Accessory,100 Kills
+All,ACE 52 CQB,Angled Grip,Underbarrel,110 Kills
+All,ACE 52 CQB,Heavy Barrel,Barrel,120 Kills
+All,ACE 52 CQB,JGM-4 (4X),Optic,130 Kills
+All,ACE 52 CQB,Flash Light,Accessory,140 Kills
+All,ACE 52 CQB,Bipod,Underbarrel,150 Kills
+All,ACE 52 CQB,Compensator,Barrel,160 Kills
+All,ACE 52 CQB,ACOG (4X),Optic,BattlePack
+All,ACE 52 CQB,FLIR (IR 2X),Optic,BattlePack
+All,ACE 52 CQB,Holo (1X),Optic,BattlePack
+All,ACE 52 CQB,Flash Hider,Barrel,BattlePack
+All,ACE 52 CQB,Folding Grip,Underbarrel,BattlePack
+All,ACE 52 CQB,Potato Grip,Underbarrel,BattlePack
+All,ACE 52 CQB,Vertical Grip,Underbarrel,BattlePack
+All,ACE 52 CQB,Green Laser Sight,Optic,BattlePack
+All,ACE 52 CQB,IRNV (IR 1X),Optic,BattlePack
+All,ACE 52 CQB,Kobra (RDS),Optic,BattlePack
+All,ACE 52 CQB,M145 (3.4X),Optic,BattlePack
+All,ACE 52 CQB,PBS-4 Suppressor,Barrel,BattlePack
+All,ACE 52 CQB,Laser/Light Combo,Accessory,BattlePack
+All,ACE 52 CQB,PKA-S (1X),Optic,BattlePack
+All,ACE 52 CQB,PK-A (3.4X),Optic,BattlePack
+All,ACE 52 CQB,PSO-1 (4X),Optic,BattlePack
+All,ACE 52 CQB,R2 Suppressor,Barrel,BattlePack
+All,ACE 52 CQB,Reflex (RDS),Optic,BattlePack
+All,ACE 52 CQB,Suppressor,Barrel,BattlePack
+All,ACE 52 CQB,Tactical Light,Accessory,BattlePack
+All,ACE 52 CQB,Tri Beam Laser,Accessory,BattlePack
+All,G36C,Iron Sights,Optic,Default
+All,G36C,Reflex (RDS),Optic,10 Kills
+All,G36C,Laser Sight,Accessory,20 Kills
+All,G36C,ERGO Grip,Underbarrel,30 Kills
+All,G36C,Muzzle Brake,Barrel,40 Kills
+All,G36C,Holo (1X),Optic,50 Kills
+All,G36C,Magnifier (2X),Accessory,60 Kills
+All,G36C,Stubby Grip,Underbarrel,70 Kills
+All,G36C,Suppressor,Barrel,80 Kills
+All,G36C,M145 (3.4X),Optic,90 Kills
+All,G36C,Canted Iron Sights,Accessory,100 Kills
+All,G36C,Angled Grip,Underbarrel,110 Kills
+All,G36C,Heavy Barrel,Barrel,120 Kills
+All,G36C,ACOG (4X),Optic,130 Kills
+All,G36C,Flash Light,Accessory,140 Kills
+All,G36C,Bipod,Underbarrel,150 Kills
+All,G36C,Compensator,Barrel,160 Kills
+All,G36C,FLIR (IR 2X),Optic,BattlePack
+All,G36C,PRISMA (3.4X),Optic,BattlePack
+All,G36C,JGM-4 (4X),Optic,BattlePack
+All,G36C,Coyote (RDS),Optic,BattlePack
+All,G36C,Flash Hider,Barrel,BattlePack
+All,G36C,Folding Grip,Underbarrel,BattlePack
+All,G36C,Potato Grip,Underbarrel,BattlePack
+All,G36C,Vertical Grip,Underbarrel,BattlePack
+All,G36C,Green Laser Sight,Optic,BattlePack
+All,G36C,IRNV (IR 1X),Optic,BattlePack
+All,G36C,Kobra (RDS),Optic,BattlePack
+All,G36C,LS06 Suppressor,Barrel,BattlePack
+All,G36C,PBS-4 Suppressor,Barrel,BattlePack
+All,G36C,Laser/Light Combo,Accessory,BattlePack
+All,G36C,PKA-S (1X),Optic,BattlePack
+All,G36C,PK-A (3.4X),Optic,BattlePack
+All,G36C,PSO-1 (4X),Optic,BattlePack
+All,G36C,R2 Suppressor,Barrel,BattlePack
+All,G36C,Tactical Light,Accessory,BattlePack
+All,G36C,Tri Beam Laser,Accessory,BattlePack
+All,G36C,HD-33 (1X),Optic,BattlePack
+All,M4,Iron Sights,Optic,Default
+All,M4,Reflex (RDS),Optic,10 Kills
+All,M4,Laser Sight,Accessory,20 Kills
+All,M4,ERGO Grip,Underbarrel,30 Kills
+All,M4,Muzzle Brake,Barrel,40 Kills
+All,M4,Holo (1X),Optic,50 Kills
+All,M4,Magnifier (2X),Accessory,60 Kills
+All,M4,Stubby Grip,Underbarrel,70 Kills
+All,M4,Suppressor,Barrel,80 Kills
+All,M4,M145 (3.4X),Optic,90 Kills
+All,M4,Canted Iron Sights,Accessory,100 Kills
+All,M4,Angled Grip,Underbarrel,110 Kills
+All,M4,Heavy Barrel,Barrel,120 Kills
+All,M4,ACOG (4X),Optic,130 Kills
+All,M4,Flash Light,Accessory,140 Kills
+All,M4,Bipod,Underbarrel,150 Kills
+All,M4,Compensator,Barrel,160 Kills
+All,M4,FLIR (IR 2X),Optic,BattlePack
+All,M4,PRISMA (3.4X),Optic,BattlePack
+All,M4,JGM-4 (4X),Optic,BattlePack
+All,M4,Coyote (RDS),Optic,BattlePack
+All,M4,Flash Hider,Barrel,BattlePack
+All,M4,Folding Grip,Underbarrel,BattlePack
+All,M4,Potato Grip,Underbarrel,BattlePack
+All,M4,Vertical Grip,Underbarrel,BattlePack
+All,M4,Green Laser Sight,Optic,BattlePack
+All,M4,IRNV (IR 1X),Optic,BattlePack
+All,M4,Kobra (RDS),Optic,BattlePack
+All,M4,LS06 Suppressor,Barrel,BattlePack
+All,M4,PBS-4 Suppressor,Barrel,BattlePack
+All,M4,Laser/Light Combo,Accessory,BattlePack
+All,M4,PKA-S (1X),Optic,BattlePack
+All,M4,PK-A (3.4X),Optic,BattlePack
+All,M4,PSO-1 (4X),Optic,BattlePack
+All,M4,R2 Suppressor,Barrel,BattlePack
+All,M4,Tactical Light,Accessory,BattlePack
+All,M4,Tri Beam Laser,Accessory,BattlePack
+All,M4,HD-33 (1X),Optic,BattlePack
+All,ACE 21 CQB,Iron Sights,Optic,Default
+All,ACE 21 CQB,Coyote (RDS),Optic,10 Kills
+All,ACE 21 CQB,Laser Sight,Accessory,20 Kills
+All,ACE 21 CQB,ERGO Grip,Underbarrel,30 Kills
+All,ACE 21 CQB,Muzzle Brake,Barrel,40 Kills
+All,ACE 21 CQB,HD-33 (1X),Optic,50 Kills
+All,ACE 21 CQB,Magnifier (2X),Accessory,60 Kills
+All,ACE 21 CQB,Stubby Grip,Underbarrel,70 Kills
+All,ACE 21 CQB,LS06 Suppressor,Barrel,80 Kills
+All,ACE 21 CQB,PRISMA (3.4X),Optic,90 Kills
+All,ACE 21 CQB,Canted Iron Sights,Accessory,100 Kills
+All,ACE 21 CQB,Angled Grip,Underbarrel,110 Kills
+All,ACE 21 CQB,Heavy Barrel,Barrel,120 Kills
+All,ACE 21 CQB,JGM-4 (4X),Optic,130 Kills
+All,ACE 21 CQB,Flash Light,Accessory,140 Kills
+All,ACE 21 CQB,Bipod,Underbarrel,150 Kills
+All,ACE 21 CQB,Compensator,Barrel,160 Kills
+All,ACE 21 CQB,ACOG (4X),Optic,BattlePack
+All,ACE 21 CQB,FLIR (IR 2X),Optic,BattlePack
+All,ACE 21 CQB,Holo (1X),Optic,BattlePack
+All,ACE 21 CQB,Flash Hider,Barrel,BattlePack
+All,ACE 21 CQB,Folding Grip,Underbarrel,BattlePack
+All,ACE 21 CQB,Potato Grip,Underbarrel,BattlePack
+All,ACE 21 CQB,Vertical Grip,Underbarrel,BattlePack
+All,ACE 21 CQB,Green Laser Sight,Optic,BattlePack
+All,ACE 21 CQB,IRNV (IR 1X),Optic,BattlePack
+All,ACE 21 CQB,Kobra (RDS),Optic,BattlePack
+All,ACE 21 CQB,M145 (3.4X),Optic,BattlePack
+All,ACE 21 CQB,PBS-4 Suppressor,Barrel,BattlePack
+All,ACE 21 CQB,Laser/Light Combo,Accessory,BattlePack
+All,ACE 21 CQB,PKA-S (1X),Optic,BattlePack
+All,ACE 21 CQB,PK-A (3.4X),Optic,BattlePack
+All,ACE 21 CQB,PSO-1 (4X),Optic,BattlePack
+All,ACE 21 CQB,R2 Suppressor,Barrel,BattlePack
+All,ACE 21 CQB,Reflex (RDS),Optic,BattlePack
+All,ACE 21 CQB,Suppressor,Barrel,BattlePack
+All,ACE 21 CQB,Tactical Light,Accessory,BattlePack
+All,ACE 21 CQB,Tri Beam Laser,Accessory,BattlePack
+All,Type-95B-1,Iron Sights,Optic,Default
+All,Type-95B-1,Coyote (RDS),Optic,10 Kills
+All,Type-95B-1,Laser Sight,Accessory,20 Kills
+All,Type-95B-1,ERGO Grip,Underbarrel,30 Kills
+All,Type-95B-1,Muzzle Brake,Barrel,40 Kills
+All,Type-95B-1,HD-33 (1X),Optic,50 Kills
+All,Type-95B-1,Magnifier (2X),Accessory,60 Kills
+All,Type-95B-1,Stubby Grip,Underbarrel,70 Kills
+All,Type-95B-1,LS06 Suppressor,Barrel,80 Kills
+All,Type-95B-1,PRISMA (3.4X),Optic,90 Kills
+All,Type-95B-1,Canted Iron Sights,Accessory,100 Kills
+All,Type-95B-1,Angled Grip,Underbarrel,110 Kills
+All,Type-95B-1,Heavy Barrel,Barrel,120 Kills
+All,Type-95B-1,JGM-4 (4X),Optic,130 Kills
+All,Type-95B-1,Flash Light,Accessory,140 Kills
+All,Type-95B-1,Bipod,Underbarrel,150 Kills
+All,Type-95B-1,Compensator,Barrel,160 Kills
+All,Type-95B-1,ACOG (4X),Optic,BattlePack
+All,Type-95B-1,FLIR (IR 2X),Optic,BattlePack
+All,Type-95B-1,Holo (1X),Optic,BattlePack
+All,Type-95B-1,Flash Hider,Barrel,BattlePack
+All,Type-95B-1,Folding Grip,Underbarrel,BattlePack
+All,Type-95B-1,Potato Grip,Underbarrel,BattlePack
+All,Type-95B-1,Vertical Grip,Underbarrel,BattlePack
+All,Type-95B-1,Green Laser Sight,Optic,BattlePack
+All,Type-95B-1,IRNV (IR 1X),Optic,BattlePack
+All,Type-95B-1,Kobra (RDS),Optic,BattlePack
+All,Type-95B-1,M145 (3.4X),Optic,BattlePack
+All,Type-95B-1,PBS-4 Suppressor,Barrel,BattlePack
+All,Type-95B-1,Laser/Light Combo,Accessory,BattlePack
+All,Type-95B-1,PKA-S (1X),Optic,BattlePack
+All,Type-95B-1,PK-A (3.4X),Optic,BattlePack
+All,Type-95B-1,PSO-1 (4X),Optic,BattlePack
+All,Type-95B-1,R2 Suppressor,Barrel,BattlePack
+All,Type-95B-1,Reflex (RDS),Optic,BattlePack
+All,Type-95B-1,Suppressor,Barrel,BattlePack
+All,Type-95B-1,Tactical Light,Accessory,BattlePack
+All,Type-95B-1,Tri Beam Laser,Accessory,BattlePack
+All,MTAR-21,Iron Sights,Optic,Default
+All,MTAR-21,Reflex (RDS),Optic,10 Kills
+All,MTAR-21,Laser Sight,Accessory,20 Kills
+All,MTAR-21,ERGO Grip,Underbarrel,30 Kills
+All,MTAR-21,Muzzle Brake,Barrel,40 Kills
+All,MTAR-21,Holo (1X),Optic,50 Kills
+All,MTAR-21,Magnifier (2X),Accessory,60 Kills
+All,MTAR-21,Stubby Grip,Underbarrel,70 Kills
+All,MTAR-21,Suppressor,Barrel,80 Kills
+All,MTAR-21,M145 (3.4X),Optic,90 Kills
+All,MTAR-21,Canted Iron Sights,Accessory,100 Kills
+All,MTAR-21,Angled Grip,Underbarrel,110 Kills
+All,MTAR-21,Heavy Barrel,Barrel,120 Kills
+All,MTAR-21,ACOG (4X),Optic,130 Kills
+All,MTAR-21,Flash Light,Accessory,140 Kills
+All,MTAR-21,Bipod,Underbarrel,150 Kills
+All,MTAR-21,Compensator,Barrel,160 Kills
+All,MTAR-21,FLIR (IR 2X),Optic,BattlePack
+All,MTAR-21,PRISMA (3.4X),Optic,BattlePack
+All,MTAR-21,JGM-4 (4X),Optic,BattlePack
+All,MTAR-21,Coyote (RDS),Optic,BattlePack
+All,MTAR-21,Flash Hider,Barrel,BattlePack
+All,MTAR-21,Folding Grip,Underbarrel,BattlePack
+All,MTAR-21,Potato Grip,Underbarrel,BattlePack
+All,MTAR-21,Vertical Grip,Underbarrel,BattlePack
+All,MTAR-21,Green Laser Sight,Optic,BattlePack
+All,MTAR-21,IRNV (IR 1X),Optic,BattlePack
+All,MTAR-21,Kobra (RDS),Optic,BattlePack
+All,MTAR-21,LS06 Suppressor,Barrel,BattlePack
+All,MTAR-21,PBS-4 Suppressor,Barrel,BattlePack
+All,MTAR-21,Laser/Light Combo,Accessory,BattlePack
+All,MTAR-21,PKA-S (1X),Optic,BattlePack
+All,MTAR-21,PK-A (3.4X),Optic,BattlePack
+All,MTAR-21,PSO-1 (4X),Optic,BattlePack
+All,MTAR-21,R2 Suppressor,Barrel,BattlePack
+All,MTAR-21,Tactical Light,Accessory,BattlePack
+All,MTAR-21,Tri Beam Laser,Accessory,BattlePack
+All,MTAR-21,HD-33 (1X),Optic,BattlePack
+All,Phantom,Iron Sights,Optic,Default
+All,Phantom,Stabilizer,Accessory,Default
+All,Phantom,Broadhead,Ammo,Default
+All,Phantom,Bullet Point,Ammo,Default
+All,Phantom,Explosive Tip,Ammo,Default
+All,Groza-1,Iron Sights,Optic,Default
+All,Groza-1,Target Detector,Accessory,Default
+All,Groza-1,Compensator,Barrel,Default
+All,Groza-1,Vertical Grip,Underbarrel,Default
+All,Groza-1,Kobra (RDS),Optic,10 Kills
+All,Groza-1,Laser Sight,Accessory,20 Kills
+All,Groza-1,PKA-S (1X),Optic,30 Kills
+All,Groza-1,PK-A (3.4X),Optic,40 Kills
+All,Groza-1,PSO-1 (4X),Optic,50 Kills
+All,Groza-1,Flash Light,Accessory,60 Kills
+All,Groza-1,Reflex (RDS),Optic,BattlePack
+All,Groza-1,Coyote (RDS),Optic,BattlePack
+All,Groza-1,Holo (1X),Optic,BattlePack
+All,Groza-1,HD-33 (1X),Optic,BattlePack
+All,Groza-1,IRNV (IR 1X),Optic,BattlePack
+All,Groza-1,FLIR (IR 2X),Optic,BattlePack
+All,Groza-1,M145 (3.4X),Optic,BattlePack
+All,Groza-1,PRISMA (3.4X),Optic,BattlePack
+All,Groza-1,ACOG (4X),Optic,BattlePack
+All,Groza-1,JGM-4 (4X),Optic,BattlePack
+All,Groza-1,Tactical Light,Accessory,BattlePack
+All,Groza-1,Tri Beam Laser,Accessory,BattlePack
+All,Groza-1,Green Laser Sight,Optic,BattlePack
+All,Groza-1,Laser/Light Combo,Accessory,BattlePack
+All,QBS-09,Iron Sights,Optic,Default
+All,QBS-09,12G Buckshot,Ammo,Default
+All,QBS-09,Duckbill,Barrel,10 Kills
+All,QBS-09,Coyote (RDS),Optic,20 Kills
+All,QBS-09,Laser Sight,Accessory,30 Kills
+All,QBS-09,Stubby Grip,Underbarrel,40 Kills
+All,QBS-09,Full Choke,Barrel,50 Kills
+All,QBS-09,JGM-4 (4X),Optic,60 Kills
+All,QBS-09,Canted Iron Sights,Accessory,70 Kills
+All,QBS-09,Angled Grip,Underbarrel,80 Kills
+All,QBS-09,12G Slug,Ammo,90 Kills
+All,QBS-09,HD-33 (1X),Optic,100 Kills
+All,QBS-09,Magnifier (2X),Accessory,110 Kills
+All,QBS-09,Modified Choke,Barrel,120 Kills
+All,QBS-09,12G Dart,Ammo,130 Kills
+All,QBS-09,PRISMA (3.4X),Optic,140 Kills
+All,QBS-09,ERGO Grip,Underbarrel,150 Kills
+All,QBS-09,Flash Light,Accessory,160 Kills
+All,QBS-09,12G Frag,Ammo,170 Kills
+All,QBS-09,FLIR (IR 2X),Optic,BattlePack
+All,QBS-09,ACOG (4X),Optic,BattlePack
+All,QBS-09,Compensator,Barrel,BattlePack
+All,QBS-09,Holo (1X),Optic,BattlePack
+All,QBS-09,Folding Grip,Underbarrel,BattlePack
+All,QBS-09,Potato Grip,Underbarrel,BattlePack
+All,QBS-09,Vertical Grip,Underbarrel,BattlePack
+All,QBS-09,Green Laser Sight,Optic,BattlePack
+All,QBS-09,IRNV (IR 1X),Optic,BattlePack
+All,QBS-09,Kobra (RDS),Optic,BattlePack
+All,QBS-09,M145 (3.4X),Optic,BattlePack
+All,QBS-09,Muzzle Brake,Barrel,BattlePack
+All,QBS-09,Laser/Light Combo,Accessory,BattlePack
+All,QBS-09,PKA-S (1X),Optic,BattlePack
+All,QBS-09,PK-A (3.4X),Optic,BattlePack
+All,QBS-09,PSO-1 (4X),Optic,BattlePack
+All,QBS-09,Reflex (RDS),Optic,BattlePack
+All,QBS-09,Tactical Light,Accessory,BattlePack
+All,QBS-09,Tri Beam Laser,Accessory,BattlePack
+All,870 MCS,Iron Sights,Optic,Default
+All,870 MCS,12G Buckshot,Ammo,Default
+All,870 MCS,Duckbill,Barrel,10 Kills
+All,870 MCS,Reflex (RDS),Optic,20 Kills
+All,870 MCS,Laser Sight,Accessory,30 Kills
+All,870 MCS,Full Choke,Barrel,40 Kills
+All,870 MCS,ACOG (4X),Optic,50 Kills
+All,870 MCS,Canted Iron Sights,Accessory,60 Kills
+All,870 MCS,Muzzle Brake,Barrel,70 Kills
+All,870 MCS,12G Slug,Ammo,80 Kills
+All,870 MCS,Holo (1X),Optic,90 Kills
+All,870 MCS,Magnifier (2X),Accessory,100 Kills
+All,870 MCS,Modified Choke,Barrel,110 Kills
+All,870 MCS,12G Dart,Ammo,120 Kills
+All,870 MCS,M145 (3.4X),Optic,130 Kills
+All,870 MCS,Compensator,Barrel,140 Kills
+All,870 MCS,Flash Light,Accessory,150 Kills
+All,870 MCS,12G Frag,Ammo,160 Kills
+All,870 MCS,Green Laser Sight,Optic,BattlePack
+All,870 MCS,FLIR (IR 2X),Optic,BattlePack
+All,870 MCS,JGM-4 (4X),Optic,BattlePack
+All,870 MCS,Coyote (RDS),Optic,BattlePack
+All,870 MCS,PRISMA (3.4X),Optic,BattlePack
+All,870 MCS,IRNV (IR 1X),Optic,BattlePack
+All,870 MCS,Kobra (RDS),Optic,BattlePack
+All,870 MCS,Laser/Light Combo,Accessory,BattlePack
+All,870 MCS,PKA-S (1X),Optic,BattlePack
+All,870 MCS,PK-A (3.4X),Optic,BattlePack
+All,870 MCS,PSO-1 (4X),Optic,BattlePack
+All,870 MCS,Tactical Light,Accessory,BattlePack
+All,870 MCS,Tri Beam Laser,Accessory,BattlePack
+All,870 MCS,HD-33 (1X),Optic,BattlePack
+All,M1014,Iron Sights,Optic,Default
+All,M1014,12G Buckshot,Ammo,Default
+All,M1014,Duckbill,Barrel,10 Kills
+All,M1014,Reflex (RDS),Optic,20 Kills
+All,M1014,Laser Sight,Accessory,30 Kills
+All,M1014,Stubby Grip,Underbarrel,40 Kills
+All,M1014,Full Choke,Barrel,50 Kills
+All,M1014,ACOG (4X),Optic,60 Kills
+All,M1014,Canted Iron Sights,Accessory,70 Kills
+All,M1014,Angled Grip,Underbarrel,80 Kills
+All,M1014,12G Slug,Ammo,90 Kills
+All,M1014,Holo (1X),Optic,100 Kills
+All,M1014,Magnifier (2X),Accessory,110 Kills
+All,M1014,Modified Choke,Barrel,120 Kills
+All,M1014,12G Dart,Ammo,130 Kills
+All,M1014,M145 (3.4X),Optic,140 Kills
+All,M1014,ERGO Grip,Underbarrel,150 Kills
+All,M1014,Flash Light,Accessory,160 Kills
+All,M1014,12G Frag,Ammo,170 Kills
+All,M1014,FLIR (IR 2X),Optic,BattlePack
+All,M1014,PRISMA (3.4X),Optic,BattlePack
+All,M1014,JGM-4 (4X),Optic,BattlePack
+All,M1014,Compensator,Barrel,BattlePack
+All,M1014,Coyote (RDS),Optic,BattlePack
+All,M1014,Folding Grip,Underbarrel,BattlePack
+All,M1014,Potato Grip,Underbarrel,BattlePack
+All,M1014,Vertical Grip,Underbarrel,BattlePack
+All,M1014,Green Laser Sight,Optic,BattlePack
+All,M1014,IRNV (IR 1X),Optic,BattlePack
+All,M1014,Kobra (RDS),Optic,BattlePack
+All,M1014,Muzzle Brake,Barrel,BattlePack
+All,M1014,Laser/Light Combo,Accessory,BattlePack
+All,M1014,PKA-S (1X),Optic,BattlePack
+All,M1014,PK-A (3.4X),Optic,BattlePack
+All,M1014,PSO-1 (4X),Optic,BattlePack
+All,M1014,Tactical Light,Accessory,BattlePack
+All,M1014,Tri Beam Laser,Accessory,BattlePack
+All,M1014,HD-33 (1X),Optic,BattlePack
+All,Hawk 12G,Iron Sights,Optic,Default
+All,Hawk 12G,12G Buckshot,Ammo,Default
+All,Hawk 12G,Duckbill,Barrel,10 Kills
+All,Hawk 12G,Coyote (RDS),Optic,20 Kills
+All,Hawk 12G,Laser Sight,Accessory,30 Kills
+All,Hawk 12G,Full Choke,Barrel,40 Kills
+All,Hawk 12G,JGM-4 (4X),Optic,50 Kills
+All,Hawk 12G,Canted Iron Sights,Accessory,60 Kills
+All,Hawk 12G,Muzzle Brake,Barrel,70 Kills
+All,Hawk 12G,12G Slug,Ammo,80 Kills
+All,Hawk 12G,HD-33 (1X),Optic,90 Kills
+All,Hawk 12G,Magnifier (2X),Accessory,100 Kills
+All,Hawk 12G,Modified Choke,Barrel,110 Kills
+All,Hawk 12G,12G Dart,Ammo,120 Kills
+All,Hawk 12G,PRISMA (3.4X),Optic,130 Kills
+All,Hawk 12G,Compensator,Barrel,140 Kills
+All,Hawk 12G,Flash Light,Accessory,150 Kills
+All,Hawk 12G,12G Frag,Ammo,160 Kills
+All,Hawk 12G,ACOG (4X),Optic,BattlePack
+All,Hawk 12G,FLIR (IR 2X),Optic,BattlePack
+All,Hawk 12G,Holo (1X),Optic,BattlePack
+All,Hawk 12G,Green Laser Sight,Optic,BattlePack
+All,Hawk 12G,IRNV (IR 1X),Optic,BattlePack
+All,Hawk 12G,Kobra (RDS),Optic,BattlePack
+All,Hawk 12G,M145 (3.4X),Optic,BattlePack
+All,Hawk 12G,Laser/Light Combo,Accessory,BattlePack
+All,Hawk 12G,PKA-S (1X),Optic,BattlePack
+All,Hawk 12G,PK-A (3.4X),Optic,BattlePack
+All,Hawk 12G,PSO-1 (4X),Optic,BattlePack
+All,Hawk 12G,Reflex (RDS),Optic,BattlePack
+All,Hawk 12G,Tactical Light,Accessory,BattlePack
+All,Hawk 12G,Tri Beam Laser,Accessory,BattlePack
+All,Saiga 12K,Iron Sights,Optic,Default
+All,Saiga 12K,12G Buckshot,Ammo,Default
+All,Saiga 12K,Duckbill,Barrel,10 Kills
+All,Saiga 12K,Kobra (RDS),Optic,20 Kills
+All,Saiga 12K,Laser Sight,Accessory,30 Kills
+All,Saiga 12K,Stubby Grip,Underbarrel,40 Kills
+All,Saiga 12K,Full Choke,Barrel,50 Kills
+All,Saiga 12K,PSO-1 (4X),Optic,60 Kills
+All,Saiga 12K,Canted Iron Sights,Accessory,70 Kills
+All,Saiga 12K,Angled Grip,Underbarrel,80 Kills
+All,Saiga 12K,12G Slug,Ammo,90 Kills
+All,Saiga 12K,PKA-S (1X),Optic,100 Kills
+All,Saiga 12K,Magnifier (2X),Accessory,110 Kills
+All,Saiga 12K,Modified Choke,Barrel,120 Kills
+All,Saiga 12K,12G Dart,Ammo,130 Kills
+All,Saiga 12K,PK-A (3.4X),Optic,140 Kills
+All,Saiga 12K,ERGO Grip,Underbarrel,150 Kills
+All,Saiga 12K,Flash Light,Accessory,160 Kills
+All,Saiga 12K,12G Frag,Ammo,170 Kills
+All,Saiga 12K,ACOG (4X),Optic,BattlePack
+All,Saiga 12K,FLIR (IR 2X),Optic,BattlePack
+All,Saiga 12K,PRISMA (3.4X),Optic,BattlePack
+All,Saiga 12K,Compensator,Barrel,BattlePack
+All,Saiga 12K,JGM-4 (4X),Optic,BattlePack
+All,Saiga 12K,Coyote (RDS),Optic,BattlePack
+All,Saiga 12K,Holo (1X),Optic,BattlePack
+All,Saiga 12K,Folding Grip,Underbarrel,BattlePack
+All,Saiga 12K,Potato Grip,Underbarrel,BattlePack
+All,Saiga 12K,Vertical Grip,Underbarrel,BattlePack
+All,Saiga 12K,Green Laser Sight,Optic,BattlePack
+All,Saiga 12K,IRNV (IR 1X),Optic,BattlePack
+All,Saiga 12K,M145 (3.4X),Optic,BattlePack
+All,Saiga 12K,Muzzle Brake,Barrel,BattlePack
+All,Saiga 12K,Laser/Light Combo,Accessory,BattlePack
+All,Saiga 12K,Reflex (RDS),Optic,BattlePack
+All,Saiga 12K,Tactical Light,Accessory,BattlePack
+All,Saiga 12K,Tri Beam Laser,Accessory,BattlePack
+All,Saiga 12K,HD-33 (1X),Optic,BattlePack
+All,SPAS-12,Iron Sights,Optic,Default
+All,SPAS-12,12G Buckshot,Ammo,Default
+All,SPAS-12,Duckbill,Barrel,10 Kills
+All,SPAS-12,Reflex (RDS),Optic,20 Kills
+All,SPAS-12,Laser Sight,Accessory,30 Kills
+All,SPAS-12,Full Choke,Barrel,40 Kills
+All,SPAS-12,ACOG (4X),Optic,50 Kills
+All,SPAS-12,Canted Iron Sights,Accessory,60 Kills
+All,SPAS-12,Muzzle Brake,Barrel,70 Kills
+All,SPAS-12,12G Slug,Ammo,80 Kills
+All,SPAS-12,Holo (1X),Optic,90 Kills
+All,SPAS-12,Magnifier (2X),Accessory,100 Kills
+All,SPAS-12,Modified Choke,Barrel,110 Kills
+All,SPAS-12,12G Dart,Ammo,120 Kills
+All,SPAS-12,M145 (3.4X),Optic,130 Kills
+All,SPAS-12,Compensator,Barrel,140 Kills
+All,SPAS-12,Flash Light,Accessory,150 Kills
+All,SPAS-12,12G Frag,Ammo,160 Kills
+All,SPAS-12,FLIR (IR 2X),Optic,BattlePack
+All,SPAS-12,PRISMA (3.4X),Optic,BattlePack
+All,SPAS-12,JGM-4 (4X),Optic,BattlePack
+All,SPAS-12,Coyote (RDS),Optic,BattlePack
+All,SPAS-12,Green Laser Sight,Optic,BattlePack
+All,SPAS-12,IRNV (IR 1X),Optic,BattlePack
+All,SPAS-12,Kobra (RDS),Optic,BattlePack
+All,SPAS-12,Laser/Light Combo,Accessory,BattlePack
+All,SPAS-12,PKA-S (1X),Optic,BattlePack
+All,SPAS-12,PK-A (3.4X),Optic,BattlePack
+All,SPAS-12,PSO-1 (4X),Optic,BattlePack
+All,SPAS-12,Tactical Light,Accessory,BattlePack
+All,SPAS-12,Tri Beam Laser,Accessory,BattlePack
+All,SPAS-12,HD-33 (1X),Optic,BattlePack
+All,UTS 15,Iron Sights,Optic,Default
+All,UTS 15,12G Buckshot,Ammo,Default
+All,UTS 15,Duckbill,Barrel,10 Kills
+All,UTS 15,Reflex (RDS),Optic,20 Kills
+All,UTS 15,Laser Sight,Accessory,30 Kills
+All,UTS 15,Full Choke,Barrel,40 Kills
+All,UTS 15,ACOG (4X),Optic,50 Kills
+All,UTS 15,Canted Iron Sights,Accessory,60 Kills
+All,UTS 15,Muzzle Brake,Barrel,70 Kills
+All,UTS 15,12G Slug,Ammo,80 Kills
+All,UTS 15,Holo (1X),Optic,90 Kills
+All,UTS 15,Magnifier (2X),Accessory,100 Kills
+All,UTS 15,Modified Choke,Barrel,110 Kills
+All,UTS 15,12G Dart,Ammo,120 Kills
+All,UTS 15,M145 (3.4X),Optic,130 Kills
+All,UTS 15,Compensator,Barrel,140 Kills
+All,UTS 15,Flash Light,Accessory,150 Kills
+All,UTS 15,12G Frag,Ammo,160 Kills
+All,UTS 15,FLIR (IR 2X),Optic,BattlePack
+All,UTS 15,PRISMA (3.4X),Optic,BattlePack
+All,UTS 15,JGM-4 (4X),Optic,BattlePack
+All,UTS 15,Coyote (RDS),Optic,BattlePack
+All,UTS 15,Green Laser Sight,Optic,BattlePack
+All,UTS 15,IRNV (IR 1X),Optic,BattlePack
+All,UTS 15,Kobra (RDS),Optic,BattlePack
+All,UTS 15,Laser/Light Combo,Accessory,BattlePack
+All,UTS 15,PKA-S (1X),Optic,BattlePack
+All,UTS 15,PK-A (3.4X),Optic,BattlePack
+All,UTS 15,PSO-1 (4X),Optic,BattlePack
+All,UTS 15,Tactical Light,Accessory,BattlePack
+All,UTS 15,Tri Beam Laser,Accessory,BattlePack
+All,UTS 15,HD-33 (1X),Optic,BattlePack
+All,DBV-12,Iron Sights,Optic,Default
+All,DBV-12,12G Buckshot,Ammo,Default
+All,DBV-12,Duckbill,Barrel,10 Kills
+All,DBV-12,Kobra (RDS),Optic,20 Kills
+All,DBV-12,Laser Sight,Accessory,30 Kills
+All,DBV-12,Stubby Grip,Underbarrel,40 Kills
+All,DBV-12,Full Choke,Barrel,50 Kills
+All,DBV-12,PSO-1 (4X),Optic,60 Kills
+All,DBV-12,Canted Iron Sights,Accessory,70 Kills
+All,DBV-12,Angled Grip,Underbarrel,80 Kills
+All,DBV-12,12G Slug,Ammo,90 Kills
+All,DBV-12,PKA-S (1X),Optic,100 Kills
+All,DBV-12,Magnifier (2X),Accessory,110 Kills
+All,DBV-12,Modified Choke,Barrel,120 Kills
+All,DBV-12,12G Dart,Ammo,130 Kills
+All,DBV-12,PK-A (3.4X),Optic,140 Kills
+All,DBV-12,ERGO Grip,Underbarrel,150 Kills
+All,DBV-12,Flash Light,Accessory,160 Kills
+All,DBV-12,12G Frag,Ammo,170 Kills
+All,DBV-12,ACOG (4X),Optic,BattlePack
+All,DBV-12,FLIR (IR 2X),Optic,BattlePack
+All,DBV-12,PRISMA (3.4X),Optic,BattlePack
+All,DBV-12,Compensator,Barrel,BattlePack
+All,DBV-12,JGM-4 (4X),Optic,BattlePack
+All,DBV-12,Coyote (RDS),Optic,BattlePack
+All,DBV-12,Holo (1X),Optic,BattlePack
+All,DBV-12,Folding Grip,Underbarrel,BattlePack
+All,DBV-12,Potato Grip,Underbarrel,BattlePack
+All,DBV-12,Vertical Grip,Underbarrel,BattlePack
+All,DBV-12,Green Laser Sight,Optic,BattlePack
+All,DBV-12,IRNV (IR 1X),Optic,BattlePack
+All,DBV-12,M145 (3.4X),Optic,BattlePack
+All,DBV-12,Muzzle Brake,Barrel,BattlePack
+All,DBV-12,Laser/Light Combo,Accessory,BattlePack
+All,DBV-12,Reflex (RDS),Optic,BattlePack
+All,DBV-12,Tactical Light,Accessory,BattlePack
+All,DBV-12,Tri Beam Laser,Accessory,BattlePack
+All,DBV-12,HD-33 (1X),Optic,BattlePack
+All,DAO-12,Iron Sights,Optic,Default
+All,DAO-12,12G Buckshot,Ammo,Default
+All,DAO-12,Duckbill,Barrel,10 Kills
+All,DAO-12,Reflex (RDS),Optic,20 Kills
+All,DAO-12,Laser Sight,Accessory,30 Kills
+All,DAO-12,Full Choke,Barrel,40 Kills
+All,DAO-12,ACOG (4X),Optic,50 Kills
+All,DAO-12,Muzzle Brake,Barrel,60 Kills
+All,DAO-12,12G Slug,Ammo,70 Kills
+All,DAO-12,Holo (1X),Optic,80 Kills
+All,DAO-12,Modified Choke,Accessory,90 Kills
+All,DAO-12,12G Dart,Ammo,100 Kills
+All,DAO-12,M135 (3.4X),Optic,110 Kills
+All,DAO-12,Compensator,Barrel,120 Kills
+All,DAO-12,Flash Light,Accessory,130 Kills
+All,DAO-12,12G Frag,Ammo,140 Kills
+All,DAO-12,FLIR (IR 2X),Optic,BattlePack
+All,DAO-12,PRISMA (3.4X),Optic,BattlePack
+All,DAO-12,JGM-4 (4X),Optic,BattlePack
+All,DAO-12,Coyote (RDS),Optic,BattlePack
+All,DAO-12,Green Laser Sight,Accessory,BattlePack
+All,DAO-12,IRNV (IR 1X),Optic,BattlePack
+All,DAO-12,Kobra (RDS),Optic,BattlePack
+All,DAO-12,Laser/Light Combo,Accessory,BattlePack
+All,DAO-12,PKA-S (1X),Optic,BattlePack
+All,DAO-12,PK-A (3.4X),Optic,BattlePack
+All,DAO-12,PSO-1 (4X),Optic,BattlePack
+All,DAO-12,Tactical Light,Accessory,BattlePack
+All,DAO-12,Tri Beam Laser,Accessory,BattlePack
+All,DAO-12,HD-33 (1X),Optic,BattlePack
+All,RFB,Iron Sights,Optic,Default
+All,RFB,ACOG (4X),Optic,10 Kills
+All,RFB,Canted Iron Sights,Accessory,20 Kills
+All,RFB,Angled Grip,Underbarrel,30 Kills
+All,RFB,Heavy Barrel,Barrel,40 Kills
+All,RFB,Reflex (RDS),Optic,50 Kills
+All,RFB,Laser Sight,Accessory,60 Kills
+All,RFB,ERGO Grip,Underbarrel,70 Kills
+All,RFB,Suppressor,Barrel,80 Kills
+All,RFB,Holo (1X),Optic,90 Kills
+All,RFB,Magnifier (2X),Accessory,100 Kills
+All,RFB,Stubby Grip,Underbarrel,110 Kills
+All,RFB,Muzzle Brake,Barrel,120 Kills
+All,RFB,M145 (3.4X),Optic,130 Kills
+All,RFB,Flash Light,Accessory,140 Kills
+All,RFB,Bipod,Underbarrel,150 Kills
+All,RFB,Compensator,Barrel,160 Kills
+All,RFB,FLIR (IR 2X),Optic,BattlePack
+All,RFB,PRISMA (3.4X),Optic,BattlePack
+All,RFB,JGM-4 (4X),Optic,BattlePack
+All,RFB,Coyote (RDS),Optic,BattlePack
+All,RFB,Flash Hider,Barrel,BattlePack
+All,RFB,Folding Grip,Underbarrel,BattlePack
+All,RFB,Potato Grip,Underbarrel,BattlePack
+All,RFB,Vertical Grip,Underbarrel,BattlePack
+All,RFB,Green Laser Sight,Optic,BattlePack
+All,RFB,IRNV (IR 1X),Optic,BattlePack
+All,RFB,Kobra (RDS),Optic,BattlePack
+All,RFB,LS06 Suppressor,Barrel,BattlePack
+All,RFB,PBS-4 Suppressor,Barrel,BattlePack
+All,RFB,Laser/Light Combo,Accessory,BattlePack
+All,RFB,PKA-S (1X),Optic,BattlePack
+All,RFB,PK-A (3.4X),Optic,BattlePack
+All,RFB,PSO-1 (4X),Optic,BattlePack
+All,RFB,R2 Suppressor,Barrel,BattlePack
+All,RFB,Tactical Light,Accessory,BattlePack
+All,RFB,Tri Beam Laser,Accessory,BattlePack
+All,RFB,HD-33 (1X),Optic,BattlePack
+All,MK11 MOD 0,Iron Sights,Optic,Default
+All,MK11 MOD 0,ACOG (4X),Optic,10 Kills
+All,MK11 MOD 0,Canted Iron Sights,Accessory,20 Kills
+All,MK11 MOD 0,Angled Grip,Underbarrel,30 Kills
+All,MK11 MOD 0,Heavy Barrel,Barrel,40 Kills
+All,MK11 MOD 0,Reflex (RDS),Optic,50 Kills
+All,MK11 MOD 0,Laser Sight,Accessory,60 Kills
+All,MK11 MOD 0,ERGO Grip,Underbarrel,70 Kills
+All,MK11 MOD 0,Suppressor,Barrel,80 Kills
+All,MK11 MOD 0,Holo (1X),Optic,90 Kills
+All,MK11 MOD 0,Magnifier (2X),Accessory,100 Kills
+All,MK11 MOD 0,Stubby Grip,Underbarrel,110 Kills
+All,MK11 MOD 0,Muzzle Brake,Barrel,120 Kills
+All,MK11 MOD 0,M145 (3.4X),Optic,130 Kills
+All,MK11 MOD 0,Flash Light,Accessory,140 Kills
+All,MK11 MOD 0,Bipod,Underbarrel,150 Kills
+All,MK11 MOD 0,Compensator,Barrel,160 Kills
+All,MK11 MOD 0,FLIR (IR 2X),Optic,BattlePack
+All,MK11 MOD 0,PRISMA (3.4X),Optic,BattlePack
+All,MK11 MOD 0,JGM-4 (4X),Optic,BattlePack
+All,MK11 MOD 0,Coyote (RDS),Optic,BattlePack
+All,MK11 MOD 0,Flash Hider,Barrel,BattlePack
+All,MK11 MOD 0,Folding Grip,Underbarrel,BattlePack
+All,MK11 MOD 0,Potato Grip,Underbarrel,BattlePack
+All,MK11 MOD 0,Vertical Grip,Underbarrel,BattlePack
+All,MK11 MOD 0,Green Laser Sight,Optic,BattlePack
+All,MK11 MOD 0,IRNV (IR 1X),Optic,BattlePack
+All,MK11 MOD 0,Kobra (RDS),Optic,BattlePack
+All,MK11 MOD 0,LS06 Suppressor,Barrel,BattlePack
+All,MK11 MOD 0,PBS-4 Suppressor,Barrel,BattlePack
+All,MK11 MOD 0,Laser/Light Combo,Accessory,BattlePack
+All,MK11 MOD 0,PKA-S (1X),Optic,BattlePack
+All,MK11 MOD 0,PK-A (3.4X),Optic,BattlePack
+All,MK11 MOD 0,PSO-1 (4X),Optic,BattlePack
+All,MK11 MOD 0,R2 Suppressor,Barrel,BattlePack
+All,MK11 MOD 0,Tactical Light,Accessory,BattlePack
+All,MK11 MOD 0,Tri Beam Laser,Accessory,BattlePack
+All,MK11 MOD 0,HD-33 (1X),Optic,BattlePack
+All,SKS,Iron Sights,Optic,Default
+All,SKS,PSO-1 (4X),Optic,10 Kills
+All,SKS,Canted Iron Sights,Accessory,20 Kills
+All,SKS,Angled Grip,Underbarrel,30 Kills
+All,SKS,Heavy Barrel,Barrel,40 Kills
+All,SKS,Kobra (RDS),Optic,50 Kills
+All,SKS,Laser Sight,Accessory,60 Kills
+All,SKS,ERGO Grip,Underbarrel,70 Kills
+All,SKS,PBS-4 Suppressor,Barrel,80 Kills
+All,SKS,PKA-S (1X),Optic,90 Kills
+All,SKS,Magnifier (2X),Accessory,100 Kills
+All,SKS,Stubby Grip,Underbarrel,110 Kills
+All,SKS,Muzzle Brake,Barrel,120 Kills
+All,SKS,PK-A (3.4X),Optic,130 Kills
+All,SKS,Flash Light,Accessory,140 Kills
+All,SKS,Bipod,Underbarrel,150 Kills
+All,SKS,Compensator,Barrel,160 Kills
+All,SKS,FLIR (IR 2X),Optic,BattlePack
+All,SKS,ACOG (4X),Optic,BattlePack
+All,SKS,PRISMA (3.4X),Optic,BattlePack
+All,SKS,JGM-4 (4X),Optic,BattlePack
+All,SKS,Coyote (RDS),Optic,BattlePack
+All,SKS,Holo (1X),Optic,BattlePack
+All,SKS,Folding Grip,Underbarrel,BattlePack
+All,SKS,Potato Grip,Underbarrel,BattlePack
+All,SKS,Vertical Grip,Underbarrel,BattlePack
+All,SKS,IRNV (IR 1X),Optic,BattlePack
+All,SKS,LS06 Suppressor,Barrel,BattlePack
+All,SKS,M145 (3.4X),Optic,BattlePack
+All,SKS,Laser/Light Combo,Accessory,BattlePack
+All,SKS,R2 Suppressor,Barrel,BattlePack
+All,SKS,Reflex (RDS),Optic,BattlePack
+All,SKS,Suppressor,Barrel,BattlePack
+All,SKS,Tactical Light,Accessory,BattlePack
+All,SKS,Tri Beam Laser,Accessory,BattlePack
+All,SKS,HD-33 (1X),Optic,BattlePack
+All,SKS,Flash Hider,Barrel,BattlePack
+All,SKS,Green Laser Sight,Optic,BattlePack
+All,SVD-12,Iron Sights,Optic,Default
+All,SVD-12,PSO-1 (4X),Optic,10 Kills
+All,SVD-12,Canted Iron Sights,Accessory,20 Kills
+All,SVD-12,Angled Grip,Underbarrel,30 Kills
+All,SVD-12,Heavy Barrel,Barrel,40 Kills
+All,SVD-12,Kobra (RDS),Optic,50 Kills
+All,SVD-12,Laser Sight,Accessory,60 Kills
+All,SVD-12,ERGO Grip,Underbarrel,70 Kills
+All,SVD-12,PBS-4 Suppressor,Barrel,80 Kills
+All,SVD-12,PKA-S (1X),Optic,90 Kills
+All,SVD-12,Magnifier (2X),Accessory,100 Kills
+All,SVD-12,Stubby Grip,Underbarrel,110 Kills
+All,SVD-12,Muzzle Brake,Barrel,120 Kills
+All,SVD-12,PK-A (3.4X),Optic,130 Kills
+All,SVD-12,Flash Light,Accessory,140 Kills
+All,SVD-12,Bipod,Underbarrel,150 Kills
+All,SVD-12,Compensator,Barrel,160 Kills
+All,SVD-12,FLIR (IR 2X),Optic,BattlePack
+All,SVD-12,ACOG (4X),Optic,BattlePack
+All,SVD-12,PRISMA (3.4X),Optic,BattlePack
+All,SVD-12,JGM-4 (4X),Optic,BattlePack
+All,SVD-12,Coyote (RDS),Optic,BattlePack
+All,SVD-12,Holo (1X),Optic,BattlePack
+All,SVD-12,Folding Grip,Underbarrel,BattlePack
+All,SVD-12,Potato Grip,Underbarrel,BattlePack
+All,SVD-12,Vertical Grip,Underbarrel,BattlePack
+All,SVD-12,IRNV (IR 1X),Optic,BattlePack
+All,SVD-12,LS06 Suppressor,Barrel,BattlePack
+All,SVD-12,M145 (3.4X),Optic,BattlePack
+All,SVD-12,Laser/Light Combo,Accessory,BattlePack
+All,SVD-12,R2 Suppressor,Barrel,BattlePack
+All,SVD-12,Reflex (RDS),Optic,BattlePack
+All,SVD-12,Suppressor,Barrel,BattlePack
+All,SVD-12,Tactical Light,Accessory,BattlePack
+All,SVD-12,Tri Beam Laser,Accessory,BattlePack
+All,SVD-12,HD-33 (1X),Optic,BattlePack
+All,SVD-12,Flash Hider,Barrel,BattlePack
+All,SVD-12,Green Laser Sight,Optic,BattlePack
+All,QBU-88,Iron Sights,Optic,Default
+All,QBU-88,JGM-4 (4X),Optic,10 Kills
+All,QBU-88,Canted Iron Sights,Accessory,20 Kills
+All,QBU-88,Angled Grip,Underbarrel,30 Kills
+All,QBU-88,Heavy Barrel,Barrel,40 Kills
+All,QBU-88,Coyote (RDS),Optic,50 Kills
+All,QBU-88,Laser Sight,Accessory,60 Kills
+All,QBU-88,ERGO Grip,Underbarrel,70 Kills
+All,QBU-88,LS06 Suppressor,Barrel,80 Kills
+All,QBU-88,HD-33 (1X),Optic,90 Kills
+All,QBU-88,Magnifier (2X),Accessory,100 Kills
+All,QBU-88,Stubby Grip,Underbarrel,110 Kills
+All,QBU-88,Muzzle Brake,Barrel,120 Kills
+All,QBU-88,PRISMA (3.4X),Optic,130 Kills
+All,QBU-88,Flash Light,Accessory,140 Kills
+All,QBU-88,Bipod,Underbarrel,150 Kills
+All,QBU-88,Compensator,Barrel,160 Kills
+All,QBU-88,Folding Grip,Underbarrel,BattlePack
+All,QBU-88,Potato Grip,Underbarrel,BattlePack
+All,QBU-88,Vertical Grip,Underbarrel,BattlePack
+All,QBU-88,PBS-4 Suppressor,Barrel,BattlePack
+All,QBU-88,R2 Suppressor,Barrel,BattlePack
+All,QBU-88,Suppressor,Barrel,BattlePack
+All,QBU-88,Tactical Light,Accessory,BattlePack
+All,QBU-88,Tri Beam Laser,Accessory,BattlePack
+All,QBU-88,ACOG (4X),Optic,BattlePack
+All,QBU-88,FLIR (IR 2X),Optic,BattlePack
+All,QBU-88,Holo (1X),Optic,BattlePack
+All,QBU-88,Flash Hider,Barrel,BattlePack
+All,QBU-88,Green Laser Sight,Optic,BattlePack
+All,QBU-88,IRNV (IR 1X),Optic,BattlePack
+All,QBU-88,Kobra (RDS),Optic,BattlePack
+All,QBU-88,M145 (3.4X),Optic,BattlePack
+All,QBU-88,Laser/Light Combo,Accessory,BattlePack
+All,QBU-88,PKA-S (1X),Optic,BattlePack
+All,QBU-88,PK-A (3.4X),Optic,BattlePack
+All,QBU-88,PSO-1 (4X),Optic,BattlePack
+All,QBU-88,Reflex (RDS),Optic,BattlePack
+All,M39 EMR,Iron Sights,Optic,Default
+All,M39 EMR,ACOG (4X),Optic,10 Kills
+All,M39 EMR,Canted Iron Sights,Accessory,20 Kills
+All,M39 EMR,Angled Grip,Underbarrel,30 Kills
+All,M39 EMR,Heavy Barrel,Barrel,40 Kills
+All,M39 EMR,Reflex (RDS),Optic,50 Kills
+All,M39 EMR,Laser Sight,Accessory,60 Kills
+All,M39 EMR,ERGO Grip,Underbarrel,70 Kills
+All,M39 EMR,Suppressor,Barrel,80 Kills
+All,M39 EMR,Holo (1X),Optic,90 Kills
+All,M39 EMR,Magnifier (2X),Accessory,100 Kills
+All,M39 EMR,Stubby Grip,Underbarrel,110 Kills
+All,M39 EMR,Muzzle Brake,Barrel,120 Kills
+All,M39 EMR,M145 (3.4X),Optic,130 Kills
+All,M39 EMR,Flash Light,Accessory,140 Kills
+All,M39 EMR,Bipod,Underbarrel,150 Kills
+All,M39 EMR,Compensator,Barrel,160 Kills
+All,M39 EMR,FLIR (IR 2X),Optic,BattlePack
+All,M39 EMR,PRISMA (3.4X),Optic,BattlePack
+All,M39 EMR,JGM-4 (4X),Optic,BattlePack
+All,M39 EMR,Coyote (RDS),Optic,BattlePack
+All,M39 EMR,Flash Hider,Barrel,BattlePack
+All,M39 EMR,Folding Grip,Underbarrel,BattlePack
+All,M39 EMR,Potato Grip,Underbarrel,BattlePack
+All,M39 EMR,Vertical Grip,Underbarrel,BattlePack
+All,M39 EMR,Green Laser Sight,Optic,BattlePack
+All,M39 EMR,IRNV (IR 1X),Optic,BattlePack
+All,M39 EMR,Kobra (RDS),Optic,BattlePack
+All,M39 EMR,LS06 Suppressor,Barrel,BattlePack
+All,M39 EMR,PBS-4 Suppressor,Barrel,BattlePack
+All,M39 EMR,Laser/Light Combo,Accessory,BattlePack
+All,M39 EMR,PKA-S (1X),Optic,BattlePack
+All,M39 EMR,PK-A (3.4X),Optic,BattlePack
+All,M39 EMR,PSO-1 (4X),Optic,BattlePack
+All,M39 EMR,R2 Suppressor,Barrel,BattlePack
+All,M39 EMR,Tactical Light,Accessory,BattlePack
+All,M39 EMR,Tri Beam Laser,Accessory,BattlePack
+All,M39 EMR,HD-33 (1X),Optic,BattlePack
+All,ACE 53 SV,Iron Sights,Optic,Default
+All,ACE 53 SV,JGM-4 (4X),Optic,10 Kills
+All,ACE 53 SV,Canted Iron Sights,Accessory,20 Kills
+All,ACE 53 SV,Angled Grip,Underbarrel,30 Kills
+All,ACE 53 SV,Heavy Barrel,Barrel,40 Kills
+All,ACE 53 SV,Coyote (RDS),Optic,50 Kills
+All,ACE 53 SV,Laser Sight,Accessory,60 Kills
+All,ACE 53 SV,ERGO Grip,Underbarrel,70 Kills
+All,ACE 53 SV,LS06 Suppressor,Barrel,80 Kills
+All,ACE 53 SV,HD-33 (1X),Optic,90 Kills
+All,ACE 53 SV,Magnifier (2X),Accessory,100 Kills
+All,ACE 53 SV,Stubby Grip,Underbarrel,110 Kills
+All,ACE 53 SV,Muzzle Brake,Barrel,120 Kills
+All,ACE 53 SV,PRISMA (3.4X),Optic,130 Kills
+All,ACE 53 SV,Flash Light,Accessory,140 Kills
+All,ACE 53 SV,Bipod,Underbarrel,150 Kills
+All,ACE 53 SV,Compensator,Barrel,160 Kills
+All,ACE 53 SV,Folding Grip,Underbarrel,BattlePack
+All,ACE 53 SV,Potato Grip,Underbarrel,BattlePack
+All,ACE 53 SV,Vertical Grip,Underbarrel,BattlePack
+All,ACE 53 SV,PBS-4 Suppressor,Barrel,BattlePack
+All,ACE 53 SV,R2 Suppressor,Barrel,BattlePack
+All,ACE 53 SV,Suppressor,Barrel,BattlePack
+All,ACE 53 SV,Tactical Light,Accessory,BattlePack
+All,ACE 53 SV,Tri Beam Laser,Accessory,BattlePack
+All,ACE 53 SV,ACOG (4X),Optic,BattlePack
+All,ACE 53 SV,FLIR (IR 2X),Optic,BattlePack
+All,ACE 53 SV,Holo (1X),Optic,BattlePack
+All,ACE 53 SV,Flash Hider,Barrel,BattlePack
+All,ACE 53 SV,Green Laser Sight,Optic,BattlePack
+All,ACE 53 SV,IRNV (IR 1X),Optic,BattlePack
+All,ACE 53 SV,Kobra (RDS),Optic,BattlePack
+All,ACE 53 SV,M145 (3.4X),Optic,BattlePack
+All,ACE 53 SV,Laser/Light Combo,Accessory,BattlePack
+All,ACE 53 SV,PKA-S (1X),Optic,BattlePack
+All,ACE 53 SV,PK-A (3.4X),Optic,BattlePack
+All,ACE 53 SV,PSO-1 (4X),Optic,BattlePack
+All,ACE 53 SV,Reflex (RDS),Optic,BattlePack
+All,SCAR-H SV,Iron Sights,Optic,Default
+All,SCAR-H SV,ACOG (4X),Optic,10 Kills
+All,SCAR-H SV,Canted Iron Sights,Accessory,20 Kills
+All,SCAR-H SV,Angled Grip,Underbarrel,30 Kills
+All,SCAR-H SV,Heavy Barrel,Barrel,40 Kills
+All,SCAR-H SV,Reflex (RDS),Optic,50 Kills
+All,SCAR-H SV,Laser Sight,Accessory,60 Kills
+All,SCAR-H SV,ERGO Grip,Underbarrel,70 Kills
+All,SCAR-H SV,Suppressor,Barrel,80 Kills
+All,SCAR-H SV,Holo (1X),Optic,90 Kills
+All,SCAR-H SV,Magnifier (2X),Accessory,100 Kills
+All,SCAR-H SV,Stubby Grip,Underbarrel,110 Kills
+All,SCAR-H SV,Muzzle Brake,Barrel,120 Kills
+All,SCAR-H SV,M145 (3.4X),Optic,130 Kills
+All,SCAR-H SV,Flash Light,Accessory,140 Kills
+All,SCAR-H SV,Bipod,Underbarrel,150 Kills
+All,SCAR-H SV,Compensator,Barrel,160 Kills
+All,SCAR-H SV,FLIR (IR 2X),Optic,BattlePack
+All,SCAR-H SV,PRISMA (3.4X),Optic,BattlePack
+All,SCAR-H SV,JGM-4 (4X),Optic,BattlePack
+All,SCAR-H SV,Coyote (RDS),Optic,BattlePack
+All,SCAR-H SV,Flash Hider,Barrel,BattlePack
+All,SCAR-H SV,Folding Grip,Underbarrel,BattlePack
+All,SCAR-H SV,Potato Grip,Underbarrel,BattlePack
+All,SCAR-H SV,Vertical Grip,Underbarrel,BattlePack
+All,SCAR-H SV,Green Laser Sight,Optic,BattlePack
+All,SCAR-H SV,IRNV (IR 1X),Optic,BattlePack
+All,SCAR-H SV,Kobra (RDS),Optic,BattlePack
+All,SCAR-H SV,LS06 Suppressor,Barrel,BattlePack
+All,SCAR-H SV,PBS-4 Suppressor,Barrel,BattlePack
+All,SCAR-H SV,Laser/Light Combo,Accessory,BattlePack
+All,SCAR-H SV,PKA-S (1X),Optic,BattlePack
+All,SCAR-H SV,PK-A (3.4X),Optic,BattlePack
+All,SCAR-H SV,PSO-1 (4X),Optic,BattlePack
+All,SCAR-H SV,R2 Suppressor,Barrel,BattlePack
+All,SCAR-H SV,Tactical Light,Accessory,BattlePack
+All,SCAR-H SV,Tri Beam Laser,Accessory,BattlePack
+All,SCAR-H SV,HD-33 (1X),Optic,BattlePack
+Handgun,P226,Iron Sights,Optic,Default
+Handgun,P226,Flash Light,Accessory,10 Kills
+Handgun,P226,Muzzle Brake,Barrel,20 Kills
+Handgun,P226,Ghost Ring,Optic,30 Kills
+Handgun,P226,Compensator,Barrel,40 Kills
+Handgun,P226,Mini (RDS),Optic,50 Kills
+Handgun,P226,Laser Sight,Accessory,60 Kills
+Handgun,P226,Suppressor,Barrel,70 Kills
+Handgun,P226,Delta (RDS),Optic,80 Kills
+Handgun,P226,Heavy Barrel,Barrel,90 Kills
+Handgun,P226,Flash Hider,Barrel,BattlePack
+Handgun,P226,Green Laser Sight,Optic,BattlePack
+Handgun,P226,Laser/Light Combo,Accessory,BattlePack
+Handgun,P226,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,P226,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,P226,Tactical Light,Accessory,BattlePack
+Handgun,P226,Tri Beam Laser,Accessory,BattlePack
+Handgun,M9,Iron Sights,Optic,Default
+Handgun,M9,Flash Light,Accessory,10 Kills
+Handgun,M9,Muzzle Brake,Barrel,20 Kills
+Handgun,M9,Ghost Ring,Optic,30 Kills
+Handgun,M9,Compensator,Barrel,40 Kills
+Handgun,M9,Mini (RDS),Optic,50 Kills
+Handgun,M9,Laser Sight,Accessory,60 Kills
+Handgun,M9,Suppressor,Barrel,70 Kills
+Handgun,M9,Delta (RDS),Optic,80 Kills
+Handgun,M9,Heavy Barrel,Barrel,90 Kills
+Handgun,M9,Flash Hider,Barrel,BattlePack
+Handgun,M9,Green Laser Sight,Optic,BattlePack
+Handgun,M9,Laser/Light Combo,Accessory,BattlePack
+Handgun,M9,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,M9,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,M9,Tactical Light,Accessory,BattlePack
+Handgun,M9,Tri Beam Laser,Accessory,BattlePack
+Handgun,QSZ-92,Iron Sights,Optic,Default
+Handgun,QSZ-92,Flash Light,Accessory,10 Kills
+Handgun,QSZ-92,Muzzle Brake,Barrel,20 Kills
+Handgun,QSZ-92,Ghost Ring,Optic,30 Kills
+Handgun,QSZ-92,Compensator,Barrel,40 Kills
+Handgun,QSZ-92,Mini (RDS),Optic,50 Kills
+Handgun,QSZ-92,Laser Sight,Accessory,60 Kills
+Handgun,QSZ-92,QSW-06 Suppressor,Barrel,70 Kills
+Handgun,QSZ-92,Delta (RDS),Optic,80 Kills
+Handgun,QSZ-92,Heavy Barrel,Barrel,90 Kills
+Handgun,QSZ-92,Flash Hider,Barrel,BattlePack
+Handgun,QSZ-92,Green Laser Sight,Optic,BattlePack
+Handgun,QSZ-92,Laser/Light Combo,Accessory,BattlePack
+Handgun,QSZ-92,Suppressor,Barrel,BattlePack
+Handgun,QSZ-92,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,QSZ-92,Tactical Light,Accessory,BattlePack
+Handgun,QSZ-92,Tri Beam Laser,Accessory,BattlePack
+Handgun,MP443,Iron Sights,Optic,Default
+Handgun,MP443,Flash Light,Accessory,10 Kills
+Handgun,MP443,Muzzle Brake,Barrel,20 Kills
+Handgun,MP443,Ghost Ring,Optic,30 Kills
+Handgun,MP443,Compensator,Barrel,40 Kills
+Handgun,MP443,Mini (RDS),Optic,50 Kills
+Handgun,MP443,Laser Sight,Accessory,60 Kills
+Handgun,MP443,TGPA-5 Suppressor,Barrel,70 Kills
+Handgun,MP443,Delta (RDS),Optic,80 Kills
+Handgun,MP443,Heavy Barrel,Barrel,90 Kills
+Handgun,MP443,Flash Hider,Barrel,BattlePack
+Handgun,MP443,Green Laser Sight,Optic,BattlePack
+Handgun,MP443,Laser/Light Combo,Accessory,BattlePack
+Handgun,MP443,Suppressor,Barrel,BattlePack
+Handgun,MP443,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,MP443,Tactical Light,Accessory,BattlePack
+Handgun,MP443,Tri Beam Laser,Accessory,BattlePack
+Handgun,Shorty 12G,Iron Sights,Optic,Default
+Handgun,Shorty 12G,Flash Light,Accessory,10 Kills
+Handgun,Shorty 12G,Muzzle Brake,Barrel,20 Kills
+Handgun,Shorty 12G,Ghost Ring,Optic,30 Kills
+Handgun,Shorty 12G,Compensator,Barrel,40 Kills
+Handgun,Shorty 12G,Mini (RDS),Optic,50 Kills
+Handgun,Shorty 12G,Laser Sight,Accessory,60 Kills
+Handgun,Shorty 12G,Duckbill,Barrel,70 Kills
+Handgun,Shorty 12G,Delta (RDS),Optic,80 Kills
+Handgun,Shorty 12G,Green Laser Sight,Optic,BattlePack
+Handgun,Shorty 12G,Laser/Light Combo,Accessory,BattlePack
+Handgun,Shorty 12G,Tactical Light,Accessory,BattlePack
+Handgun,Shorty 12G,Tri Beam Laser,Accessory,BattlePack
+Handgun,G18,Iron Sights,Optic,Default
+Handgun,G18,Flash Light,Accessory,10 Kills
+Handgun,G18,Muzzle Brake,Barrel,20 Kills
+Handgun,G18,Ghost Ring,Optic,30 Kills
+Handgun,G18,Compensator,Barrel,40 Kills
+Handgun,G18,Mini (RDS),Optic,50 Kills
+Handgun,G18,Laser Sight,Accessory,60 Kills
+Handgun,G18,Suppressor,Barrel,70 Kills
+Handgun,G18,Delta (RDS),Optic,80 Kills
+Handgun,G18,Heavy Barrel,Barrel,90 Kills
+Handgun,G18,Flash Hider,Barrel,BattlePack
+Handgun,G18,Green Laser Sight,Optic,BattlePack
+Handgun,G18,Laser/Light Combo,Accessory,BattlePack
+Handgun,G18,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,G18,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,G18,Tactical Light,Accessory,BattlePack
+Handgun,G18,Tri Beam Laser,Accessory,BattlePack
+Handgun,FN57,Iron Sights,Optic,Default
+Handgun,FN57,Flash Light,Accessory,10 Kills
+Handgun,FN57,Muzzle Brake,Barrel,20 Kills
+Handgun,FN57,Ghost Ring,Optic,30 Kills
+Handgun,FN57,Compensator,Barrel,40 Kills
+Handgun,FN57,Mini (RDS),Optic,50 Kills
+Handgun,FN57,Laser Sight,Accessory,60 Kills
+Handgun,FN57,Suppressor,Barrel,70 Kills
+Handgun,FN57,Delta (RDS),Optic,80 Kills
+Handgun,FN57,Heavy Barrel,Barrel,90 Kills
+Handgun,FN57,Flash Hider,Barrel,BattlePack
+Handgun,FN57,Green Laser Sight,Optic,BattlePack
+Handgun,FN57,Laser/Light Combo,Accessory,BattlePack
+Handgun,FN57,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,FN57,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,FN57,Tactical Light,Accessory,BattlePack
+Handgun,FN57,Tri Beam Laser,Accessory,BattlePack
+Handgun,M1911,Iron Sights,Optic,Default
+Handgun,M1911,Scope (3X),Optic,Default
+Handgun,M1911,Flash Light,Accessory,10 Kills
+Handgun,M1911,Muzzle Brake,Barrel,20 Kills
+Handgun,M1911,Ghost Ring,Optic,30 Kills
+Handgun,M1911,Compensator,Barrel,40 Kills
+Handgun,M1911,Mini (RDS),Optic,50 Kills
+Handgun,M1911,Laser Sight,Accessory,60 Kills
+Handgun,M1911,Suppressor,Barrel,70 Kills
+Handgun,M1911,Delta (RDS),Optic,80 Kills
+Handgun,M1911,Heavy Barrel,Barrel,90 Kills
+Handgun,M1911,Flash Hider,Barrel,BattlePack
+Handgun,M1911,Green Laser Sight,Optic,BattlePack
+Handgun,M1911,Laser/Light Combo,Accessory,BattlePack
+Handgun,M1911,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,M1911,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,M1911,Tactical Light,Accessory,BattlePack
+Handgun,M1911,Tri Beam Laser,Accessory,BattlePack
+Handgun,M1911,Scope (3X),Optic,BattlePack
+Handgun,93R,Iron Sights,Optic,Default
+Handgun,93R,Flash Light,Accessory,10 Kills
+Handgun,93R,Muzzle Brake,Barrel,20 Kills
+Handgun,93R,Ghost Ring,Optic,30 Kills
+Handgun,93R,Compensator,Barrel,40 Kills
+Handgun,93R,Mini (RDS),Optic,50 Kills
+Handgun,93R,Laser Sight,Accessory,60 Kills
+Handgun,93R,Suppressor,Barrel,70 Kills
+Handgun,93R,Delta (RDS),Optic,80 Kills
+Handgun,93R,Heavy Barrel,Barrel,90 Kills
+Handgun,93R,Flash Hider,Barrel,BattlePack
+Handgun,93R,Green Laser Sight,Optic,BattlePack
+Handgun,93R,Laser/Light Combo,Accessory,BattlePack
+Handgun,93R,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,93R,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,93R,Tactical Light,Accessory,BattlePack
+Handgun,93R,Tri Beam Laser,Accessory,BattlePack
+Handgun,CZ-75,Iron Sights,Optic,Default
+Handgun,CZ-75,Flash Light,Accessory,10 Kills
+Handgun,CZ-75,Muzzle Brake,Barrel,20 Kills
+Handgun,CZ-75,Ghost Ring,Optic,30 Kills
+Handgun,CZ-75,Compensator,Barrel,40 Kills
+Handgun,CZ-75,Mini (RDS),Optic,50 Kills
+Handgun,CZ-75,Laser Sight,Accessory,60 Kills
+Handgun,CZ-75,TGPA-5 Suppressor,Barrel,70 Kills
+Handgun,CZ-75,Delta (RDS),Optic,80 Kills
+Handgun,CZ-75,Heavy Barrel,Barrel,90 Kills
+Handgun,CZ-75,Flash Hider,Barrel,BattlePack
+Handgun,CZ-75,Green Laser Sight,Optic,BattlePack
+Handgun,CZ-75,Laser/Light Combo,Accessory,BattlePack
+Handgun,CZ-75,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,CZ-75,Suppressor,Barrel,BattlePack
+Handgun,CZ-75,Tactical Light,Accessory,BattlePack
+Handgun,CZ-75,Tri Beam Laser,Accessory,BattlePack
+Handgun,.44 Magnum,Iron Sights,Optic,Default
+Handgun,.44 Magnum,Flash Light,Accessory,10 Kills
+Handgun,.44 Magnum,Muzzle Brake,Barrel,20 Kills
+Handgun,.44 Magnum,Ghost Ring,Optic,30 Kills
+Handgun,.44 Magnum,Compensator,Barrel,40 Kills
+Handgun,.44 Magnum,Mini (RDS),Optic,50 Kills
+Handgun,.44 Magnum,Laser Sight,Accessory,60 Kills
+Handgun,.44 Magnum,Delta (RDS),Optic,70 Kills
+Handgun,.44 Magnum,Heavy Barrel,Barrel,80 Kills
+Handgun,.44 Magnum,Flash Hider,Barrel,BattlePack
+Handgun,.44 Magnum,Green Laser Sight,Optic,BattlePack
+Handgun,.44 Magnum,Laser/Light Combo,Accessory,BattlePack
+Handgun,.44 Magnum,Tactical Light,Accessory,BattlePack
+Handgun,.44 Magnum,Tri Beam Laser,Accessory,BattlePack
+Handgun,.44 Magnum,Scope (3X),Optic,BattlePack
+Handgun,Compact 45,Iron Sights,Optic,Default
+Handgun,Compact 45,Flash Light,Accessory,10 Kills
+Handgun,Compact 45,Muzzle Brake,Barrel,20 Kills
+Handgun,Compact 45,Ghost Ring,Optic,30 Kills
+Handgun,Compact 45,Compensator,Barrel,40 Kills
+Handgun,Compact 45,Mini (RDS),Optic,50 Kills
+Handgun,Compact 45,Laser Sight,Accessory,60 Kills
+Handgun,Compact 45,Suppressor,Barrel,70 Kills
+Handgun,Compact 45,Delta (RDS),Optic,80 Kills
+Handgun,Compact 45,Heavy Barrel,Barrel,90 Kills
+Handgun,Compact 45,Flash Hider,Barrel,BattlePack
+Handgun,Compact 45,Green Laser Sight,Optic,BattlePack
+Handgun,Compact 45,Laser/Light Combo,Accessory,BattlePack
+Handgun,Compact 45,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,Compact 45,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,Compact 45,Tactical Light,Accessory,BattlePack
+Handgun,Compact 45,Tri Beam Laser,Accessory,BattlePack
+Handgun,M412 REX,Iron Sights,Optic,Default
+Handgun,M412 REX,Flash Light,Accessory,10 Kills
+Handgun,M412 REX,Muzzle Brake,Barrel,20 Kills
+Handgun,M412 REX,Ghost Ring,Optic,30 Kills
+Handgun,M412 REX,Compensator,Barrel,40 Kills
+Handgun,M412 REX,Mini (RDS),Optic,50 Kills
+Handgun,M412 REX,Laser Sight,Accessory,60 Kills
+Handgun,M412 REX,Delta (RDS),Optic,70 Kills
+Handgun,M412 REX,Heavy Barrel,Barrel,80 Kills
+Handgun,M412 REX,Flash Hider,Barrel,BattlePack
+Handgun,M412 REX,Green Laser Sight,Optic,BattlePack
+Handgun,M412 REX,Laser/Light Combo,Accessory,BattlePack
+Handgun,M412 REX,Tactical Light,Accessory,BattlePack
+Handgun,M412 REX,Tri Beam Laser,Accessory,BattlePack
+Handgun,SW40,Iron Sights,Optic,Default
+Handgun,SW40,Flash Light,Accessory,10 Kills
+Handgun,SW40,Muzzle Brake,Barrel,20 Kills
+Handgun,SW40,Ghost Ring,Optic,30 Kills
+Handgun,SW40,Compensator,Barrel,40 Kills
+Handgun,SW40,Mini (RDS),Optic,50 Kills
+Handgun,SW40,Laser Sight,Accessory,60 Kills
+Handgun,SW40,Delta (RDS),Optic,70 Kills
+Handgun,SW40,Heavy Barrel,Barrel,80 Kills
+Handgun,SW40,Flash Hider,Barrel,BattlePack
+Handgun,SW40,Green Laser Sight,Optic,BattlePack
+Handgun,SW40,Laser/Light Combo,Accessory,BattlePack
+Handgun,SW40,Tactical Light,Accessory,BattlePack
+Handgun,SW40,Tri Beam Laser,Accessory,BattlePack
+Handgun,Unica 6,Iron Sights,Optic,Default
+Handgun,Unica 6,Flash Light,Accessory,10 Kills
+Handgun,Unica 6,Muzzle Brake,Barrel,20 Kills
+Handgun,Unica 6,Ghost Ring,Optic,30 Kills
+Handgun,Unica 6,Compensator,Barrel,40 Kills
+Handgun,Unica 6,Mini (RDS),Optic,50 Kills
+Handgun,Unica 6,Laser Sight,Accessory,60 Kills
+Handgun,Unica 6,Delta (RDS),Optic,70 Kills
+Handgun,Unica 6,Heavy Barrel,Barrel,80 Kills
+Handgun,Unica 6,Flash Hider,Barrel,BattlePack
+Handgun,Unica 6,Green Laser Sight,Optic,BattlePack
+Handgun,Unica 6,Laser/Light Combo,Accessory,BattlePack
+Handgun,Unica 6,Tactical Light,Accessory,BattlePack
+Handgun,Unica 6,Tri Beam Laser,Accessory,BattlePack
+Handgun,Unica 6,Scope (3X),Optic,BattlePack
+Handgun,DEagle 44,Iron Sights,Optic,Default
+Handgun,DEagle 44,Flash Light,Accessory,10 Kills
+Handgun,DEagle 44,Muzzle Brake,Barrel,20 Kills
+Handgun,DEagle 44,Ghost Ring,Optic,30 Kills
+Handgun,DEagle 44,Compensator,Barrel,40 Kills
+Handgun,DEagle 44,Mini (RDS),Optic,50 Kills
+Handgun,DEagle 44,Laser Sight,Accessory,60 Kills
+Handgun,DEagle 44,Suppressor,Barrel,70 Kills
+Handgun,DEagle 44,Delta (RDS),Optic,80 Kills
+Handgun,DEagle 44,Heavy Barrel,Barrel,90 Kills
+Handgun,DEagle 44,Flash Hider,Barrel,BattlePack
+Handgun,DEagle 44,Green Laser Sight,Optic,BattlePack
+Handgun,DEagle 44,Laser/Light Combo,Accessory,BattlePack
+Handgun,DEagle 44,QSW-06 Suppressor,Barrel,BattlePack
+Handgun,DEagle 44,Tactical Light,Accessory,BattlePack
+Handgun,DEagle 44,TGPA-5 Suppressor,Barrel,BattlePack
+Handgun,DEagle 44,Tri Beam Laser,Accessory,BattlePack
+Granade,M67 Frag,,,
+Granade,V40 Mini,,,
+Granade,RGO Impact,,,
+Granade,M34 Incendiary,,,
+Granade,M18 Smoke,,,
+Granade,M84 Flashbang,,,
+Granade,Hand Flare,,,
+Assault_gadgets,First Aid Pack,,,
+Assault_gadgets,M320 HE,,,
+Assault_gadgets,Defibrillator,,,
+Assault_gadgets,M26 MASS,,,
+Assault_gadgets,Offensive,,,
+Assault_gadgets,M320 SMK,,,
+Assault_gadgets,M26 DART,,,
+Assault_gadgets,Combat Medic,,,
+Assault_gadgets,M320 DART,,,
+Assault_gadgets,M26 SLUG,,,
+Assault_gadgets,Medic Bag,,,
+Assault_gadgets,M26 FRAG,,,
+Assault_gadgets,M320 FB,,,
+Assault_gadgets,Grenadier,,,
+Assault_gadgets,M320 LVG,,,
+Assault_gadgets,M320 3GL,,,
+Assault_gadgets,DS-3 Decoy,,,
+Engineer_gadgets,Repair Tool,,,
+Engineer_gadgets,MBT LAW,,,
+Engineer_gadgets,M15 AT Mine,,,
+Engineer_gadgets,AK 5C,,,
+Engineer_gadgets,FIM-92 Stinger,,,
+Engineer_gadgets,Offensive,,,
+Engineer_gadgets,RPG-7V2,,,
+Engineer_gadgets,SA-18 IGLA,,,
+Engineer_gadgets,Mechanic,,,
+Engineer_gadgets,M2 Slam,,,
+Engineer_gadgets,EOD Bot,,,
+Engineer_gadgets,MK153 SMAW,,,
+Engineer_gadgets,Anti-Tank,,,
+Engineer_gadgets,FGM-148 Javelin,,,
+Engineer_gadgets,FGM-172 SRAW,,,
+Engineer_gadgets,AA Mine,,,
+Engineer_gadgets,DS-3 Decoy,,,
+Support_gadgets,Ammo Pack,,,
+Support_gadgets,XM25 Airburst,,,
+Support_gadgets,M18 Claymore,,,
+Support_gadgets,QBS-09,,,
+Support_gadgets,Offensive,,,
+Support_gadgets,Ammo Box,,,
+Support_gadgets,Indirect Fire,,,
+Support_gadgets,XM25 Smoke,,,
+Support_gadgets,M224 Mortar,,,
+Support_gadgets,MP-APS,,,
+Support_gadgets,Perimeter Defense,,,
+Support_gadgets,XM25 Dart,,,
+Support_gadgets,C4 Explosive,,,
+Support_gadgets,UCAV,,,
+Support_gadgets,Ballistic Shield,,,
+Support_gadgets,DS-3 Decoy,,,
+Recon_gadgets,PLD,,,
+Recon_gadgets,C4 Explosive,,,
+Recon_gadgets,Motion Sensor,,,
+Recon_gadgets,RFB,,,
+Recon_gadgets,Offensive,,,
+Recon_gadgets,Radio Beacon,,,
+Recon_gadgets,Spec Ops,,,
+Recon_gadgets,T-UGS,,,
+Recon_gadgets,SOFLAM,,,
+Recon_gadgets,Sniper,,,
+Recon_gadgets,MAV,,,
+Recon_gadgets,M18 Claymore,,,
+Recon_gadgets,SUAV,,,
+Recon_gadgets,DS-3 Decoy,,,
