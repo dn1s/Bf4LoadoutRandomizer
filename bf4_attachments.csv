@@ -1869,42 +1869,6 @@ Recon,FY-JS,Rifle Scope (8X),Optic,BattlePack
 Recon,FY-JS,Suppressor,Barrel,BattlePack
 Recon,FY-JS,Tactical Light,Accessory,BattlePack
 Recon,FY-JS,Hunter (20X),Optic,BattlePack
-Recon,L96A1,Iron Sights,Optic,Default
-Recon,L96A1,Rifle Scope (8X),Optic,Default
-Recon,L96A1,Variable Zoom (14X),Accessory,10 Kills
-Recon,L96A1,Bipod,Auxiliary,20 Kills
-Recon,L96A1,ACOG (4X),Optic,30 Kills
-Recon,L96A1,Canted Ironsights,Accessory,40 Kills
-Recon,L96A1,Straight Pull,Auxiliary,50 Kills
-Recon,L96A1,Reflex (RDS),Optic,60 Kills
-Recon,L96A1,Laser Sight,Accessory,70 Kills
-Recon,L96A1,Suppressor,Barrel,80 Kills
-Recon,L96A1,M145 (3.4X),Optic,90 Kills
-Recon,L96A1,Flash Light,Accessory,100 Kills
-Recon,L96A1,Muzzle Brake,Barrel,110 Kills
-Recon,L96A1,Holo (1X),Optic,120 Kills
-Recon,L96A1,Ballistic (40X),Optic,130 Kills
-Recon,L96A1,FLIR (IR 2X),Optic,BattlePack
-Recon,L96A1,CL6X (6X),Optic,BattlePack
-Recon,L96A1,PRISMA (3.4X),Optic,BattlePack
-Recon,L96A1,JGM-4 (4X),Optic,BattlePack
-Recon,L96A1,Coyote (RDS),Optic,BattlePack
-Recon,L96A1,Flash Hider,Barrel,BattlePack
-Recon,L96A1,Green Laser Sight,Optic,BattlePack
-Recon,L96A1,IRNV (IR 1X),Optic,BattlePack
-Recon,L96A1,Kobra (RDS),Optic,BattlePack
-Recon,L96A1,LS06 Suppressor,Barrel,BattlePack
-Recon,L96A1,PBS-4 Suppressor,Barrel,BattlePack
-Recon,L96A1,Laser/Light Combo,Accessory,BattlePack
-Recon,L96A1,PKA-S (1X),Optic,BattlePack
-Recon,L96A1,PK-A (3.4X),Optic,BattlePack
-Recon,L96A1,PKS-07 (7X),Optic,BattlePack
-Recon,L96A1,PSO-1 (4X),Optic,BattlePack
-Recon,L96A1,R2 Suppressor,Barrel,BattlePack
-Recon,L96A1,Tactical Light,Accessory,BattlePack
-Recon,L96A1,Tri Beam Laser,Accessory,BattlePack
-Recon,L96A1,HD-33 (1X),Optic,BattlePack
-Recon,L96A1,Hunter (20X),Optic,BattlePack
 Recon,GOL Magnum,Iron Sights,Optic,Default
 Recon,GOL Magnum,Rifle Scope (8X),Optic,Default
 Recon,GOL Magnum,Variable Zoom (14X),Accessory,10 Kills
@@ -3402,7 +3366,6 @@ Recon_gadgets,Radio Beacon,,,
 Recon_gadgets,Spec Ops,,,
 Recon_gadgets,T-UGS,,,
 Recon_gadgets,SOFLAM,,,
-Recon_gadgets,Sniper,,,
 Recon_gadgets,MAV,,,
 Recon_gadgets,M18 Claymore,,,
 Recon_gadgets,SUAV,,,
