@@ -24,8 +24,23 @@ class Loadouts:
         for gear in self.gear:
             if gear['Class'] == equipment_filter or (equipment_filter in self.bf_classes and gear['Class'] == 'All'):
                 if gear['Weapon'] not in equipments:
-                    equipments.append(gear['Weapon'])
+                    if gear['Class'] == f'{self.bf_class}_gadgets':
+                        equipments.append((gear['Weapon'], gear['Gadget Group']))
+                    else:
+                        equipments.append(gear['Weapon'])
         return choice(equipments)
+
+    def choose_gadgets(self) -> list[tuple]:
+        index = 0
+        gadgets = []
+        while index < 2:
+            gadget = self.choose_loadout(equipment_filter=f'{self.bf_class}_gadgets')
+            if any('Launcher' in gd for gd in gadget) and any('Launcher' in gd for gd in gadgets):
+                continue
+            if gadget not in gadgets:
+                gadgets.append(gadget)
+                index += 1
+        return gadgets
 
     def choose_weapon_attachments(self, weapon:str, unlock_filter:str=None) -> list:
         attachment_types = []
@@ -53,7 +68,7 @@ if __name__ == '__main__':
     secondary_weapon = loadout.choose_loadout(equipment_filter='Handgun')
     secondary_weapon_attachments = loadout.choose_weapon_attachments(secondary_weapon, unlock_filter=None)
     granade = loadout.choose_loadout(equipment_filter='Granade')
-    gadget = loadout.choose_loadout(equipment_filter=f'{bf_class}_gadgets')
+    gadgets = loadout.choose_gadgets(equipment_filter=bf_class)
 
     print(f'Class: {bf_class}, Weapon: {primary_weapon} - Attachments: {primary_weapon_attachments}, Handgun: {secondary_weapon} - \
-Attachments: {secondary_weapon_attachments}, Granade: {granade}, Gadget: {gadget}')
+Attachments: {secondary_weapon_attachments}, Granade: {granade}, Gadget_one: {gadgets[0][0]}, Gadget_two: {gadgets[1][0]}')
