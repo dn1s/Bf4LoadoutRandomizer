@@ -1,4 +1,4 @@
-from Bf4LoadoutRandomizer import Loadouts
+from . import Loadouts
 from flask import Flask
 from flask import render_template
 
