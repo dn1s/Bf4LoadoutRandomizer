@@ -23,6 +23,6 @@ pip install Flask
 
 Run as website:
 ```
-cd Bf4LoadoutRandomizer
+cd Bf4LoadoutRandomizer/loadouts
 flask --app loadout_webserver run
 ```
